@@ -1,0 +1,5001 @@
+date,region,app,severity
+2025-04-13,North America,Instagram,medium
+2025-09-28,Asia,WhatsApp,low
+2025-04-17,North America,Messenger,low
+2025-03-13,South America,WhatsApp,medium
+2025-07-08,Asia,Facebook,low
+2025-01-21,Africa,Messenger,low
+2025-04-13,Asia,Facebook,low
+2025-05-02,South America,Messenger,low
+2025-08-03,Africa,Facebook,medium
+2025-03-29,Asia,Messenger,high
+2025-04-10,North America,Facebook,low
+2025-06-01,Europe,Messenger,low
+2025-05-11,Europe,Facebook,medium
+2025-05-30,North America,Messenger,high
+2025-09-15,Europe,Facebook,low
+2025-07-11,Europe,Instagram,low
+2025-06-10,North America,WhatsApp,medium
+2025-01-22,North America,Messenger,medium
+2025-09-10,Asia,Facebook,low
+2025-08-24,Asia,Instagram,medium
+2025-02-18,North America,Messenger,low
+2025-02-28,South America,Messenger,low
+2025-06-19,Europe,Messenger,low
+2025-07-07,Asia,WhatsApp,medium
+2025-09-28,Europe,Facebook,low
+2025-07-09,Africa,Facebook,low
+2025-06-24,North America,Messenger,low
+2025-02-20,South America,Messenger,medium
+2025-02-24,Africa,Messenger,low
+2025-09-01,Africa,Instagram,low
+2025-05-11,Africa,Messenger,low
+2025-05-15,North America,WhatsApp,medium
+2025-01-21,Asia,Facebook,low
+2025-06-16,North America,WhatsApp,low
+2025-03-30,Asia,Messenger,low
+2025-01-14,Africa,Instagram,medium
+2025-08-30,Africa,Messenger,low
+2025-09-22,South America,Messenger,medium
+2025-02-22,Asia,Messenger,medium
+2025-04-02,Africa,Messenger,high
+2025-09-21,Europe,Messenger,low
+2025-02-04,South America,Facebook,high
+2025-07-25,North America,WhatsApp,low
+2025-03-22,South America,Instagram,low
+2025-02-19,Europe,Messenger,medium
+2025-01-02,Asia,Instagram,low
+2025-02-23,North America,Facebook,low
+2025-04-16,North America,WhatsApp,low
+2025-09-17,Asia,Messenger,medium
+2025-07-10,South America,Facebook,low
+2025-08-06,Africa,Facebook,medium
+2025-02-13,South America,WhatsApp,medium
+2025-06-11,Europe,Messenger,medium
+2025-07-21,Africa,WhatsApp,low
+2025-09-27,South America,WhatsApp,high
+2025-09-28,Asia,Instagram,low
+2025-08-03,Europe,Instagram,low
+2025-09-09,Europe,WhatsApp,low
+2025-07-09,Europe,Instagram,low
+2025-08-01,Africa,Facebook,low
+2025-07-27,North America,WhatsApp,low
+2025-08-25,Africa,Messenger,low
+2025-02-22,South America,Messenger,low
+2025-08-05,North America,Facebook,medium
+2025-09-09,South America,Messenger,medium
+2025-07-07,North America,Messenger,medium
+2025-02-10,Africa,WhatsApp,low
+2025-06-06,Europe,Facebook,low
+2025-01-15,Asia,WhatsApp,high
+2025-03-06,Europe,Facebook,low
+2025-01-09,Africa,WhatsApp,medium
+2025-05-09,North America,WhatsApp,low
+2025-05-16,Europe,Instagram,high
+2025-03-04,Africa,Messenger,low
+2025-05-19,South America,Facebook,low
+2025-03-22,Asia,Messenger,medium
+2025-06-12,Europe,Instagram,low
+2025-09-18,North America,Facebook,low
+2025-08-19,South America,Instagram,low
+2025-02-10,Africa,Messenger,medium
+2025-01-28,Asia,WhatsApp,low
+2025-05-15,North America,Instagram,low
+2025-07-20,Africa,Instagram,low
+2025-09-25,Africa,WhatsApp,low
+2025-02-02,Europe,Messenger,medium
+2025-02-17,Europe,Instagram,low
+2025-03-03,North America,Messenger,low
+2025-08-04,Africa,WhatsApp,low
+2025-04-09,Europe,Facebook,low
+2025-06-21,Asia,Instagram,low
+2025-08-02,Asia,Messenger,low
+2025-02-04,Africa,WhatsApp,low
+2025-08-15,Europe,WhatsApp,high
+2025-04-11,North America,Instagram,low
+2025-05-11,North America,Facebook,medium
+2025-09-14,North America,Instagram,low
+2025-01-05,Asia,Messenger,low
+2025-08-06,Europe,WhatsApp,low
+2025-09-12,Europe,Facebook,low
+2025-07-26,Asia,Messenger,high
+2025-01-15,North America,Instagram,high
+2025-02-11,North America,WhatsApp,medium
+2025-06-28,Africa,Instagram,medium
+2025-03-04,South America,Facebook,low
+2025-08-19,Europe,Facebook,low
+2025-08-29,Europe,Facebook,high
+2025-02-21,Europe,Facebook,medium
+2025-04-06,South America,Facebook,low
+2025-08-10,Africa,Instagram,low
+2025-08-19,South America,Facebook,low
+2025-08-25,North America,Facebook,high
+2025-05-23,North America,WhatsApp,low
+2025-06-20,Europe,Facebook,low
+2025-01-29,Asia,WhatsApp,low
+2025-02-05,Europe,WhatsApp,medium
+2025-01-13,Asia,WhatsApp,low
+2025-06-09,South America,Instagram,medium
+2025-07-06,North America,Instagram,low
+2025-08-31,Asia,Messenger,medium
+2025-03-27,South America,Messenger,medium
+2025-03-07,North America,WhatsApp,low
+2025-06-19,Asia,Instagram,low
+2025-02-14,Europe,Facebook,low
+2025-03-03,Europe,Messenger,low
+2025-05-14,Europe,Instagram,medium
+2025-01-28,South America,Facebook,low
+2025-04-18,Europe,Facebook,low
+2025-02-13,Africa,Instagram,low
+2025-05-08,North America,Messenger,low
+2025-08-19,South America,Instagram,medium
+2025-07-09,Europe,Messenger,low
+2025-08-13,North America,WhatsApp,high
+2025-05-01,Asia,Instagram,high
+2025-04-26,Europe,Instagram,low
+2025-08-21,North America,Messenger,low
+2025-09-16,Africa,Messenger,medium
+2025-07-17,Asia,Instagram,low
+2025-05-17,Africa,Facebook,low
+2025-06-14,North America,Facebook,low
+2025-08-13,Africa,Facebook,low
+2025-08-22,North America,WhatsApp,medium
+2025-06-21,North America,WhatsApp,low
+2025-06-01,Africa,Messenger,low
+2025-06-09,North America,WhatsApp,high
+2025-04-06,Europe,Facebook,medium
+2025-08-21,North America,Instagram,low
+2025-06-29,South America,WhatsApp,medium
+2025-04-23,North America,WhatsApp,low
+2025-02-21,South America,Facebook,medium
+2025-09-25,North America,WhatsApp,low
+2025-04-23,North America,Messenger,low
+2025-04-11,Africa,Instagram,medium
+2025-04-23,Europe,Facebook,low
+2025-03-22,Europe,Messenger,high
+2025-07-06,Asia,Facebook,low
+2025-04-23,Africa,Messenger,high
+2025-01-02,Africa,Instagram,high
+2025-05-10,Europe,Instagram,low
+2025-08-08,Africa,Messenger,medium
+2025-02-23,Europe,Messenger,low
+2025-08-12,Africa,Messenger,high
+2025-08-13,North America,Messenger,low
+2025-05-06,Europe,Messenger,medium
+2025-05-10,Europe,Messenger,low
+2025-02-22,South America,Instagram,low
+2025-06-21,Africa,Messenger,low
+2025-08-06,Africa,WhatsApp,low
+2025-06-09,Europe,Instagram,medium
+2025-07-17,North America,Facebook,medium
+2025-09-04,North America,Instagram,medium
+2025-07-22,North America,Facebook,low
+2025-07-03,Africa,Facebook,low
+2025-05-03,South America,WhatsApp,low
+2025-09-12,Europe,Messenger,medium
+2025-04-08,Asia,Messenger,high
+2025-07-17,South America,Instagram,low
+2025-08-28,Asia,Messenger,low
+2025-05-24,South America,WhatsApp,low
+2025-04-07,North America,Instagram,medium
+2025-07-20,Africa,Instagram,medium
+2025-05-04,Asia,Instagram,medium
+2025-07-06,South America,Messenger,low
+2025-09-16,Africa,Messenger,medium
+2025-05-28,Asia,Messenger,medium
+2025-09-09,Europe,Instagram,low
+2025-05-27,South America,Instagram,low
+2025-05-28,Europe,Facebook,low
+2025-07-18,North America,Facebook,low
+2025-05-08,Europe,Messenger,medium
+2025-02-08,Europe,Instagram,low
+2025-05-09,South America,Messenger,medium
+2025-09-24,North America,Messenger,low
+2025-05-31,Europe,Facebook,low
+2025-04-09,Africa,WhatsApp,low
+2025-09-20,Asia,Messenger,low
+2025-09-09,Europe,WhatsApp,low
+2025-05-24,North America,WhatsApp,low
+2025-04-22,Europe,Instagram,low
+2025-03-01,Asia,Instagram,low
+2025-01-02,North America,Messenger,low
+2025-09-11,South America,Facebook,low
+2025-05-20,North America,Facebook,low
+2025-02-06,South America,Messenger,high
+2025-06-09,North America,Messenger,low
+2025-01-09,Asia,Facebook,medium
+2025-08-21,Asia,WhatsApp,low
+2025-04-09,North America,Messenger,medium
+2025-05-27,Europe,WhatsApp,low
+2025-07-27,Asia,Messenger,high
+2025-05-11,South America,Messenger,low
+2025-06-01,South America,WhatsApp,medium
+2025-02-23,Africa,WhatsApp,low
+2025-04-30,South America,Facebook,low
+2025-06-10,Africa,Messenger,medium
+2025-04-26,North America,Instagram,low
+2025-03-16,North America,Instagram,low
+2025-04-23,North America,Messenger,low
+2025-04-14,Europe,Messenger,medium
+2025-09-11,Europe,Messenger,high
+2025-08-15,Africa,WhatsApp,low
+2025-04-22,South America,Instagram,medium
+2025-04-09,South America,Instagram,low
+2025-06-02,North America,Instagram,low
+2025-07-13,Asia,Messenger,high
+2025-06-12,Europe,WhatsApp,medium
+2025-07-27,Europe,Messenger,medium
+2025-06-18,North America,Facebook,low
+2025-06-10,Europe,Facebook,low
+2025-03-09,North America,Instagram,low
+2025-05-15,Africa,Messenger,low
+2025-07-14,South America,Facebook,low
+2025-05-08,Asia,Facebook,medium
+2025-02-02,South America,Messenger,medium
+2025-06-25,South America,WhatsApp,low
+2025-01-22,Africa,Messenger,low
+2025-08-26,Europe,Messenger,medium
+2025-06-07,Asia,WhatsApp,low
+2025-02-07,Europe,Instagram,medium
+2025-08-18,South America,Instagram,low
+2025-02-20,North America,Instagram,low
+2025-09-21,South America,WhatsApp,high
+2025-01-27,Europe,Facebook,low
+2025-08-14,South America,WhatsApp,low
+2025-04-07,North America,Messenger,low
+2025-05-27,Africa,WhatsApp,high
+2025-01-04,Europe,Facebook,medium
+2025-02-04,South America,Facebook,low
+2025-07-11,Europe,Messenger,low
+2025-02-18,Africa,Instagram,medium
+2025-01-17,South America,Facebook,low
+2025-06-21,South America,Facebook,medium
+2025-08-08,Europe,Facebook,low
+2025-06-07,Europe,Messenger,low
+2025-02-15,North America,Facebook,medium
+2025-01-06,Africa,Instagram,low
+2025-04-09,North America,Messenger,medium
+2025-08-21,South America,Instagram,low
+2025-02-06,Europe,Facebook,low
+2025-06-30,South America,Facebook,high
+2025-04-05,South America,Instagram,low
+2025-04-09,Asia,Messenger,medium
+2025-07-07,Asia,Messenger,low
+2025-04-26,South America,Instagram,medium
+2025-07-10,Europe,Facebook,medium
+2025-09-10,South America,WhatsApp,low
+2025-06-10,Asia,Instagram,medium
+2025-09-13,Europe,Instagram,medium
+2025-05-08,South America,Instagram,low
+2025-01-18,Africa,Facebook,low
+2025-08-11,Africa,Messenger,low
+2025-02-23,South America,Facebook,low
+2025-02-27,Europe,Instagram,low
+2025-06-23,South America,Facebook,low
+2025-04-24,South America,Facebook,low
+2025-05-31,Asia,Instagram,medium
+2025-05-07,Africa,Facebook,low
+2025-06-04,Asia,WhatsApp,high
+2025-04-14,Asia,Facebook,low
+2025-09-03,South America,Facebook,low
+2025-06-25,Asia,Messenger,medium
+2025-02-08,Africa,Messenger,low
+2025-06-19,Asia,Instagram,low
+2025-09-04,Africa,Instagram,low
+2025-01-26,Asia,Messenger,low
+2025-01-13,Africa,WhatsApp,low
+2025-02-05,Asia,Facebook,high
+2025-06-22,Asia,WhatsApp,low
+2025-01-20,Europe,WhatsApp,medium
+2025-09-21,Africa,Messenger,medium
+2025-05-22,Africa,Instagram,low
+2025-05-23,Africa,Facebook,low
+2025-04-02,North America,Instagram,medium
+2025-08-03,Asia,WhatsApp,medium
+2025-02-20,Africa,WhatsApp,low
+2025-06-02,North America,Instagram,low
+2025-07-05,Europe,Instagram,low
+2025-03-04,Africa,Messenger,low
+2025-07-09,Africa,Instagram,low
+2025-05-05,North America,Instagram,medium
+2025-05-30,Asia,Messenger,low
+2025-02-27,Europe,Instagram,medium
+2025-06-29,Africa,WhatsApp,medium
+2025-06-19,Asia,Instagram,low
+2025-09-28,Europe,Facebook,low
+2025-02-23,South America,WhatsApp,medium
+2025-04-11,South America,Messenger,medium
+2025-09-21,Europe,WhatsApp,medium
+2025-02-22,North America,Messenger,low
+2025-03-01,Europe,Facebook,low
+2025-04-18,Europe,Facebook,low
+2025-01-05,North America,WhatsApp,low
+2025-04-13,North America,Instagram,medium
+2025-07-15,Asia,WhatsApp,low
+2025-09-19,Asia,WhatsApp,medium
+2025-02-16,North America,Facebook,low
+2025-05-24,South America,Messenger,medium
+2025-09-26,South America,WhatsApp,high
+2025-05-04,Europe,Instagram,low
+2025-04-16,Africa,Facebook,high
+2025-06-07,Europe,WhatsApp,low
+2025-05-27,Europe,WhatsApp,low
+2025-05-25,Africa,Instagram,medium
+2025-04-30,North America,WhatsApp,high
+2025-04-02,South America,WhatsApp,low
+2025-02-27,Europe,WhatsApp,low
+2025-08-17,Africa,WhatsApp,medium
+2025-04-27,Asia,Instagram,medium
+2025-05-07,Europe,WhatsApp,low
+2025-05-09,South America,WhatsApp,medium
+2025-02-27,North America,WhatsApp,low
+2025-05-02,Europe,Facebook,low
+2025-01-01,Europe,Instagram,low
+2025-08-27,Africa,Facebook,low
+2025-04-06,Asia,Facebook,high
+2025-05-06,Asia,Instagram,low
+2025-04-28,North America,Facebook,high
+2025-02-17,South America,Facebook,low
+2025-03-30,North America,Facebook,medium
+2025-08-25,Europe,Instagram,medium
+2025-07-08,Europe,WhatsApp,medium
+2025-07-11,Asia,Messenger,medium
+2025-03-10,South America,Messenger,low
+2025-09-04,Africa,Instagram,medium
+2025-03-17,South America,Messenger,medium
+2025-06-03,Europe,Instagram,low
+2025-05-24,Africa,Instagram,medium
+2025-03-27,South America,Messenger,low
+2025-07-04,South America,Facebook,low
+2025-08-08,Africa,WhatsApp,medium
+2025-03-10,Europe,Messenger,low
+2025-02-16,South America,Messenger,medium
+2025-04-04,Africa,Messenger,low
+2025-08-26,Europe,Messenger,low
+2025-07-23,Africa,Instagram,low
+2025-08-06,Africa,Instagram,low
+2025-02-08,South America,WhatsApp,medium
+2025-04-10,Europe,WhatsApp,low
+2025-09-11,South America,Messenger,low
+2025-08-10,North America,Messenger,low
+2025-01-23,North America,Messenger,low
+2025-09-07,Europe,WhatsApp,medium
+2025-01-10,Africa,Messenger,low
+2025-09-03,South America,Facebook,medium
+2025-04-10,South America,WhatsApp,high
+2025-06-29,Europe,Facebook,medium
+2025-08-11,Europe,Messenger,medium
+2025-09-07,North America,Instagram,low
+2025-05-27,Asia,Facebook,low
+2025-04-06,Europe,WhatsApp,medium
+2025-09-14,Asia,Facebook,medium
+2025-01-04,Europe,WhatsApp,medium
+2025-01-16,Africa,Messenger,medium
+2025-09-04,Africa,Facebook,low
+2025-09-15,North America,Instagram,low
+2025-06-09,North America,Facebook,medium
+2025-06-01,Asia,Instagram,medium
+2025-06-27,Europe,WhatsApp,low
+2025-06-12,South America,Messenger,medium
+2025-02-02,North America,Messenger,low
+2025-06-28,South America,Instagram,low
+2025-04-11,South America,WhatsApp,medium
+2025-09-25,Europe,Messenger,medium
+2025-03-06,Asia,WhatsApp,low
+2025-06-17,Europe,Instagram,low
+2025-02-12,North America,Instagram,low
+2025-02-13,South America,Facebook,medium
+2025-01-12,Europe,Messenger,low
+2025-04-05,Europe,Messenger,medium
+2025-09-10,Europe,Facebook,high
+2025-08-30,North America,Instagram,medium
+2025-02-04,Asia,Instagram,low
+2025-08-03,Europe,Instagram,medium
+2025-03-31,North America,Instagram,low
+2025-09-21,South America,WhatsApp,low
+2025-04-03,Africa,Messenger,low
+2025-03-31,North America,Messenger,low
+2025-04-25,Africa,Instagram,high
+2025-04-15,Europe,Instagram,low
+2025-07-15,Europe,Instagram,low
+2025-04-24,North America,Messenger,high
+2025-03-16,Africa,Messenger,low
+2025-08-05,Europe,Instagram,medium
+2025-09-06,South America,WhatsApp,low
+2025-06-13,Asia,Facebook,low
+2025-07-11,Asia,Facebook,high
+2025-08-15,Europe,Facebook,low
+2025-06-26,Africa,Messenger,low
+2025-04-09,Europe,Messenger,low
+2025-02-05,Africa,Facebook,low
+2025-04-06,South America,Facebook,low
+2025-06-01,Africa,WhatsApp,low
+2025-05-31,Europe,Messenger,low
+2025-07-09,South America,Messenger,medium
+2025-08-12,North America,Facebook,low
+2025-02-06,Asia,WhatsApp,low
+2025-09-25,Europe,WhatsApp,low
+2025-07-02,Europe,Facebook,high
+2025-01-13,Europe,Facebook,high
+2025-08-05,South America,Messenger,medium
+2025-03-03,North America,Facebook,medium
+2025-03-25,Africa,Instagram,low
+2025-08-05,North America,WhatsApp,low
+2025-07-06,South America,Facebook,medium
+2025-01-19,Europe,Instagram,medium
+2025-06-26,Asia,WhatsApp,low
+2025-04-10,Europe,Instagram,low
+2025-08-21,Africa,Instagram,high
+2025-03-17,Asia,Facebook,medium
+2025-09-22,Europe,WhatsApp,low
+2025-07-25,Asia,Instagram,medium
+2025-08-11,North America,Messenger,low
+2025-02-21,South America,WhatsApp,low
+2025-05-24,Europe,Messenger,low
+2025-03-10,Africa,Facebook,low
+2025-04-09,North America,Messenger,low
+2025-01-25,Europe,WhatsApp,medium
+2025-02-22,North America,Instagram,low
+2025-05-31,Africa,Instagram,low
+2025-05-24,Europe,WhatsApp,low
+2025-02-26,Africa,Instagram,low
+2025-02-08,Asia,Messenger,medium
+2025-04-19,Africa,Instagram,medium
+2025-06-30,Asia,Instagram,high
+2025-02-11,Europe,Messenger,high
+2025-07-05,Asia,Messenger,low
+2025-08-11,Europe,Messenger,low
+2025-05-02,Europe,Facebook,medium
+2025-05-13,South America,Messenger,high
+2025-06-12,Europe,Messenger,medium
+2025-08-03,Asia,Facebook,medium
+2025-08-09,South America,Instagram,medium
+2025-08-23,South America,Messenger,low
+2025-05-26,Europe,WhatsApp,low
+2025-08-27,Africa,Messenger,medium
+2025-03-17,Africa,Messenger,medium
+2025-01-09,South America,Facebook,low
+2025-03-15,Europe,WhatsApp,low
+2025-09-10,Africa,Instagram,low
+2025-08-18,Europe,Instagram,low
+2025-01-07,Europe,WhatsApp,high
+2025-06-23,South America,Messenger,low
+2025-05-21,South America,Facebook,low
+2025-06-17,North America,WhatsApp,low
+2025-06-19,Africa,WhatsApp,medium
+2025-05-02,Africa,Instagram,low
+2025-07-13,Africa,Facebook,low
+2025-01-05,Asia,WhatsApp,low
+2025-01-29,Europe,Facebook,low
+2025-06-14,South America,Messenger,low
+2025-05-16,Africa,Instagram,low
+2025-05-25,North America,Messenger,high
+2025-08-05,Africa,Facebook,low
+2025-05-12,Europe,Messenger,low
+2025-03-11,Europe,Instagram,medium
+2025-09-09,South America,Facebook,low
+2025-07-01,Asia,WhatsApp,medium
+2025-06-16,South America,Messenger,low
+2025-04-01,Africa,Instagram,low
+2025-07-21,North America,WhatsApp,medium
+2025-01-19,South America,Instagram,high
+2025-02-08,Asia,Facebook,low
+2025-05-06,South America,Facebook,low
+2025-06-22,Europe,Messenger,low
+2025-05-21,Africa,Instagram,high
+2025-08-30,Africa,Instagram,high
+2025-08-08,Africa,Instagram,low
+2025-05-06,Africa,Facebook,low
+2025-02-27,Africa,Messenger,low
+2025-05-28,Africa,Instagram,low
+2025-01-01,North America,Instagram,low
+2025-07-09,Asia,WhatsApp,low
+2025-07-10,Africa,Instagram,medium
+2025-04-27,Asia,Messenger,high
+2025-05-14,Africa,WhatsApp,high
+2025-02-27,South America,WhatsApp,low
+2025-02-13,Africa,WhatsApp,low
+2025-06-22,Europe,Facebook,medium
+2025-06-09,North America,WhatsApp,low
+2025-06-22,South America,Instagram,medium
+2025-05-29,South America,Facebook,low
+2025-03-21,Europe,Facebook,low
+2025-08-01,Africa,Facebook,low
+2025-07-22,North America,Facebook,low
+2025-09-09,South America,Facebook,medium
+2025-08-17,North America,Facebook,low
+2025-06-13,South America,Facebook,low
+2025-08-15,Africa,WhatsApp,low
+2025-05-27,South America,Messenger,medium
+2025-01-20,South America,Instagram,low
+2025-02-16,Asia,Instagram,low
+2025-08-21,Africa,WhatsApp,low
+2025-01-14,Europe,WhatsApp,low
+2025-05-23,Europe,Facebook,low
+2025-01-01,Africa,Messenger,medium
+2025-02-23,Europe,Facebook,low
+2025-09-16,Africa,WhatsApp,low
+2025-05-24,Europe,Facebook,medium
+2025-01-12,Asia,Instagram,low
+2025-08-12,Europe,Instagram,low
+2025-06-05,South America,Facebook,low
+2025-01-08,Africa,Messenger,low
+2025-05-02,North America,Facebook,medium
+2025-06-13,North America,Facebook,medium
+2025-03-31,Africa,Messenger,medium
+2025-05-16,Asia,Messenger,medium
+2025-07-05,Europe,Messenger,low
+2025-06-27,Asia,Instagram,low
+2025-01-28,North America,Facebook,low
+2025-08-08,Africa,WhatsApp,low
+2025-02-10,Africa,Messenger,high
+2025-08-16,Asia,Messenger,medium
+2025-07-11,Asia,Facebook,low
+2025-05-25,Europe,WhatsApp,low
+2025-07-20,South America,Facebook,low
+2025-07-31,South America,Facebook,low
+2025-08-08,Europe,Messenger,low
+2025-08-28,South America,Messenger,low
+2025-02-15,North America,Instagram,medium
+2025-02-04,South America,WhatsApp,medium
+2025-09-10,Europe,WhatsApp,low
+2025-03-23,South America,Messenger,low
+2025-09-13,Africa,Messenger,low
+2025-07-16,Asia,Messenger,medium
+2025-01-10,North America,WhatsApp,medium
+2025-08-30,Africa,Instagram,high
+2025-09-08,Africa,WhatsApp,low
+2025-01-05,Europe,Messenger,medium
+2025-04-29,Asia,Messenger,low
+2025-03-06,Asia,Instagram,low
+2025-05-26,North America,Facebook,low
+2025-08-12,Europe,Facebook,low
+2025-08-27,North America,WhatsApp,medium
+2025-06-26,South America,Facebook,low
+2025-09-24,Africa,Facebook,low
+2025-03-04,North America,WhatsApp,low
+2025-08-05,Africa,Messenger,low
+2025-06-26,Europe,Facebook,low
+2025-04-08,South America,Messenger,low
+2025-04-15,Europe,WhatsApp,low
+2025-04-09,South America,Messenger,low
+2025-01-06,South America,Messenger,high
+2025-07-16,Africa,WhatsApp,low
+2025-05-13,Europe,Messenger,low
+2025-09-16,Europe,Facebook,low
+2025-01-23,North America,Facebook,medium
+2025-02-22,Europe,Facebook,medium
+2025-06-14,North America,Facebook,low
+2025-07-21,Asia,Messenger,low
+2025-03-24,Asia,Facebook,medium
+2025-05-25,Asia,Messenger,medium
+2025-03-26,Europe,Instagram,medium
+2025-03-19,Europe,Messenger,medium
+2025-01-01,North America,Facebook,medium
+2025-02-20,South America,Instagram,low
+2025-06-22,North America,WhatsApp,low
+2025-07-24,Asia,Messenger,medium
+2025-09-17,North America,Facebook,medium
+2025-02-03,South America,Facebook,low
+2025-04-05,Europe,Facebook,high
+2025-03-13,North America,WhatsApp,low
+2025-02-08,Asia,Instagram,low
+2025-06-03,Asia,Instagram,medium
+2025-09-07,Europe,Facebook,low
+2025-06-11,North America,Messenger,low
+2025-04-28,South America,Facebook,low
+2025-09-16,Europe,Facebook,low
+2025-09-25,North America,Messenger,low
+2025-02-23,Africa,Facebook,low
+2025-08-24,Asia,WhatsApp,low
+2025-08-10,South America,Facebook,high
+2025-09-08,South America,WhatsApp,high
+2025-04-22,South America,Facebook,low
+2025-09-12,Asia,Instagram,medium
+2025-07-26,North America,Messenger,low
+2025-08-17,Europe,Instagram,low
+2025-03-07,North America,Facebook,low
+2025-03-16,Europe,Facebook,high
+2025-04-13,South America,WhatsApp,high
+2025-07-11,North America,Facebook,low
+2025-09-09,South America,Facebook,low
+2025-08-14,Africa,Facebook,low
+2025-04-08,South America,Instagram,low
+2025-09-06,South America,WhatsApp,low
+2025-06-15,Europe,Instagram,low
+2025-01-30,Africa,WhatsApp,medium
+2025-09-04,South America,Instagram,low
+2025-04-16,South America,Facebook,high
+2025-02-20,Africa,Instagram,medium
+2025-03-22,Africa,Instagram,low
+2025-05-13,North America,WhatsApp,medium
+2025-05-18,Europe,WhatsApp,medium
+2025-07-03,Africa,Instagram,low
+2025-03-10,Africa,WhatsApp,low
+2025-02-03,Asia,WhatsApp,high
+2025-09-19,Africa,WhatsApp,low
+2025-02-22,Europe,Messenger,low
+2025-07-24,South America,WhatsApp,low
+2025-05-06,South America,Messenger,medium
+2025-08-23,South America,Messenger,medium
+2025-02-12,South America,WhatsApp,high
+2025-08-28,Asia,Instagram,low
+2025-04-21,Africa,WhatsApp,low
+2025-09-06,South America,Facebook,low
+2025-05-31,North America,Instagram,medium
+2025-07-02,South America,Messenger,low
+2025-04-05,Africa,Messenger,low
+2025-01-08,South America,Instagram,low
+2025-07-03,Asia,Instagram,low
+2025-07-14,Europe,WhatsApp,medium
+2025-07-14,Europe,Messenger,medium
+2025-06-04,Africa,Facebook,high
+2025-04-03,Europe,WhatsApp,low
+2025-06-09,Europe,Instagram,high
+2025-03-02,North America,Messenger,medium
+2025-05-02,Africa,Instagram,low
+2025-02-20,Africa,Instagram,high
+2025-01-05,Europe,Instagram,low
+2025-04-02,Europe,WhatsApp,medium
+2025-06-19,Europe,Facebook,medium
+2025-01-22,Asia,Facebook,medium
+2025-01-01,South America,Messenger,low
+2025-05-13,Asia,Instagram,low
+2025-08-21,Africa,Facebook,low
+2025-01-12,North America,Instagram,low
+2025-02-15,South America,Messenger,medium
+2025-02-03,North America,Instagram,medium
+2025-03-19,Africa,Facebook,high
+2025-08-06,Africa,Instagram,low
+2025-03-14,North America,Facebook,medium
+2025-09-06,North America,Messenger,high
+2025-02-16,North America,Instagram,medium
+2025-05-01,Africa,Facebook,low
+2025-08-02,Europe,Messenger,low
+2025-08-27,North America,Instagram,low
+2025-02-25,South America,Messenger,medium
+2025-04-17,Africa,Facebook,medium
+2025-02-17,Asia,Instagram,high
+2025-03-02,Asia,Instagram,low
+2025-01-26,South America,Instagram,low
+2025-09-14,Europe,Messenger,medium
+2025-01-08,North America,Messenger,medium
+2025-04-23,Africa,Facebook,high
+2025-09-10,North America,WhatsApp,medium
+2025-06-29,Africa,Instagram,low
+2025-07-26,Asia,Instagram,medium
+2025-05-07,North America,Facebook,medium
+2025-02-25,South America,Instagram,low
+2025-08-02,Europe,Messenger,low
+2025-01-14,South America,Messenger,low
+2025-01-28,Europe,Instagram,low
+2025-03-19,North America,Instagram,medium
+2025-08-04,North America,Messenger,low
+2025-06-03,Europe,Instagram,low
+2025-01-14,Asia,Messenger,low
+2025-07-06,Africa,WhatsApp,low
+2025-01-07,South America,WhatsApp,low
+2025-01-03,South America,Instagram,medium
+2025-04-21,South America,Instagram,low
+2025-08-26,North America,Instagram,low
+2025-08-27,South America,Messenger,low
+2025-08-15,Africa,WhatsApp,low
+2025-01-15,Africa,WhatsApp,low
+2025-07-11,Europe,Facebook,low
+2025-04-29,North America,Facebook,medium
+2025-01-28,Africa,Instagram,medium
+2025-07-21,Asia,Messenger,low
+2025-02-08,North America,Instagram,low
+2025-08-19,North America,WhatsApp,high
+2025-03-27,Africa,Instagram,medium
+2025-05-06,Asia,Instagram,low
+2025-01-25,Europe,WhatsApp,medium
+2025-05-25,Africa,WhatsApp,medium
+2025-01-13,Asia,WhatsApp,medium
+2025-07-31,North America,WhatsApp,low
+2025-01-25,Asia,Facebook,low
+2025-03-09,North America,Messenger,low
+2025-03-08,Africa,Messenger,high
+2025-08-21,Africa,WhatsApp,medium
+2025-04-19,South America,Messenger,low
+2025-05-26,South America,Messenger,high
+2025-04-21,South America,Messenger,high
+2025-08-16,Africa,Messenger,high
+2025-04-21,Europe,WhatsApp,medium
+2025-02-03,Africa,Instagram,high
+2025-04-21,Asia,Instagram,low
+2025-09-21,Africa,Instagram,medium
+2025-08-24,Africa,Facebook,medium
+2025-03-24,North America,Messenger,low
+2025-02-11,North America,WhatsApp,low
+2025-04-11,North America,WhatsApp,high
+2025-01-06,Africa,Facebook,low
+2025-06-29,Europe,WhatsApp,medium
+2025-08-14,Asia,Instagram,low
+2025-08-17,Asia,Facebook,low
+2025-05-30,Europe,WhatsApp,low
+2025-07-17,Europe,Facebook,low
+2025-03-11,Asia,Facebook,medium
+2025-04-22,South America,WhatsApp,low
+2025-01-04,North America,Instagram,low
+2025-04-05,North America,WhatsApp,low
+2025-06-01,Asia,Messenger,low
+2025-05-17,Europe,Messenger,low
+2025-09-04,South America,WhatsApp,medium
+2025-08-31,Asia,Instagram,low
+2025-01-31,North America,Messenger,low
+2025-02-09,Africa,Messenger,low
+2025-08-17,Europe,WhatsApp,low
+2025-02-05,Africa,WhatsApp,low
+2025-08-11,Asia,WhatsApp,low
+2025-01-06,North America,Facebook,medium
+2025-08-08,South America,Facebook,high
+2025-03-16,Africa,Facebook,medium
+2025-01-04,South America,WhatsApp,low
+2025-05-14,North America,Instagram,low
+2025-04-28,Africa,Messenger,low
+2025-04-04,South America,Facebook,medium
+2025-03-03,South America,Instagram,high
+2025-07-13,Africa,WhatsApp,low
+2025-07-22,North America,Facebook,low
+2025-01-26,South America,WhatsApp,medium
+2025-06-22,Asia,Instagram,medium
+2025-05-13,Africa,Facebook,medium
+2025-04-28,Europe,Facebook,medium
+2025-07-31,Europe,Facebook,high
+2025-08-13,North America,Facebook,low
+2025-01-20,Asia,Instagram,high
+2025-04-23,South America,Facebook,high
+2025-05-20,Europe,Messenger,medium
+2025-02-16,North America,Messenger,low
+2025-01-01,Asia,WhatsApp,low
+2025-03-31,Asia,Facebook,low
+2025-05-22,North America,Messenger,low
+2025-02-07,North America,Messenger,medium
+2025-05-19,South America,Messenger,low
+2025-09-16,North America,Instagram,low
+2025-06-10,South America,Facebook,medium
+2025-06-27,South America,Instagram,low
+2025-01-10,Africa,Instagram,low
+2025-09-18,Asia,Messenger,low
+2025-05-18,Asia,Messenger,medium
+2025-06-21,Asia,WhatsApp,low
+2025-01-13,Africa,Facebook,medium
+2025-06-17,South America,Facebook,low
+2025-05-10,South America,Messenger,high
+2025-03-25,North America,Messenger,low
+2025-04-11,Africa,Facebook,low
+2025-09-22,North America,WhatsApp,low
+2025-02-07,Africa,Messenger,low
+2025-04-04,North America,WhatsApp,low
+2025-04-05,Europe,Instagram,low
+2025-03-10,Asia,Messenger,low
+2025-08-24,Asia,Instagram,low
+2025-05-17,South America,Messenger,low
+2025-03-17,Europe,Instagram,low
+2025-02-04,Asia,Messenger,medium
+2025-01-01,South America,WhatsApp,high
+2025-03-01,Europe,WhatsApp,low
+2025-09-24,Asia,WhatsApp,low
+2025-08-17,North America,Instagram,high
+2025-09-27,Africa,WhatsApp,low
+2025-08-01,Europe,Instagram,high
+2025-06-14,South America,Messenger,low
+2025-01-05,Europe,Instagram,medium
+2025-03-19,South America,Messenger,low
+2025-03-03,Europe,Facebook,high
+2025-05-12,South America,Facebook,low
+2025-03-30,Asia,Facebook,medium
+2025-08-25,North America,Instagram,low
+2025-02-11,Asia,Facebook,low
+2025-03-30,North America,Facebook,medium
+2025-04-14,Asia,Facebook,low
+2025-01-14,Asia,Messenger,high
+2025-06-28,Europe,WhatsApp,low
+2025-05-05,Africa,Instagram,medium
+2025-01-23,South America,Facebook,low
+2025-03-04,South America,Messenger,high
+2025-05-23,South America,WhatsApp,high
+2025-06-02,North America,WhatsApp,low
+2025-05-25,South America,WhatsApp,medium
+2025-08-13,South America,Messenger,medium
+2025-04-14,Europe,Facebook,low
+2025-04-14,Asia,WhatsApp,medium
+2025-02-08,South America,Messenger,low
+2025-07-17,Africa,Messenger,medium
+2025-05-14,South America,Instagram,low
+2025-03-08,North America,Messenger,low
+2025-06-28,North America,WhatsApp,low
+2025-02-11,North America,WhatsApp,low
+2025-01-15,South America,Messenger,medium
+2025-04-21,Europe,WhatsApp,high
+2025-06-06,Africa,Messenger,low
+2025-08-19,South America,WhatsApp,low
+2025-06-06,Europe,Instagram,medium
+2025-02-07,Europe,Facebook,low
+2025-04-07,South America,Instagram,low
+2025-09-11,South America,Instagram,low
+2025-07-15,Europe,Facebook,low
+2025-03-27,Europe,WhatsApp,low
+2025-01-10,Europe,Facebook,medium
+2025-01-05,South America,Messenger,low
+2025-05-03,Europe,Facebook,medium
+2025-04-28,North America,Instagram,low
+2025-06-08,South America,Facebook,low
+2025-08-16,North America,WhatsApp,medium
+2025-08-04,Asia,Instagram,low
+2025-07-03,South America,Messenger,low
+2025-01-15,Asia,WhatsApp,medium
+2025-06-06,Europe,Instagram,low
+2025-05-16,Europe,Messenger,medium
+2025-09-18,Africa,WhatsApp,low
+2025-06-06,Europe,Messenger,medium
+2025-02-16,Asia,Facebook,low
+2025-06-22,Europe,Facebook,low
+2025-05-10,South America,Messenger,high
+2025-04-05,Europe,Facebook,medium
+2025-04-25,Africa,Messenger,low
+2025-08-31,Europe,WhatsApp,low
+2025-03-10,Asia,Instagram,low
+2025-05-28,Asia,Messenger,medium
+2025-01-11,Europe,Instagram,medium
+2025-09-11,Asia,Instagram,medium
+2025-02-07,Asia,Messenger,low
+2025-05-14,Africa,Facebook,medium
+2025-07-19,South America,WhatsApp,low
+2025-01-23,Africa,Instagram,low
+2025-08-06,North America,WhatsApp,low
+2025-05-21,Africa,Instagram,high
+2025-04-14,Europe,Messenger,medium
+2025-07-29,South America,Facebook,low
+2025-04-21,Europe,WhatsApp,medium
+2025-04-14,North America,Instagram,high
+2025-06-20,South America,Messenger,low
+2025-05-13,Asia,Messenger,low
+2025-05-07,Africa,Instagram,high
+2025-04-16,Europe,Instagram,medium
+2025-04-02,North America,Instagram,low
+2025-02-20,Asia,Facebook,low
+2025-01-29,Africa,Instagram,low
+2025-08-02,Asia,Instagram,low
+2025-09-24,Africa,Facebook,high
+2025-09-14,South America,Messenger,low
+2025-04-11,Asia,Instagram,medium
+2025-04-20,Asia,WhatsApp,low
+2025-07-01,Asia,Messenger,low
+2025-01-01,South America,WhatsApp,low
+2025-02-24,North America,Instagram,medium
+2025-05-29,Africa,Facebook,low
+2025-05-17,Asia,Facebook,medium
+2025-07-21,South America,Facebook,low
+2025-04-27,North America,Instagram,low
+2025-06-03,Africa,Instagram,low
+2025-03-04,South America,WhatsApp,low
+2025-09-01,Africa,Facebook,medium
+2025-01-25,Asia,Instagram,low
+2025-03-31,North America,Messenger,medium
+2025-03-16,South America,Instagram,low
+2025-07-29,North America,Instagram,low
+2025-01-17,Asia,Messenger,low
+2025-05-08,North America,Facebook,low
+2025-09-08,North America,Messenger,medium
+2025-06-28,Europe,Facebook,medium
+2025-07-01,North America,Messenger,low
+2025-06-01,Africa,WhatsApp,low
+2025-01-25,South America,Facebook,medium
+2025-06-29,Europe,Instagram,medium
+2025-07-17,South America,WhatsApp,medium
+2025-06-10,South America,Facebook,low
+2025-06-26,Asia,Facebook,low
+2025-03-04,Asia,Facebook,high
+2025-05-30,Europe,Messenger,medium
+2025-06-03,Asia,Facebook,low
+2025-06-05,Asia,Instagram,medium
+2025-02-18,Asia,Facebook,medium
+2025-03-25,South America,Instagram,low
+2025-06-26,Europe,Instagram,low
+2025-05-28,South America,Instagram,low
+2025-04-28,Africa,WhatsApp,low
+2025-03-04,South America,Instagram,medium
+2025-07-08,Africa,Messenger,low
+2025-02-18,North America,Facebook,medium
+2025-09-14,North America,Messenger,high
+2025-08-12,Africa,WhatsApp,low
+2025-05-21,Africa,Facebook,low
+2025-08-03,South America,Instagram,medium
+2025-07-30,Africa,Facebook,medium
+2025-02-01,Europe,WhatsApp,medium
+2025-06-07,North America,WhatsApp,low
+2025-05-24,North America,Messenger,low
+2025-01-19,Africa,Facebook,low
+2025-01-18,Asia,Facebook,high
+2025-09-14,Asia,Facebook,low
+2025-03-19,Africa,Messenger,high
+2025-06-24,Europe,WhatsApp,low
+2025-07-13,Asia,Instagram,high
+2025-04-23,Africa,Facebook,medium
+2025-04-24,Europe,Messenger,low
+2025-08-10,Europe,Messenger,medium
+2025-06-15,South America,Instagram,low
+2025-05-12,Europe,WhatsApp,low
+2025-09-21,Asia,Facebook,low
+2025-02-24,Asia,Facebook,low
+2025-05-11,Africa,Messenger,low
+2025-09-23,Africa,WhatsApp,medium
+2025-06-11,Europe,Facebook,medium
+2025-03-28,North America,Instagram,low
+2025-02-24,South America,WhatsApp,medium
+2025-06-27,North America,WhatsApp,medium
+2025-01-08,Europe,Messenger,high
+2025-09-04,Europe,Messenger,medium
+2025-09-12,North America,Facebook,low
+2025-02-23,South America,Messenger,low
+2025-09-06,North America,WhatsApp,medium
+2025-08-27,Africa,Facebook,low
+2025-08-17,Asia,Facebook,low
+2025-03-08,Africa,WhatsApp,low
+2025-02-20,Asia,Facebook,low
+2025-04-07,Europe,Instagram,low
+2025-04-02,South America,Instagram,low
+2025-09-21,North America,Facebook,low
+2025-04-06,South America,Messenger,medium
+2025-03-29,North America,Instagram,low
+2025-03-19,Africa,Facebook,low
+2025-04-30,Africa,Instagram,low
+2025-06-14,North America,Messenger,low
+2025-07-01,South America,WhatsApp,low
+2025-08-11,North America,Facebook,low
+2025-01-07,Europe,Facebook,low
+2025-09-20,Africa,Facebook,medium
+2025-06-10,Europe,Facebook,low
+2025-05-31,Africa,Facebook,low
+2025-03-26,Africa,Facebook,low
+2025-05-27,Asia,Messenger,medium
+2025-04-22,Europe,WhatsApp,medium
+2025-02-05,Europe,Messenger,medium
+2025-07-07,Asia,Messenger,low
+2025-03-23,South America,WhatsApp,low
+2025-01-02,Europe,Messenger,low
+2025-07-16,North America,Instagram,medium
+2025-01-11,Asia,Messenger,low
+2025-08-22,Europe,Facebook,high
+2025-07-14,South America,Instagram,medium
+2025-04-29,Europe,Instagram,medium
+2025-01-20,Africa,WhatsApp,low
+2025-09-18,North America,Messenger,medium
+2025-09-13,Asia,Messenger,low
+2025-08-10,Africa,Instagram,low
+2025-08-14,South America,Messenger,low
+2025-02-22,Africa,Messenger,medium
+2025-03-22,Africa,WhatsApp,low
+2025-07-21,South America,Instagram,low
+2025-06-07,Africa,Facebook,low
+2025-04-30,Asia,Instagram,medium
+2025-02-28,Europe,WhatsApp,medium
+2025-08-03,Africa,WhatsApp,medium
+2025-05-08,Asia,WhatsApp,low
+2025-08-12,Europe,Messenger,low
+2025-07-28,Europe,Instagram,low
+2025-04-25,Africa,Messenger,low
+2025-07-28,Asia,Messenger,high
+2025-01-14,Africa,Instagram,low
+2025-01-09,South America,WhatsApp,low
+2025-02-09,Europe,Facebook,low
+2025-08-25,Africa,Facebook,medium
+2025-07-20,Europe,Instagram,low
+2025-09-03,Asia,Instagram,low
+2025-08-23,North America,WhatsApp,medium
+2025-01-04,Africa,Instagram,low
+2025-06-03,Africa,Instagram,medium
+2025-01-29,Europe,WhatsApp,low
+2025-04-19,Asia,WhatsApp,medium
+2025-04-08,South America,Messenger,low
+2025-08-03,Asia,Instagram,low
+2025-03-16,Africa,Facebook,medium
+2025-05-26,South America,Instagram,low
+2025-05-08,Asia,Facebook,low
+2025-02-11,North America,Facebook,low
+2025-02-10,Europe,Facebook,medium
+2025-02-03,Asia,Messenger,low
+2025-01-17,Asia,WhatsApp,high
+2025-06-14,North America,WhatsApp,high
+2025-06-02,Africa,Messenger,medium
+2025-03-17,Europe,WhatsApp,low
+2025-03-28,Asia,Messenger,low
+2025-04-27,South America,Instagram,medium
+2025-01-27,Asia,Messenger,low
+2025-05-14,Europe,WhatsApp,low
+2025-08-07,Asia,WhatsApp,low
+2025-06-17,North America,Instagram,low
+2025-04-08,Asia,Messenger,low
+2025-09-25,Asia,Instagram,low
+2025-08-25,South America,Facebook,medium
+2025-06-22,North America,Messenger,low
+2025-07-09,North America,Instagram,low
+2025-05-02,Asia,Instagram,low
+2025-02-15,South America,WhatsApp,low
+2025-03-05,Asia,Messenger,low
+2025-05-10,Asia,Facebook,medium
+2025-07-12,Europe,Facebook,high
+2025-06-30,Europe,Messenger,low
+2025-01-29,South America,Messenger,low
+2025-05-29,Africa,Instagram,low
+2025-09-24,Europe,WhatsApp,high
+2025-01-11,Africa,WhatsApp,medium
+2025-06-13,North America,WhatsApp,medium
+2025-04-23,Europe,Messenger,low
+2025-07-06,Europe,WhatsApp,high
+2025-08-20,South America,Instagram,low
+2025-08-15,Africa,Messenger,low
+2025-04-08,Europe,Messenger,medium
+2025-02-24,Europe,WhatsApp,high
+2025-04-21,South America,Facebook,low
+2025-06-01,South America,Facebook,low
+2025-09-03,Africa,Instagram,low
+2025-03-10,North America,WhatsApp,low
+2025-09-07,North America,WhatsApp,low
+2025-02-05,Asia,Messenger,high
+2025-08-27,Europe,Messenger,medium
+2025-05-28,Africa,WhatsApp,medium
+2025-08-15,Europe,Messenger,medium
+2025-09-01,Africa,WhatsApp,low
+2025-07-20,Africa,Instagram,medium
+2025-06-03,Africa,Messenger,low
+2025-03-14,Europe,WhatsApp,low
+2025-07-20,South America,Messenger,low
+2025-01-17,Europe,Instagram,low
+2025-05-09,Africa,Messenger,medium
+2025-08-05,Asia,WhatsApp,high
+2025-03-02,North America,Messenger,low
+2025-04-14,Africa,Messenger,medium
+2025-02-11,Asia,WhatsApp,low
+2025-01-25,South America,Facebook,medium
+2025-02-08,Africa,Messenger,low
+2025-05-11,Asia,Messenger,low
+2025-08-17,Africa,Instagram,low
+2025-04-18,Europe,Facebook,medium
+2025-06-21,Asia,Instagram,low
+2025-04-12,Europe,WhatsApp,high
+2025-01-12,Europe,WhatsApp,low
+2025-04-11,Asia,Instagram,high
+2025-02-13,North America,Messenger,medium
+2025-01-17,Asia,Facebook,low
+2025-02-26,North America,Instagram,low
+2025-01-12,Africa,Instagram,medium
+2025-03-21,Africa,WhatsApp,medium
+2025-08-04,Asia,Messenger,medium
+2025-09-21,Africa,Facebook,low
+2025-05-29,South America,Instagram,low
+2025-03-22,Europe,Facebook,high
+2025-08-03,Europe,Facebook,low
+2025-07-17,North America,Instagram,low
+2025-07-19,Africa,Facebook,low
+2025-01-25,North America,WhatsApp,medium
+2025-03-30,Europe,Messenger,medium
+2025-09-25,Europe,Messenger,low
+2025-05-23,Africa,Messenger,low
+2025-02-28,South America,WhatsApp,low
+2025-01-26,South America,WhatsApp,low
+2025-02-16,Africa,WhatsApp,low
+2025-09-23,Africa,Messenger,high
+2025-01-16,North America,Facebook,low
+2025-07-18,Africa,WhatsApp,low
+2025-03-27,South America,Instagram,medium
+2025-09-07,Africa,WhatsApp,low
+2025-09-27,North America,Instagram,low
+2025-04-27,North America,Messenger,low
+2025-01-07,North America,Instagram,low
+2025-05-17,North America,WhatsApp,high
+2025-06-25,Asia,WhatsApp,low
+2025-08-03,Africa,Facebook,low
+2025-03-23,Europe,Messenger,medium
+2025-08-11,Africa,Instagram,high
+2025-04-13,Asia,Messenger,low
+2025-01-14,North America,WhatsApp,low
+2025-06-08,Asia,Facebook,high
+2025-06-01,South America,WhatsApp,low
+2025-04-18,South America,WhatsApp,medium
+2025-07-07,Africa,WhatsApp,medium
+2025-04-08,Africa,Instagram,medium
+2025-05-11,Europe,WhatsApp,low
+2025-06-20,Europe,Messenger,low
+2025-07-02,South America,Messenger,medium
+2025-02-08,North America,Facebook,low
+2025-01-15,Asia,Messenger,low
+2025-01-04,Europe,WhatsApp,low
+2025-07-29,Europe,WhatsApp,low
+2025-06-10,North America,Messenger,high
+2025-01-16,North America,Facebook,low
+2025-04-18,Africa,Facebook,high
+2025-08-15,Asia,Messenger,low
+2025-06-19,North America,Instagram,low
+2025-02-03,Europe,Instagram,low
+2025-09-08,Europe,Instagram,medium
+2025-09-04,South America,Instagram,medium
+2025-09-26,North America,Messenger,low
+2025-05-21,Africa,Facebook,high
+2025-04-06,Asia,WhatsApp,low
+2025-08-15,Africa,WhatsApp,medium
+2025-02-08,Europe,Messenger,high
+2025-01-29,Africa,WhatsApp,medium
+2025-09-02,Europe,Instagram,high
+2025-08-24,Europe,Facebook,low
+2025-07-04,Europe,Messenger,low
+2025-08-24,Europe,Facebook,low
+2025-08-27,Europe,Messenger,low
+2025-09-23,South America,Messenger,medium
+2025-03-06,Africa,Messenger,low
+2025-06-26,South America,Messenger,medium
+2025-01-03,South America,Facebook,low
+2025-05-22,North America,WhatsApp,low
+2025-06-07,North America,Messenger,medium
+2025-05-26,North America,Instagram,low
+2025-06-02,Asia,Messenger,medium
+2025-07-12,North America,Facebook,low
+2025-03-14,Africa,Messenger,medium
+2025-05-20,South America,Instagram,low
+2025-07-06,Africa,Facebook,low
+2025-03-02,North America,Messenger,medium
+2025-07-17,Asia,Instagram,medium
+2025-01-11,Asia,Facebook,low
+2025-03-03,South America,Messenger,low
+2025-08-14,Africa,Instagram,low
+2025-06-02,Europe,Facebook,low
+2025-07-18,Africa,Messenger,medium
+2025-02-21,North America,Facebook,medium
+2025-09-17,Europe,Instagram,low
+2025-02-28,Asia,Messenger,low
+2025-03-13,South America,Messenger,medium
+2025-05-28,South America,Messenger,low
+2025-03-04,Asia,Instagram,medium
+2025-08-31,North America,WhatsApp,low
+2025-04-17,Asia,Messenger,medium
+2025-08-14,North America,Instagram,low
+2025-08-06,Europe,Facebook,medium
+2025-08-29,Asia,Facebook,low
+2025-09-16,North America,Instagram,low
+2025-09-19,Europe,WhatsApp,medium
+2025-01-05,Asia,Instagram,low
+2025-09-18,South America,Facebook,low
+2025-02-23,Asia,Facebook,low
+2025-02-16,Africa,Messenger,low
+2025-08-03,Asia,WhatsApp,high
+2025-06-26,Africa,Instagram,medium
+2025-01-09,Europe,Facebook,low
+2025-04-09,Asia,Facebook,medium
+2025-01-20,Europe,Facebook,low
+2025-08-29,Europe,Instagram,high
+2025-03-02,North America,Instagram,low
+2025-06-27,Europe,WhatsApp,low
+2025-03-03,Europe,Messenger,low
+2025-05-25,Asia,Messenger,low
+2025-08-04,Asia,Messenger,low
+2025-01-03,South America,Facebook,low
+2025-06-09,North America,Messenger,medium
+2025-08-15,Europe,Facebook,low
+2025-09-26,North America,WhatsApp,high
+2025-04-30,Africa,Facebook,low
+2025-03-30,Europe,WhatsApp,medium
+2025-03-09,North America,WhatsApp,high
+2025-04-08,South America,Messenger,medium
+2025-09-24,South America,Messenger,medium
+2025-04-15,Europe,Facebook,medium
+2025-05-03,Africa,Instagram,low
+2025-01-29,South America,Messenger,medium
+2025-05-17,South America,Messenger,low
+2025-07-14,Africa,Instagram,low
+2025-08-14,North America,Instagram,low
+2025-06-19,South America,Messenger,medium
+2025-01-09,Asia,Instagram,low
+2025-02-09,South America,Facebook,low
+2025-01-25,North America,WhatsApp,low
+2025-09-18,North America,WhatsApp,high
+2025-08-14,Europe,Messenger,low
+2025-05-04,Asia,Messenger,low
+2025-02-07,North America,Facebook,low
+2025-09-08,Africa,Instagram,high
+2025-06-25,Asia,Messenger,high
+2025-03-31,Asia,WhatsApp,medium
+2025-02-06,Africa,Facebook,medium
+2025-06-25,South America,Facebook,low
+2025-03-22,Africa,Instagram,high
+2025-04-24,Africa,Messenger,low
+2025-02-09,South America,Messenger,low
+2025-08-12,South America,Facebook,low
+2025-04-25,South America,WhatsApp,low
+2025-07-05,South America,Messenger,medium
+2025-02-25,South America,WhatsApp,low
+2025-02-09,Africa,Facebook,high
+2025-02-09,Europe,Messenger,low
+2025-08-25,Europe,WhatsApp,low
+2025-09-19,North America,Facebook,low
+2025-08-04,Europe,WhatsApp,medium
+2025-05-27,Europe,Messenger,medium
+2025-06-17,Africa,Instagram,low
+2025-04-02,South America,WhatsApp,low
+2025-02-28,South America,Instagram,low
+2025-02-28,Africa,Messenger,medium
+2025-06-18,Europe,Instagram,high
+2025-09-26,Africa,Facebook,low
+2025-02-14,North America,Instagram,medium
+2025-06-30,South America,WhatsApp,low
+2025-06-19,Asia,WhatsApp,low
+2025-07-10,North America,Instagram,high
+2025-06-04,North America,Facebook,low
+2025-07-07,Africa,Messenger,low
+2025-01-07,Europe,Instagram,low
+2025-05-13,South America,WhatsApp,low
+2025-08-23,Asia,WhatsApp,medium
+2025-02-14,North America,Instagram,medium
+2025-09-06,Asia,Instagram,high
+2025-01-31,Europe,Instagram,low
+2025-01-23,Europe,Messenger,low
+2025-06-09,Asia,WhatsApp,low
+2025-06-07,South America,WhatsApp,low
+2025-02-08,Europe,WhatsApp,high
+2025-03-23,Asia,Messenger,medium
+2025-09-15,North America,Facebook,low
+2025-07-25,Asia,WhatsApp,medium
+2025-03-18,Asia,WhatsApp,medium
+2025-01-12,Africa,Facebook,low
+2025-08-12,Europe,Messenger,medium
+2025-01-13,South America,Facebook,low
+2025-02-15,South America,Facebook,low
+2025-06-04,Africa,Facebook,low
+2025-04-23,South America,Facebook,low
+2025-08-21,Asia,Messenger,low
+2025-01-17,Africa,Messenger,low
+2025-08-11,North America,Facebook,low
+2025-07-07,Europe,Instagram,medium
+2025-06-12,Europe,Instagram,high
+2025-03-15,Europe,Instagram,medium
+2025-08-21,Asia,Instagram,low
+2025-08-12,North America,WhatsApp,low
+2025-03-01,Africa,Messenger,low
+2025-08-10,Africa,Messenger,low
+2025-02-06,Europe,Facebook,low
+2025-07-15,North America,WhatsApp,medium
+2025-08-30,North America,Facebook,medium
+2025-08-07,North America,Facebook,medium
+2025-07-11,South America,Messenger,low
+2025-01-17,South America,WhatsApp,low
+2025-01-12,Europe,Instagram,medium
+2025-07-12,North America,Messenger,low
+2025-01-22,North America,WhatsApp,low
+2025-04-30,Africa,WhatsApp,low
+2025-07-29,Africa,Messenger,low
+2025-09-27,Europe,Messenger,low
+2025-07-11,North America,Facebook,medium
+2025-06-24,Europe,Facebook,medium
+2025-07-23,Africa,Facebook,low
+2025-06-13,Africa,Instagram,low
+2025-09-08,South America,Messenger,medium
+2025-08-15,Europe,WhatsApp,low
+2025-01-07,Europe,Messenger,low
+2025-01-29,North America,WhatsApp,low
+2025-02-02,North America,Instagram,low
+2025-05-14,South America,Messenger,medium
+2025-03-20,Asia,WhatsApp,medium
+2025-02-27,Asia,WhatsApp,low
+2025-01-26,Asia,Facebook,low
+2025-08-14,Europe,Instagram,low
+2025-01-04,Europe,Messenger,low
+2025-04-09,Africa,Facebook,high
+2025-02-08,Europe,Instagram,medium
+2025-09-28,Europe,Facebook,low
+2025-06-06,Europe,Messenger,medium
+2025-03-16,South America,WhatsApp,medium
+2025-05-10,Europe,Messenger,medium
+2025-06-24,North America,Instagram,low
+2025-03-25,North America,Messenger,low
+2025-01-22,Africa,Instagram,medium
+2025-01-27,South America,Facebook,low
+2025-07-14,North America,Instagram,high
+2025-08-24,South America,WhatsApp,medium
+2025-04-02,South America,WhatsApp,high
+2025-01-21,Africa,WhatsApp,low
+2025-03-25,South America,Facebook,medium
+2025-09-19,Europe,Instagram,low
+2025-05-27,South America,Facebook,high
+2025-09-14,Africa,Messenger,low
+2025-02-27,Africa,Messenger,low
+2025-01-15,Africa,Messenger,medium
+2025-06-11,North America,Messenger,low
+2025-06-12,Europe,WhatsApp,low
+2025-01-12,North America,Instagram,high
+2025-09-28,Asia,WhatsApp,low
+2025-07-27,Europe,Instagram,medium
+2025-01-27,South America,Instagram,low
+2025-03-13,Africa,Facebook,medium
+2025-03-01,Asia,Messenger,medium
+2025-05-25,Europe,Instagram,low
+2025-04-03,North America,Messenger,low
+2025-01-08,Africa,Messenger,low
+2025-03-20,North America,Messenger,low
+2025-01-27,Europe,WhatsApp,low
+2025-06-23,Europe,Messenger,medium
+2025-02-19,Asia,Instagram,low
+2025-07-18,South America,WhatsApp,low
+2025-06-30,North America,Messenger,medium
+2025-01-24,Asia,Facebook,low
+2025-02-15,Africa,Messenger,low
+2025-01-15,South America,Messenger,low
+2025-06-02,Asia,WhatsApp,low
+2025-08-10,North America,Instagram,medium
+2025-07-25,Europe,Messenger,medium
+2025-08-24,Africa,WhatsApp,low
+2025-08-16,North America,WhatsApp,low
+2025-01-09,South America,Instagram,low
+2025-06-15,South America,WhatsApp,low
+2025-08-02,Europe,Instagram,high
+2025-04-27,Europe,Facebook,low
+2025-03-13,Africa,Messenger,low
+2025-03-05,Africa,WhatsApp,low
+2025-07-24,Europe,Facebook,medium
+2025-07-28,Europe,WhatsApp,medium
+2025-03-13,South America,WhatsApp,medium
+2025-04-05,Europe,Facebook,medium
+2025-06-15,Asia,WhatsApp,low
+2025-02-01,North America,WhatsApp,low
+2025-01-11,Europe,Facebook,low
+2025-08-05,Africa,WhatsApp,medium
+2025-04-12,Asia,Instagram,medium
+2025-09-24,Africa,WhatsApp,low
+2025-08-02,Asia,Messenger,medium
+2025-06-28,Europe,WhatsApp,medium
+2025-03-29,North America,Messenger,medium
+2025-02-10,Africa,Messenger,low
+2025-03-17,Asia,WhatsApp,medium
+2025-02-15,South America,Facebook,low
+2025-06-09,Europe,Instagram,medium
+2025-03-21,North America,Instagram,high
+2025-03-27,Europe,WhatsApp,low
+2025-04-02,South America,Facebook,medium
+2025-05-28,North America,Facebook,medium
+2025-06-10,South America,Instagram,low
+2025-07-21,Europe,Facebook,low
+2025-08-30,Asia,WhatsApp,low
+2025-01-02,Europe,WhatsApp,high
+2025-08-13,Europe,Facebook,medium
+2025-08-21,Europe,WhatsApp,low
+2025-03-18,Africa,Messenger,low
+2025-04-26,South America,Instagram,low
+2025-06-03,South America,WhatsApp,low
+2025-04-13,South America,Facebook,low
+2025-07-13,Africa,Instagram,low
+2025-06-15,Asia,WhatsApp,low
+2025-03-31,Europe,Instagram,low
+2025-06-23,Asia,Facebook,medium
+2025-05-02,Africa,Messenger,high
+2025-05-23,South America,Messenger,medium
+2025-04-16,Europe,WhatsApp,medium
+2025-05-03,North America,Messenger,low
+2025-01-09,North America,WhatsApp,low
+2025-09-19,Asia,Instagram,low
+2025-03-14,South America,WhatsApp,medium
+2025-08-11,North America,WhatsApp,high
+2025-02-10,Asia,WhatsApp,medium
+2025-07-23,Africa,Messenger,medium
+2025-09-21,Asia,WhatsApp,medium
+2025-06-27,Asia,Facebook,low
+2025-03-25,Asia,WhatsApp,low
+2025-04-21,Europe,Instagram,low
+2025-09-08,Asia,Facebook,low
+2025-01-07,Asia,Instagram,medium
+2025-03-25,Europe,Instagram,low
+2025-07-27,Europe,Instagram,low
+2025-01-22,Africa,Facebook,low
+2025-01-03,South America,Facebook,low
+2025-05-07,North America,Messenger,low
+2025-07-07,North America,Facebook,low
+2025-01-14,Asia,WhatsApp,low
+2025-01-12,Africa,Instagram,medium
+2025-03-28,Asia,Messenger,low
+2025-01-12,North America,Facebook,medium
+2025-01-25,Europe,Instagram,medium
+2025-08-31,South America,Facebook,medium
+2025-05-02,Africa,Messenger,medium
+2025-05-27,Europe,Facebook,low
+2025-02-24,South America,Facebook,low
+2025-08-26,Africa,Instagram,low
+2025-06-22,Africa,WhatsApp,low
+2025-08-09,North America,Facebook,high
+2025-04-29,Europe,Messenger,medium
+2025-07-02,Africa,Facebook,low
+2025-03-23,Africa,Facebook,low
+2025-07-30,South America,WhatsApp,low
+2025-05-30,North America,Instagram,medium
+2025-02-06,Asia,Messenger,medium
+2025-02-28,North America,Instagram,medium
+2025-05-11,Asia,Instagram,high
+2025-07-21,Europe,Instagram,low
+2025-08-31,Europe,Facebook,low
+2025-02-04,Africa,WhatsApp,low
+2025-04-03,Europe,Facebook,low
+2025-07-26,Africa,Messenger,high
+2025-08-01,North America,WhatsApp,low
+2025-06-08,Europe,Instagram,medium
+2025-01-24,North America,WhatsApp,low
+2025-01-04,North America,Messenger,low
+2025-08-08,Europe,Facebook,low
+2025-01-20,North America,Facebook,low
+2025-06-01,Europe,Instagram,medium
+2025-02-19,Europe,Facebook,low
+2025-06-26,Europe,Facebook,medium
+2025-04-06,Asia,Messenger,medium
+2025-04-15,North America,WhatsApp,low
+2025-09-07,South America,Facebook,medium
+2025-04-27,Europe,Messenger,low
+2025-08-16,North America,Messenger,medium
+2025-03-07,Africa,Instagram,medium
+2025-09-19,Europe,Messenger,high
+2025-08-31,Europe,Instagram,low
+2025-07-05,South America,Facebook,low
+2025-09-03,Asia,Instagram,low
+2025-05-05,Asia,Messenger,low
+2025-09-25,Europe,WhatsApp,medium
+2025-05-11,North America,WhatsApp,high
+2025-08-25,Africa,Facebook,low
+2025-01-18,Africa,Facebook,low
+2025-02-09,North America,WhatsApp,low
+2025-01-21,Europe,Instagram,low
+2025-08-13,Africa,Facebook,low
+2025-01-08,Asia,Messenger,low
+2025-04-10,North America,Facebook,medium
+2025-08-28,South America,Instagram,low
+2025-03-28,Europe,Facebook,low
+2025-01-14,North America,Messenger,medium
+2025-01-02,Africa,Messenger,low
+2025-02-10,Europe,Messenger,medium
+2025-04-21,Asia,Instagram,medium
+2025-01-14,Europe,Instagram,medium
+2025-08-19,Europe,Messenger,low
+2025-03-25,Asia,Messenger,low
+2025-05-10,Asia,Instagram,medium
+2025-08-19,Europe,Instagram,medium
+2025-05-25,Asia,Instagram,low
+2025-01-28,North America,WhatsApp,low
+2025-03-07,Asia,Instagram,low
+2025-06-12,Asia,Messenger,low
+2025-08-17,Europe,WhatsApp,low
+2025-09-18,North America,Instagram,low
+2025-06-13,South America,Messenger,low
+2025-01-10,South America,Facebook,medium
+2025-07-14,Africa,WhatsApp,low
+2025-04-28,Asia,Messenger,medium
+2025-09-27,Asia,Facebook,medium
+2025-03-21,North America,Messenger,low
+2025-04-03,South America,Instagram,medium
+2025-09-23,Africa,Instagram,medium
+2025-09-14,North America,Facebook,low
+2025-05-13,Asia,Instagram,low
+2025-09-21,South America,Messenger,low
+2025-06-20,Africa,Facebook,high
+2025-01-01,Europe,Messenger,medium
+2025-03-05,South America,Messenger,low
+2025-05-01,Africa,Messenger,medium
+2025-04-17,North America,Instagram,low
+2025-06-24,Europe,Instagram,low
+2025-07-23,Africa,Messenger,medium
+2025-06-14,Africa,WhatsApp,low
+2025-04-30,Asia,Messenger,medium
+2025-02-13,South America,Messenger,medium
+2025-06-05,Asia,Facebook,medium
+2025-07-26,Europe,Messenger,low
+2025-04-18,Africa,Instagram,medium
+2025-09-08,Asia,Facebook,high
+2025-05-10,South America,WhatsApp,low
+2025-01-20,Europe,Facebook,low
+2025-01-01,North America,WhatsApp,low
+2025-04-29,Asia,Facebook,medium
+2025-02-04,Europe,Facebook,medium
+2025-07-17,North America,WhatsApp,low
+2025-09-02,Asia,Instagram,medium
+2025-02-28,Europe,Instagram,low
+2025-06-10,Europe,Instagram,medium
+2025-06-28,Asia,Facebook,low
+2025-07-25,Europe,Messenger,low
+2025-01-12,Africa,Facebook,low
+2025-06-30,Asia,Messenger,low
+2025-08-30,Europe,Messenger,medium
+2025-08-04,North America,Instagram,low
+2025-09-08,North America,Messenger,low
+2025-05-06,Africa,Facebook,low
+2025-08-05,Asia,Facebook,low
+2025-07-04,Europe,Instagram,medium
+2025-02-08,Europe,WhatsApp,medium
+2025-08-11,North America,Facebook,low
+2025-07-03,Africa,Messenger,low
+2025-06-27,North America,Facebook,low
+2025-05-31,North America,Facebook,high
+2025-05-06,Africa,Facebook,high
+2025-08-22,Asia,WhatsApp,medium
+2025-01-08,Europe,Messenger,high
+2025-05-09,Asia,Instagram,medium
+2025-09-21,South America,Facebook,medium
+2025-06-06,South America,Messenger,low
+2025-01-05,South America,Messenger,low
+2025-03-27,Africa,Instagram,low
+2025-06-24,North America,Facebook,low
+2025-07-12,Asia,WhatsApp,medium
+2025-04-29,Europe,Messenger,low
+2025-08-06,South America,Instagram,low
+2025-04-24,Asia,WhatsApp,low
+2025-05-25,South America,Messenger,low
+2025-01-26,South America,Facebook,low
+2025-05-16,Europe,Messenger,high
+2025-08-20,Africa,WhatsApp,medium
+2025-03-17,North America,WhatsApp,medium
+2025-01-01,Africa,Facebook,low
+2025-05-27,Asia,Facebook,low
+2025-05-22,Africa,Instagram,low
+2025-02-22,Asia,Facebook,medium
+2025-03-10,Asia,Instagram,low
+2025-03-31,North America,WhatsApp,low
+2025-08-08,Europe,WhatsApp,medium
+2025-07-11,North America,Messenger,low
+2025-03-04,Africa,Messenger,low
+2025-03-14,Asia,Instagram,low
+2025-06-10,South America,Facebook,low
+2025-06-18,South America,Facebook,low
+2025-03-30,Asia,Messenger,low
+2025-06-25,North America,WhatsApp,medium
+2025-09-26,Europe,Instagram,medium
+2025-03-14,North America,WhatsApp,low
+2025-09-02,Asia,WhatsApp,medium
+2025-03-18,Asia,Facebook,low
+2025-06-08,Europe,Instagram,low
+2025-04-08,Africa,WhatsApp,low
+2025-04-12,Africa,Messenger,medium
+2025-05-12,Europe,Messenger,low
+2025-04-12,Africa,Facebook,medium
+2025-01-19,South America,Messenger,medium
+2025-03-23,Africa,Messenger,low
+2025-05-09,Africa,WhatsApp,medium
+2025-03-30,Africa,Messenger,high
+2025-08-01,South America,Messenger,low
+2025-05-23,Africa,WhatsApp,low
+2025-03-06,South America,Facebook,medium
+2025-03-17,Europe,Facebook,medium
+2025-07-18,North America,Instagram,low
+2025-05-23,Europe,Messenger,low
+2025-04-03,North America,WhatsApp,low
+2025-08-12,Europe,Instagram,low
+2025-04-12,North America,Facebook,low
+2025-09-24,North America,Facebook,high
+2025-04-20,Asia,WhatsApp,medium
+2025-09-22,North America,Instagram,low
+2025-01-03,North America,Instagram,medium
+2025-03-26,Asia,WhatsApp,medium
+2025-04-27,Africa,WhatsApp,low
+2025-08-09,Africa,Instagram,low
+2025-06-03,Asia,Facebook,low
+2025-06-02,South America,Messenger,medium
+2025-01-12,North America,Facebook,low
+2025-05-13,North America,WhatsApp,high
+2025-08-16,Asia,Instagram,low
+2025-09-28,Asia,Instagram,low
+2025-02-12,South America,Messenger,low
+2025-01-21,Africa,Instagram,low
+2025-04-17,Europe,Messenger,medium
+2025-04-27,Africa,Facebook,high
+2025-05-04,North America,Facebook,low
+2025-07-22,Asia,Instagram,high
+2025-02-20,South America,Instagram,medium
+2025-09-28,Africa,WhatsApp,low
+2025-05-21,South America,WhatsApp,medium
+2025-02-21,Africa,Instagram,low
+2025-01-27,North America,Instagram,low
+2025-06-06,Europe,Facebook,low
+2025-08-27,South America,Instagram,medium
+2025-06-05,South America,WhatsApp,low
+2025-05-16,Europe,Facebook,medium
+2025-05-24,South America,Messenger,medium
+2025-04-16,South America,WhatsApp,low
+2025-06-07,Africa,WhatsApp,low
+2025-05-26,Africa,Facebook,low
+2025-01-02,Europe,Messenger,low
+2025-03-18,North America,WhatsApp,low
+2025-05-12,South America,Instagram,low
+2025-03-31,North America,WhatsApp,low
+2025-09-20,Europe,Facebook,low
+2025-04-18,Europe,Facebook,low
+2025-03-15,Africa,Facebook,low
+2025-02-08,South America,WhatsApp,medium
+2025-06-08,Asia,Messenger,high
+2025-03-12,Europe,Instagram,low
+2025-08-29,South America,Facebook,low
+2025-02-05,North America,Messenger,low
+2025-03-25,Africa,Instagram,low
+2025-09-20,North America,Facebook,low
+2025-06-21,Europe,Instagram,medium
+2025-06-22,Europe,Instagram,high
+2025-02-16,North America,Messenger,low
+2025-05-21,Europe,Instagram,medium
+2025-04-28,South America,Facebook,low
+2025-08-02,Europe,Messenger,low
+2025-08-08,Africa,WhatsApp,low
+2025-01-26,South America,WhatsApp,low
+2025-01-09,Asia,Messenger,low
+2025-09-28,Europe,WhatsApp,low
+2025-01-10,Europe,Instagram,low
+2025-05-01,Africa,Facebook,low
+2025-05-05,Africa,Instagram,medium
+2025-06-19,North America,Messenger,high
+2025-03-13,North America,Facebook,low
+2025-06-01,North America,Messenger,low
+2025-07-27,Africa,Messenger,low
+2025-02-18,North America,Messenger,medium
+2025-06-03,North America,Instagram,low
+2025-03-09,Asia,Facebook,low
+2025-02-19,North America,Facebook,low
+2025-06-01,Europe,Facebook,low
+2025-01-19,Africa,Instagram,low
+2025-04-10,South America,WhatsApp,high
+2025-03-01,Asia,Instagram,medium
+2025-06-16,Africa,Instagram,low
+2025-07-21,Africa,Messenger,low
+2025-05-26,Europe,Facebook,low
+2025-06-13,North America,Facebook,low
+2025-08-30,Europe,WhatsApp,medium
+2025-03-10,North America,WhatsApp,low
+2025-06-24,North America,Messenger,low
+2025-02-18,Africa,Facebook,low
+2025-04-18,North America,WhatsApp,medium
+2025-08-14,Asia,WhatsApp,medium
+2025-06-10,Asia,Facebook,low
+2025-04-29,Asia,Instagram,low
+2025-05-29,Africa,WhatsApp,low
+2025-05-30,Europe,Facebook,high
+2025-05-23,South America,WhatsApp,low
+2025-06-09,North America,Messenger,low
+2025-01-11,South America,WhatsApp,low
+2025-05-18,Europe,Facebook,medium
+2025-03-19,Europe,WhatsApp,low
+2025-03-18,Africa,Messenger,low
+2025-09-11,Asia,Messenger,low
+2025-09-15,Asia,WhatsApp,medium
+2025-09-20,Europe,WhatsApp,medium
+2025-03-26,Africa,Messenger,medium
+2025-05-26,Africa,Messenger,low
+2025-02-11,North America,Instagram,low
+2025-05-05,Asia,Instagram,high
+2025-06-16,Europe,Messenger,low
+2025-08-29,South America,WhatsApp,medium
+2025-07-07,Asia,Facebook,medium
+2025-01-19,North America,WhatsApp,low
+2025-03-09,Africa,WhatsApp,low
+2025-08-06,Europe,Instagram,medium
+2025-04-12,Asia,Instagram,medium
+2025-02-11,South America,Instagram,low
+2025-06-16,North America,Messenger,low
+2025-04-19,North America,Messenger,low
+2025-02-05,Asia,WhatsApp,low
+2025-08-20,South America,WhatsApp,low
+2025-08-17,North America,Facebook,low
+2025-06-13,Europe,WhatsApp,high
+2025-03-14,North America,WhatsApp,medium
+2025-05-16,South America,Instagram,medium
+2025-03-11,Africa,Instagram,low
+2025-07-15,Africa,Instagram,low
+2025-09-26,Asia,Instagram,high
+2025-02-18,South America,Instagram,low
+2025-05-10,North America,Facebook,low
+2025-01-05,North America,Facebook,low
+2025-01-27,Africa,Facebook,medium
+2025-06-09,Africa,Instagram,medium
+2025-05-29,Europe,Messenger,low
+2025-09-21,Africa,Instagram,medium
+2025-08-18,Europe,Instagram,low
+2025-07-19,North America,Facebook,low
+2025-02-19,Europe,Instagram,medium
+2025-03-08,Europe,Facebook,medium
+2025-02-27,Asia,Instagram,low
+2025-09-16,Africa,WhatsApp,low
+2025-05-10,Europe,Messenger,medium
+2025-08-03,North America,Messenger,medium
+2025-06-21,South America,Facebook,medium
+2025-09-15,Europe,WhatsApp,low
+2025-04-12,Africa,Messenger,high
+2025-07-28,Asia,Facebook,high
+2025-04-26,North America,Instagram,low
+2025-09-21,Asia,Instagram,medium
+2025-05-30,South America,WhatsApp,low
+2025-02-05,Europe,Messenger,low
+2025-07-27,Europe,Instagram,medium
+2025-04-16,Africa,Facebook,low
+2025-06-07,Europe,Instagram,low
+2025-05-01,North America,Instagram,medium
+2025-02-24,South America,Messenger,low
+2025-01-12,Asia,Messenger,low
+2025-05-25,South America,Facebook,high
+2025-05-16,Europe,WhatsApp,low
+2025-01-03,Asia,WhatsApp,low
+2025-05-24,Africa,Instagram,low
+2025-01-30,South America,Facebook,low
+2025-08-25,Asia,WhatsApp,medium
+2025-04-25,Asia,WhatsApp,medium
+2025-04-14,Asia,Instagram,low
+2025-04-28,North America,Facebook,medium
+2025-01-05,South America,WhatsApp,low
+2025-09-05,Asia,Messenger,low
+2025-05-01,South America,Messenger,medium
+2025-05-29,Asia,Instagram,medium
+2025-03-25,Africa,Instagram,low
+2025-08-19,Africa,Instagram,low
+2025-06-10,Africa,Instagram,low
+2025-02-07,Europe,WhatsApp,low
+2025-08-14,Asia,Facebook,low
+2025-05-22,Europe,Instagram,medium
+2025-05-31,South America,Instagram,low
+2025-04-24,Europe,WhatsApp,medium
+2025-08-25,South America,Instagram,low
+2025-03-07,South America,Instagram,low
+2025-09-15,South America,Facebook,low
+2025-09-06,Europe,Messenger,low
+2025-06-29,Asia,Instagram,medium
+2025-07-09,Europe,WhatsApp,low
+2025-06-03,Asia,Facebook,low
+2025-07-15,Asia,WhatsApp,medium
+2025-09-19,South America,Facebook,medium
+2025-05-23,Europe,Facebook,low
+2025-04-11,Asia,Instagram,low
+2025-09-01,Africa,Instagram,medium
+2025-01-12,Asia,Instagram,high
+2025-08-27,Africa,Messenger,medium
+2025-02-18,Europe,Messenger,low
+2025-02-11,Europe,WhatsApp,high
+2025-06-15,Europe,Instagram,low
+2025-03-23,Asia,Messenger,low
+2025-06-07,North America,Instagram,medium
+2025-08-04,Asia,Messenger,low
+2025-06-07,Asia,Messenger,low
+2025-05-14,South America,Facebook,low
+2025-03-08,South America,Instagram,low
+2025-01-07,Asia,Instagram,medium
+2025-01-14,Africa,Messenger,medium
+2025-03-14,South America,Instagram,low
+2025-06-12,Asia,Messenger,low
+2025-03-07,North America,Instagram,high
+2025-05-10,Africa,Facebook,medium
+2025-07-25,Europe,Instagram,low
+2025-09-13,Asia,Facebook,high
+2025-09-23,Asia,WhatsApp,medium
+2025-01-25,Africa,Instagram,low
+2025-09-10,South America,Instagram,low
+2025-06-13,South America,Instagram,low
+2025-04-05,South America,Facebook,medium
+2025-09-27,Europe,Instagram,low
+2025-04-20,Africa,Instagram,low
+2025-08-26,Africa,Messenger,low
+2025-01-25,South America,WhatsApp,high
+2025-05-21,South America,Facebook,low
+2025-04-27,North America,Messenger,high
+2025-01-25,North America,Facebook,high
+2025-03-20,Asia,Messenger,low
+2025-03-09,Asia,WhatsApp,low
+2025-06-22,Africa,Messenger,low
+2025-01-12,Africa,Facebook,high
+2025-05-08,Europe,Instagram,low
+2025-04-06,Europe,Instagram,low
+2025-04-02,North America,WhatsApp,low
+2025-05-21,Asia,Facebook,low
+2025-01-31,North America,Facebook,high
+2025-01-20,North America,Facebook,medium
+2025-05-26,Asia,WhatsApp,medium
+2025-06-09,Europe,Instagram,low
+2025-02-12,Asia,Messenger,low
+2025-09-11,South America,WhatsApp,high
+2025-05-10,South America,Messenger,low
+2025-03-01,South America,Instagram,high
+2025-05-31,Africa,WhatsApp,low
+2025-01-05,Europe,Instagram,low
+2025-09-23,Europe,Messenger,medium
+2025-05-10,Africa,Facebook,high
+2025-09-24,North America,Facebook,high
+2025-06-27,South America,Messenger,low
+2025-09-10,South America,Facebook,low
+2025-02-25,North America,Messenger,low
+2025-03-24,Asia,WhatsApp,medium
+2025-04-09,Asia,WhatsApp,medium
+2025-05-29,Europe,WhatsApp,low
+2025-06-05,Africa,Facebook,high
+2025-07-09,Europe,Instagram,medium
+2025-09-20,Asia,Facebook,medium
+2025-03-21,North America,Facebook,low
+2025-09-09,Europe,Instagram,low
+2025-04-07,South America,Instagram,high
+2025-09-17,South America,Instagram,low
+2025-09-17,North America,Instagram,medium
+2025-04-13,Asia,Facebook,high
+2025-02-09,South America,Messenger,medium
+2025-04-11,South America,WhatsApp,low
+2025-08-09,Africa,Messenger,low
+2025-05-04,Europe,Facebook,low
+2025-08-19,Asia,Instagram,low
+2025-06-27,Europe,WhatsApp,low
+2025-03-04,Asia,WhatsApp,low
+2025-04-26,South America,Messenger,low
+2025-07-10,Africa,Facebook,low
+2025-03-03,Europe,Facebook,low
+2025-09-13,South America,Facebook,low
+2025-01-07,Asia,WhatsApp,low
+2025-06-04,Europe,Messenger,medium
+2025-04-02,Europe,WhatsApp,low
+2025-01-14,South America,WhatsApp,low
+2025-08-17,Europe,Instagram,medium
+2025-03-27,Africa,Messenger,medium
+2025-05-13,Africa,Instagram,low
+2025-07-02,South America,Facebook,medium
+2025-03-03,Asia,WhatsApp,high
+2025-08-07,South America,Messenger,medium
+2025-09-03,Africa,Facebook,low
+2025-08-18,North America,Messenger,medium
+2025-03-20,North America,WhatsApp,low
+2025-05-29,Europe,Messenger,low
+2025-05-18,Europe,Facebook,high
+2025-03-06,North America,Instagram,low
+2025-01-13,Africa,WhatsApp,high
+2025-08-01,Europe,Instagram,low
+2025-08-30,South America,WhatsApp,high
+2025-08-01,South America,Facebook,low
+2025-06-30,Africa,WhatsApp,low
+2025-06-22,Europe,Instagram,low
+2025-06-09,South America,WhatsApp,low
+2025-06-13,Europe,Facebook,low
+2025-07-07,Europe,WhatsApp,medium
+2025-07-10,South America,Instagram,low
+2025-09-13,North America,Facebook,medium
+2025-07-02,South America,Instagram,low
+2025-04-27,Africa,WhatsApp,low
+2025-07-15,Asia,Messenger,high
+2025-02-03,South America,Instagram,low
+2025-02-21,Europe,WhatsApp,medium
+2025-04-22,Europe,Messenger,medium
+2025-09-09,South America,Messenger,low
+2025-03-23,Asia,Facebook,high
+2025-08-20,South America,Messenger,medium
+2025-08-15,Asia,Instagram,low
+2025-08-21,Asia,Instagram,medium
+2025-08-09,Africa,Messenger,low
+2025-02-11,Europe,WhatsApp,low
+2025-01-21,Europe,Instagram,high
+2025-02-11,Asia,Instagram,medium
+2025-04-23,Europe,Facebook,medium
+2025-04-15,North America,WhatsApp,medium
+2025-07-11,Asia,Messenger,medium
+2025-01-17,Europe,WhatsApp,high
+2025-04-30,North America,Facebook,low
+2025-05-09,Africa,Facebook,low
+2025-05-10,Europe,WhatsApp,low
+2025-03-01,North America,Facebook,medium
+2025-02-17,South America,Facebook,low
+2025-01-29,South America,Facebook,low
+2025-04-07,North America,WhatsApp,low
+2025-01-10,Asia,Facebook,high
+2025-08-30,Asia,Messenger,medium
+2025-08-20,Europe,Messenger,low
+2025-07-22,South America,Instagram,low
+2025-09-04,Asia,Messenger,low
+2025-09-21,Asia,Instagram,low
+2025-08-02,South America,WhatsApp,low
+2025-07-19,Africa,Facebook,high
+2025-03-20,Asia,Messenger,high
+2025-06-22,North America,Instagram,low
+2025-03-10,Europe,WhatsApp,low
+2025-03-28,Asia,Instagram,low
+2025-04-11,Asia,Facebook,low
+2025-01-08,Africa,Messenger,low
+2025-07-19,North America,WhatsApp,low
+2025-03-28,Europe,Instagram,low
+2025-02-12,Asia,WhatsApp,medium
+2025-04-19,Europe,Instagram,medium
+2025-06-01,South America,Instagram,medium
+2025-01-17,Asia,Facebook,low
+2025-05-13,Asia,Facebook,high
+2025-05-28,South America,Instagram,high
+2025-08-20,Africa,Messenger,low
+2025-08-16,Asia,WhatsApp,low
+2025-05-19,Europe,WhatsApp,low
+2025-07-30,North America,Facebook,low
+2025-01-28,Europe,Messenger,low
+2025-02-20,Africa,Instagram,low
+2025-09-18,North America,Facebook,low
+2025-09-18,Europe,Instagram,low
+2025-01-08,Europe,Instagram,low
+2025-05-18,South America,Facebook,high
+2025-02-07,Africa,Messenger,low
+2025-04-21,South America,WhatsApp,medium
+2025-08-08,North America,Facebook,low
+2025-08-11,South America,Messenger,low
+2025-05-16,Africa,Instagram,low
+2025-09-13,Asia,Facebook,low
+2025-02-18,Asia,WhatsApp,low
+2025-03-19,North America,WhatsApp,low
+2025-04-15,Asia,Instagram,low
+2025-06-18,South America,Facebook,medium
+2025-08-05,North America,WhatsApp,low
+2025-04-29,Africa,Facebook,medium
+2025-07-09,North America,WhatsApp,low
+2025-09-12,North America,Instagram,medium
+2025-09-23,Europe,Instagram,low
+2025-05-29,Europe,Facebook,medium
+2025-06-13,North America,Messenger,high
+2025-05-20,Asia,Messenger,high
+2025-09-15,Europe,Instagram,low
+2025-09-26,Africa,WhatsApp,medium
+2025-06-30,South America,Messenger,low
+2025-06-09,Europe,Instagram,high
+2025-08-14,North America,WhatsApp,low
+2025-01-11,Asia,WhatsApp,low
+2025-01-10,South America,Messenger,low
+2025-09-28,Europe,Instagram,low
+2025-07-02,Asia,WhatsApp,medium
+2025-06-02,Asia,WhatsApp,high
+2025-05-04,Asia,Facebook,medium
+2025-04-24,North America,Facebook,medium
+2025-08-01,Africa,Messenger,medium
+2025-06-21,Asia,Facebook,low
+2025-06-23,South America,Instagram,low
+2025-04-23,Europe,Messenger,low
+2025-05-02,South America,Messenger,low
+2025-02-01,North America,Facebook,low
+2025-08-10,North America,WhatsApp,low
+2025-04-29,South America,Instagram,low
+2025-02-08,Africa,Instagram,low
+2025-09-25,North America,Instagram,high
+2025-08-21,North America,Messenger,low
+2025-01-18,South America,Instagram,low
+2025-05-29,North America,WhatsApp,low
+2025-05-29,Africa,WhatsApp,low
+2025-05-06,Africa,Facebook,low
+2025-08-26,Africa,Instagram,low
+2025-05-15,Europe,Messenger,low
+2025-05-31,Africa,Facebook,low
+2025-08-24,Africa,WhatsApp,low
+2025-08-12,Europe,Instagram,low
+2025-07-22,Asia,WhatsApp,medium
+2025-09-13,North America,Facebook,low
+2025-03-27,Africa,WhatsApp,low
+2025-05-30,North America,Instagram,low
+2025-08-23,South America,Instagram,medium
+2025-01-22,North America,Facebook,low
+2025-09-26,Europe,Instagram,medium
+2025-09-15,North America,WhatsApp,medium
+2025-01-29,North America,WhatsApp,low
+2025-08-01,North America,Messenger,low
+2025-02-19,Asia,Messenger,low
+2025-04-05,Asia,Messenger,low
+2025-03-29,South America,WhatsApp,low
+2025-02-13,Europe,WhatsApp,low
+2025-06-20,North America,Facebook,low
+2025-07-08,North America,Messenger,low
+2025-07-03,North America,WhatsApp,medium
+2025-01-03,North America,Facebook,low
+2025-07-10,Asia,WhatsApp,high
+2025-04-28,South America,Facebook,high
+2025-01-19,Africa,Messenger,high
+2025-01-23,Europe,Messenger,medium
+2025-01-30,North America,Messenger,low
+2025-04-18,South America,WhatsApp,low
+2025-05-08,Africa,WhatsApp,low
+2025-08-17,South America,Facebook,low
+2025-04-21,Asia,Instagram,medium
+2025-05-16,Africa,Instagram,high
+2025-07-05,South America,Messenger,low
+2025-05-24,Asia,Instagram,low
+2025-03-13,South America,Messenger,low
+2025-05-09,South America,Facebook,low
+2025-09-18,Africa,Instagram,low
+2025-01-03,Asia,Instagram,low
+2025-04-14,North America,Messenger,medium
+2025-08-12,Europe,Facebook,low
+2025-01-10,Africa,Instagram,high
+2025-08-19,Asia,Instagram,medium
+2025-08-07,South America,Instagram,medium
+2025-03-07,Asia,Facebook,low
+2025-04-22,Europe,Facebook,medium
+2025-01-13,Europe,Instagram,medium
+2025-03-27,North America,Messenger,low
+2025-08-22,North America,Messenger,low
+2025-03-31,Europe,Instagram,high
+2025-02-23,Africa,Facebook,low
+2025-01-12,Africa,Instagram,low
+2025-07-28,South America,Facebook,low
+2025-01-14,North America,Instagram,medium
+2025-05-01,South America,Facebook,medium
+2025-01-20,North America,WhatsApp,low
+2025-03-16,Europe,Messenger,low
+2025-08-31,Africa,WhatsApp,high
+2025-08-11,Africa,Messenger,medium
+2025-03-11,Europe,Facebook,medium
+2025-07-30,South America,WhatsApp,low
+2025-04-11,South America,Messenger,low
+2025-07-05,Asia,Instagram,low
+2025-05-12,North America,Facebook,medium
+2025-04-21,South America,Facebook,low
+2025-05-12,Europe,Instagram,low
+2025-01-20,South America,Instagram,low
+2025-01-24,Africa,Messenger,low
+2025-08-15,North America,Facebook,medium
+2025-06-03,Asia,Messenger,low
+2025-08-18,North America,Instagram,medium
+2025-07-21,Africa,Facebook,high
+2025-02-07,Africa,Instagram,low
+2025-09-17,Africa,Messenger,medium
+2025-07-07,Africa,Messenger,high
+2025-02-26,Europe,Messenger,high
+2025-01-20,Asia,Facebook,low
+2025-04-29,Africa,Instagram,low
+2025-03-12,Africa,Instagram,low
+2025-01-04,South America,Messenger,medium
+2025-08-09,Asia,Messenger,medium
+2025-01-14,North America,Messenger,medium
+2025-01-03,Asia,Messenger,low
+2025-08-04,Asia,WhatsApp,low
+2025-08-17,Asia,WhatsApp,low
+2025-07-05,Africa,WhatsApp,low
+2025-02-24,Africa,Messenger,medium
+2025-09-11,Europe,Messenger,low
+2025-01-24,North America,Instagram,low
+2025-06-11,South America,Facebook,low
+2025-06-07,Asia,Instagram,low
+2025-03-23,North America,WhatsApp,low
+2025-06-08,North America,Instagram,low
+2025-07-07,Europe,Messenger,low
+2025-03-01,South America,WhatsApp,low
+2025-07-30,Asia,WhatsApp,low
+2025-06-01,South America,Facebook,medium
+2025-04-19,Europe,Facebook,low
+2025-03-17,Africa,WhatsApp,medium
+2025-01-30,North America,WhatsApp,medium
+2025-04-27,Asia,Instagram,low
+2025-07-11,Africa,WhatsApp,high
+2025-01-19,Europe,Messenger,low
+2025-06-22,South America,Instagram,medium
+2025-08-16,North America,Messenger,high
+2025-07-02,Asia,Messenger,medium
+2025-04-23,Africa,Messenger,low
+2025-07-02,Africa,WhatsApp,low
+2025-05-26,North America,Facebook,low
+2025-04-26,South America,Facebook,medium
+2025-04-23,Europe,Messenger,medium
+2025-09-08,South America,WhatsApp,low
+2025-09-08,South America,Instagram,low
+2025-04-28,South America,Messenger,medium
+2025-06-10,North America,Instagram,low
+2025-07-17,North America,Instagram,medium
+2025-09-17,Europe,WhatsApp,medium
+2025-05-28,South America,WhatsApp,low
+2025-08-28,North America,Facebook,medium
+2025-02-16,Europe,Facebook,low
+2025-07-17,Europe,WhatsApp,low
+2025-02-16,South America,Messenger,high
+2025-03-19,Asia,Facebook,medium
+2025-05-04,South America,Instagram,low
+2025-03-16,Asia,Messenger,low
+2025-05-17,Europe,Instagram,low
+2025-03-31,North America,WhatsApp,low
+2025-03-02,Africa,Instagram,low
+2025-05-18,Europe,Messenger,low
+2025-02-19,North America,WhatsApp,low
+2025-09-16,Europe,Messenger,low
+2025-04-17,South America,Instagram,low
+2025-04-23,Asia,Messenger,high
+2025-09-11,Europe,WhatsApp,medium
+2025-04-28,North America,Instagram,low
+2025-07-17,South America,Instagram,low
+2025-02-20,Africa,Facebook,low
+2025-09-02,South America,Facebook,low
+2025-02-04,Asia,Messenger,low
+2025-03-10,South America,Facebook,medium
+2025-02-18,Africa,Facebook,medium
+2025-03-15,North America,Facebook,medium
+2025-07-11,Europe,Facebook,low
+2025-09-18,Asia,WhatsApp,high
+2025-03-11,Africa,WhatsApp,high
+2025-03-31,Asia,Facebook,low
+2025-09-17,South America,Messenger,low
+2025-05-06,Asia,WhatsApp,low
+2025-08-19,Africa,Facebook,low
+2025-05-09,Europe,WhatsApp,medium
+2025-04-10,Europe,Instagram,low
+2025-07-01,Asia,WhatsApp,low
+2025-06-23,North America,WhatsApp,low
+2025-07-07,Asia,Messenger,low
+2025-02-26,South America,WhatsApp,medium
+2025-01-31,Europe,Messenger,low
+2025-03-25,Europe,Instagram,medium
+2025-06-01,Europe,Facebook,low
+2025-02-05,North America,Messenger,low
+2025-08-01,North America,WhatsApp,low
+2025-04-16,Africa,WhatsApp,medium
+2025-08-08,Asia,Messenger,low
+2025-06-12,Asia,Instagram,low
+2025-08-08,South America,Facebook,low
+2025-09-27,Europe,WhatsApp,low
+2025-04-30,North America,Instagram,high
+2025-07-01,South America,Facebook,low
+2025-04-16,South America,Facebook,low
+2025-08-05,North America,WhatsApp,low
+2025-07-24,Asia,Messenger,medium
+2025-03-11,Europe,WhatsApp,low
+2025-02-13,Asia,WhatsApp,medium
+2025-08-16,South America,WhatsApp,medium
+2025-07-03,Europe,Instagram,low
+2025-04-17,Africa,Messenger,low
+2025-03-25,South America,Instagram,low
+2025-09-07,Asia,WhatsApp,medium
+2025-01-21,Asia,Messenger,low
+2025-07-15,Asia,Facebook,low
+2025-06-27,North America,Messenger,medium
+2025-01-07,South America,WhatsApp,low
+2025-03-11,Europe,Messenger,low
+2025-05-07,Asia,Facebook,low
+2025-06-09,Asia,Facebook,low
+2025-09-05,North America,Messenger,low
+2025-07-22,Europe,Facebook,low
+2025-05-28,South America,Instagram,high
+2025-05-23,Africa,Messenger,low
+2025-07-18,North America,Facebook,medium
+2025-06-03,South America,Facebook,medium
+2025-05-22,Africa,Messenger,low
+2025-06-14,Asia,Instagram,medium
+2025-01-21,Asia,Messenger,low
+2025-03-23,Europe,Facebook,high
+2025-03-10,Africa,Messenger,medium
+2025-05-11,Asia,Facebook,low
+2025-03-28,Asia,WhatsApp,low
+2025-08-06,Europe,Messenger,low
+2025-06-10,South America,Messenger,low
+2025-06-27,Asia,Facebook,low
+2025-04-27,North America,Facebook,low
+2025-07-15,North America,Facebook,medium
+2025-03-27,South America,Facebook,low
+2025-03-22,Africa,Messenger,medium
+2025-06-01,Europe,Facebook,medium
+2025-03-02,North America,Messenger,low
+2025-03-02,North America,Instagram,medium
+2025-01-28,South America,Messenger,low
+2025-02-12,Africa,Facebook,low
+2025-06-18,Africa,Facebook,medium
+2025-03-27,South America,Instagram,low
+2025-06-26,North America,Messenger,low
+2025-01-17,Europe,Instagram,medium
+2025-04-08,North America,Messenger,high
+2025-07-17,Africa,Facebook,medium
+2025-04-08,North America,Messenger,medium
+2025-03-06,Europe,Facebook,low
+2025-01-05,Asia,Facebook,low
+2025-01-02,North America,WhatsApp,medium
+2025-01-22,South America,WhatsApp,low
+2025-04-22,Asia,Messenger,low
+2025-02-26,South America,Facebook,low
+2025-03-07,South America,Instagram,medium
+2025-04-08,South America,Facebook,low
+2025-05-24,North America,Instagram,medium
+2025-05-05,Africa,Messenger,low
+2025-06-16,Asia,Messenger,low
+2025-03-27,Europe,Instagram,low
+2025-03-17,Africa,Instagram,low
+2025-02-28,North America,Facebook,medium
+2025-05-18,South America,Messenger,low
+2025-04-09,Europe,Facebook,low
+2025-07-11,Asia,Instagram,low
+2025-08-31,Africa,WhatsApp,low
+2025-02-18,Africa,WhatsApp,low
+2025-02-01,Europe,WhatsApp,low
+2025-01-20,North America,Instagram,high
+2025-06-03,Asia,Facebook,medium
+2025-03-09,Europe,Messenger,low
+2025-08-02,South America,Instagram,low
+2025-05-23,Asia,WhatsApp,low
+2025-08-20,Africa,Facebook,low
+2025-08-01,Europe,Messenger,medium
+2025-03-20,Africa,Messenger,medium
+2025-08-02,Africa,Instagram,low
+2025-04-26,Africa,Instagram,medium
+2025-04-02,North America,Messenger,low
+2025-09-27,Africa,Messenger,low
+2025-06-17,South America,WhatsApp,low
+2025-02-27,South America,Messenger,low
+2025-01-26,Asia,Instagram,high
+2025-03-07,Africa,Facebook,low
+2025-09-05,Africa,WhatsApp,low
+2025-09-11,Europe,WhatsApp,high
+2025-02-13,North America,Messenger,medium
+2025-04-07,Asia,Facebook,medium
+2025-02-11,Africa,WhatsApp,high
+2025-08-15,Europe,Instagram,low
+2025-09-19,North America,Messenger,medium
+2025-06-16,Asia,Instagram,medium
+2025-03-30,Asia,Messenger,medium
+2025-06-27,Africa,WhatsApp,medium
+2025-07-16,Asia,Messenger,low
+2025-09-24,Europe,Facebook,medium
+2025-09-25,Asia,Instagram,low
+2025-03-15,South America,Facebook,low
+2025-01-08,Europe,Instagram,low
+2025-06-13,North America,Instagram,high
+2025-03-26,North America,Messenger,low
+2025-03-13,Africa,WhatsApp,low
+2025-02-24,Africa,WhatsApp,low
+2025-02-16,South America,Facebook,high
+2025-08-26,North America,Messenger,low
+2025-04-14,North America,WhatsApp,medium
+2025-07-29,North America,Instagram,medium
+2025-02-11,North America,Instagram,low
+2025-09-25,Asia,Messenger,low
+2025-09-20,Europe,Facebook,medium
+2025-09-16,Europe,Messenger,high
+2025-04-24,South America,Facebook,medium
+2025-02-09,Asia,Messenger,low
+2025-08-08,North America,Instagram,medium
+2025-05-09,North America,Messenger,low
+2025-01-08,Africa,WhatsApp,low
+2025-04-11,Africa,WhatsApp,medium
+2025-06-25,South America,Messenger,low
+2025-04-17,North America,Facebook,medium
+2025-04-11,South America,Facebook,low
+2025-09-17,Asia,Instagram,medium
+2025-09-03,Europe,Instagram,low
+2025-02-01,North America,Facebook,low
+2025-05-17,Asia,Messenger,medium
+2025-01-12,North America,Instagram,low
+2025-01-16,Africa,Facebook,low
+2025-05-09,South America,Facebook,high
+2025-03-04,Africa,Messenger,low
+2025-04-19,Europe,WhatsApp,high
+2025-01-21,Africa,Facebook,low
+2025-06-07,North America,Instagram,low
+2025-09-26,Africa,Messenger,medium
+2025-06-11,North America,Messenger,medium
+2025-09-17,Europe,Messenger,low
+2025-04-12,Africa,WhatsApp,low
+2025-08-11,South America,WhatsApp,medium
+2025-02-28,South America,Instagram,low
+2025-09-04,South America,Instagram,low
+2025-05-08,Africa,Messenger,low
+2025-01-25,Africa,Instagram,low
+2025-05-11,Africa,Facebook,low
+2025-07-15,North America,WhatsApp,low
+2025-06-03,Europe,Messenger,low
+2025-05-13,South America,Messenger,low
+2025-08-15,North America,Facebook,low
+2025-07-08,South America,Facebook,medium
+2025-09-22,North America,Facebook,low
+2025-05-14,Africa,Facebook,medium
+2025-07-30,South America,Messenger,medium
+2025-03-01,Africa,WhatsApp,low
+2025-08-01,South America,WhatsApp,medium
+2025-08-04,Asia,Facebook,low
+2025-08-14,North America,Instagram,medium
+2025-05-11,Asia,Messenger,high
+2025-03-17,North America,WhatsApp,low
+2025-06-05,Europe,Facebook,medium
+2025-09-05,South America,Instagram,low
+2025-08-06,Europe,Instagram,low
+2025-07-09,Europe,Facebook,medium
+2025-06-12,North America,Messenger,low
+2025-06-29,Asia,WhatsApp,low
+2025-02-03,Africa,Instagram,low
+2025-02-10,North America,WhatsApp,medium
+2025-03-16,Africa,WhatsApp,low
+2025-06-25,Europe,Instagram,high
+2025-05-30,Africa,Facebook,low
+2025-04-18,Asia,Instagram,low
+2025-05-19,North America,Instagram,medium
+2025-09-28,Asia,Messenger,low
+2025-07-31,Asia,WhatsApp,medium
+2025-03-07,North America,Facebook,low
+2025-09-05,Asia,WhatsApp,low
+2025-06-05,South America,Instagram,low
+2025-02-16,South America,Facebook,high
+2025-07-20,South America,Facebook,low
+2025-05-28,Africa,Facebook,medium
+2025-05-04,Asia,Facebook,low
+2025-01-01,North America,Messenger,low
+2025-09-04,North America,Facebook,low
+2025-05-08,Africa,Instagram,high
+2025-07-10,North America,Messenger,medium
+2025-03-08,South America,Instagram,medium
+2025-01-04,Asia,Instagram,low
+2025-05-23,North America,WhatsApp,low
+2025-07-10,North America,Facebook,low
+2025-01-21,Europe,Facebook,high
+2025-08-15,Europe,Instagram,low
+2025-04-27,Europe,Facebook,low
+2025-05-22,Asia,Messenger,low
+2025-02-08,South America,WhatsApp,low
+2025-09-09,South America,Facebook,low
+2025-07-26,South America,Facebook,medium
+2025-07-29,Asia,Messenger,low
+2025-04-25,Asia,WhatsApp,medium
+2025-08-13,Europe,Messenger,medium
+2025-05-14,North America,Instagram,low
+2025-09-08,Africa,Instagram,low
+2025-08-07,Africa,Facebook,low
+2025-04-01,North America,WhatsApp,high
+2025-02-15,Europe,Instagram,low
+2025-02-07,North America,Messenger,low
+2025-05-22,North America,Instagram,low
+2025-04-10,Africa,Instagram,low
+2025-07-09,Europe,Messenger,low
+2025-02-04,Asia,Facebook,low
+2025-05-27,Africa,WhatsApp,medium
+2025-01-30,Asia,Facebook,medium
+2025-03-25,Europe,Messenger,low
+2025-09-27,North America,Instagram,low
+2025-06-03,South America,WhatsApp,medium
+2025-04-12,South America,Facebook,low
+2025-08-03,Europe,Messenger,medium
+2025-05-30,South America,Instagram,low
+2025-03-24,Asia,Instagram,medium
+2025-04-20,South America,Facebook,low
+2025-07-20,Europe,Messenger,low
+2025-06-22,Europe,Instagram,medium
+2025-07-25,Asia,Instagram,low
+2025-03-04,South America,WhatsApp,low
+2025-03-14,South America,Instagram,low
+2025-09-08,North America,Facebook,medium
+2025-05-04,Africa,Messenger,low
+2025-05-01,Europe,Messenger,medium
+2025-04-30,North America,WhatsApp,low
+2025-06-13,Europe,Messenger,low
+2025-09-22,North America,Facebook,medium
+2025-06-10,Africa,Instagram,low
+2025-03-30,North America,WhatsApp,low
+2025-05-22,Europe,Messenger,low
+2025-07-22,South America,WhatsApp,low
+2025-08-15,Europe,WhatsApp,medium
+2025-08-10,Asia,Messenger,low
+2025-02-10,Asia,WhatsApp,low
+2025-07-15,Asia,Messenger,low
+2025-03-09,Asia,Facebook,low
+2025-09-21,Africa,Messenger,low
+2025-01-02,South America,Instagram,high
+2025-05-05,South America,Messenger,medium
+2025-04-20,Europe,Instagram,low
+2025-03-27,North America,WhatsApp,low
+2025-04-30,Europe,Messenger,high
+2025-05-07,Europe,Instagram,low
+2025-09-12,Europe,Messenger,low
+2025-07-02,Europe,Messenger,medium
+2025-01-16,South America,Messenger,low
+2025-03-03,North America,Facebook,low
+2025-06-07,Europe,Instagram,high
+2025-09-25,South America,Facebook,medium
+2025-02-04,Europe,Facebook,low
+2025-09-24,Asia,Instagram,low
+2025-03-05,Europe,Messenger,low
+2025-02-19,Europe,Facebook,medium
+2025-09-12,Africa,Facebook,low
+2025-05-29,Asia,Facebook,low
+2025-06-21,North America,Messenger,high
+2025-07-20,Europe,Facebook,low
+2025-02-04,North America,WhatsApp,low
+2025-08-04,Asia,Instagram,low
+2025-03-06,Europe,WhatsApp,low
+2025-01-08,Africa,Messenger,low
+2025-03-17,South America,Facebook,high
+2025-06-23,Africa,Instagram,medium
+2025-02-16,Africa,Facebook,low
+2025-01-15,South America,Messenger,low
+2025-05-27,South America,Instagram,low
+2025-01-26,South America,WhatsApp,low
+2025-04-03,Europe,Instagram,low
+2025-08-20,North America,Facebook,high
+2025-01-21,North America,Instagram,low
+2025-02-07,South America,Messenger,low
+2025-06-06,Africa,Messenger,low
+2025-06-28,Asia,Instagram,low
+2025-05-12,South America,Messenger,low
+2025-01-28,Africa,Messenger,low
+2025-09-17,Africa,Messenger,low
+2025-03-17,Europe,WhatsApp,medium
+2025-03-08,Europe,Facebook,low
+2025-07-13,North America,Messenger,low
+2025-06-11,North America,Instagram,low
+2025-09-14,Asia,Messenger,medium
+2025-03-13,Asia,WhatsApp,low
+2025-03-28,Asia,Instagram,low
+2025-09-19,Asia,Facebook,low
+2025-08-02,Africa,Instagram,medium
+2025-06-02,Africa,Instagram,low
+2025-07-29,North America,Instagram,low
+2025-03-02,Europe,Instagram,low
+2025-09-25,Europe,Messenger,low
+2025-09-19,South America,Facebook,low
+2025-08-06,Africa,Messenger,low
+2025-05-16,Asia,WhatsApp,medium
+2025-04-03,Asia,WhatsApp,medium
+2025-04-19,South America,Instagram,low
+2025-08-29,Europe,Messenger,low
+2025-05-22,Asia,Messenger,low
+2025-08-25,Europe,Facebook,low
+2025-06-26,South America,Facebook,medium
+2025-05-21,Europe,Facebook,high
+2025-07-08,Europe,Messenger,low
+2025-02-18,Europe,Facebook,low
+2025-07-09,Asia,Facebook,low
+2025-05-16,North America,Facebook,medium
+2025-02-12,Africa,Instagram,medium
+2025-03-31,Europe,WhatsApp,medium
+2025-09-02,Europe,WhatsApp,medium
+2025-07-11,Europe,Messenger,low
+2025-04-16,North America,Messenger,medium
+2025-08-21,South America,Instagram,medium
+2025-09-22,Asia,WhatsApp,low
+2025-02-06,North America,Facebook,low
+2025-02-10,Europe,Facebook,medium
+2025-01-17,North America,Messenger,low
+2025-02-28,North America,WhatsApp,medium
+2025-07-02,North America,Messenger,medium
+2025-02-10,South America,Messenger,medium
+2025-02-08,Africa,Facebook,medium
+2025-07-11,Asia,Facebook,low
+2025-09-24,South America,WhatsApp,medium
+2025-05-27,South America,Messenger,low
+2025-05-07,Africa,Instagram,low
+2025-02-15,South America,WhatsApp,low
+2025-02-14,North America,Messenger,low
+2025-01-01,North America,WhatsApp,low
+2025-06-17,Europe,WhatsApp,high
+2025-04-18,South America,WhatsApp,low
+2025-01-19,Europe,Instagram,low
+2025-03-13,Asia,Instagram,low
+2025-04-19,North America,Facebook,low
+2025-09-25,Asia,Facebook,medium
+2025-08-28,Africa,Messenger,low
+2025-03-31,North America,WhatsApp,medium
+2025-04-13,Asia,Messenger,medium
+2025-09-07,Africa,Facebook,low
+2025-01-08,Asia,Instagram,medium
+2025-06-02,Africa,Facebook,low
+2025-06-23,Africa,Messenger,low
+2025-06-07,North America,Facebook,medium
+2025-08-03,Europe,Messenger,medium
+2025-06-26,Africa,Messenger,low
+2025-06-24,Africa,Messenger,low
+2025-05-26,North America,Messenger,low
+2025-06-10,Europe,Facebook,low
+2025-05-07,South America,Messenger,high
+2025-03-23,South America,Messenger,low
+2025-05-27,Europe,WhatsApp,low
+2025-08-27,Asia,Messenger,medium
+2025-03-25,North America,Facebook,low
+2025-04-23,Europe,Messenger,low
+2025-08-13,South America,Instagram,high
+2025-08-31,Africa,Instagram,medium
+2025-05-23,South America,Messenger,medium
+2025-02-10,Africa,Instagram,low
+2025-09-15,North America,Instagram,medium
+2025-04-15,Africa,Facebook,low
+2025-07-21,Europe,WhatsApp,low
+2025-09-23,Africa,Instagram,high
+2025-07-29,Asia,Instagram,low
+2025-02-20,Europe,WhatsApp,medium
+2025-04-28,North America,WhatsApp,low
+2025-07-20,Europe,Instagram,low
+2025-02-08,Asia,Messenger,medium
+2025-01-28,North America,Instagram,low
+2025-09-16,South America,Messenger,medium
+2025-03-25,Asia,Messenger,low
+2025-06-04,North America,Messenger,high
+2025-04-27,Africa,WhatsApp,low
+2025-01-02,Europe,Instagram,low
+2025-04-03,North America,Instagram,low
+2025-06-15,Europe,Facebook,high
+2025-09-15,Africa,WhatsApp,medium
+2025-03-22,North America,Facebook,medium
+2025-09-25,South America,Facebook,low
+2025-08-23,Asia,Messenger,low
+2025-08-01,North America,WhatsApp,low
+2025-03-03,Africa,Facebook,low
+2025-02-18,North America,Instagram,low
+2025-05-07,Europe,Facebook,high
+2025-08-11,North America,WhatsApp,medium
+2025-04-17,South America,Instagram,low
+2025-05-26,North America,Instagram,low
+2025-04-09,Asia,Instagram,medium
+2025-03-14,North America,Messenger,low
+2025-05-02,Europe,Instagram,low
+2025-01-30,North America,Messenger,low
+2025-07-07,South America,Messenger,low
+2025-07-14,Africa,Facebook,medium
+2025-06-05,North America,Facebook,low
+2025-06-21,North America,Instagram,low
+2025-02-10,Asia,WhatsApp,low
+2025-03-04,South America,Instagram,medium
+2025-01-23,Africa,Facebook,low
+2025-03-16,Europe,Instagram,low
+2025-02-17,North America,Facebook,high
+2025-06-09,Africa,Instagram,high
+2025-04-28,Europe,WhatsApp,high
+2025-04-10,South America,Instagram,medium
+2025-06-16,South America,WhatsApp,low
+2025-06-05,Africa,WhatsApp,low
+2025-01-07,Europe,Instagram,low
+2025-07-15,South America,WhatsApp,low
+2025-02-25,Africa,WhatsApp,high
+2025-07-12,South America,Facebook,medium
+2025-02-16,South America,Facebook,medium
+2025-05-28,South America,WhatsApp,low
+2025-06-06,Asia,Messenger,high
+2025-07-21,Europe,Instagram,medium
+2025-05-06,Africa,WhatsApp,low
+2025-03-05,Africa,Instagram,medium
+2025-06-25,Europe,Facebook,low
+2025-04-26,Europe,Instagram,low
+2025-07-23,Europe,WhatsApp,medium
+2025-01-31,Europe,WhatsApp,medium
+2025-04-23,North America,WhatsApp,low
+2025-03-08,Africa,WhatsApp,low
+2025-03-16,North America,Messenger,high
+2025-02-14,South America,Messenger,medium
+2025-09-17,South America,Messenger,medium
+2025-06-03,Africa,WhatsApp,low
+2025-06-04,South America,Messenger,low
+2025-08-22,Europe,Instagram,low
+2025-02-20,North America,WhatsApp,low
+2025-09-19,Europe,Facebook,low
+2025-05-05,South America,WhatsApp,low
+2025-09-02,North America,Instagram,low
+2025-01-30,Europe,Messenger,low
+2025-05-02,Africa,WhatsApp,medium
+2025-05-05,Europe,Messenger,low
+2025-02-06,South America,WhatsApp,low
+2025-06-19,North America,Instagram,low
+2025-05-04,Africa,WhatsApp,low
+2025-02-04,North America,Messenger,low
+2025-03-28,Africa,Messenger,high
+2025-05-14,North America,Instagram,medium
+2025-07-15,South America,WhatsApp,low
+2025-07-20,Africa,Facebook,low
+2025-03-18,Asia,WhatsApp,low
+2025-02-28,North America,Instagram,medium
+2025-05-06,North America,Facebook,low
+2025-04-19,Europe,Instagram,low
+2025-08-12,Africa,WhatsApp,medium
+2025-03-09,Asia,Facebook,medium
+2025-03-10,South America,Instagram,medium
+2025-06-14,Europe,Messenger,medium
+2025-06-11,Asia,Facebook,high
+2025-02-11,Africa,Facebook,low
+2025-04-19,Asia,Instagram,low
+2025-02-20,North America,Messenger,medium
+2025-09-07,North America,Facebook,medium
+2025-01-21,Europe,Instagram,high
+2025-05-19,Africa,Facebook,low
+2025-04-02,Africa,Facebook,low
+2025-05-05,Asia,Facebook,low
+2025-04-21,Europe,Messenger,low
+2025-05-19,Africa,WhatsApp,low
+2025-04-09,North America,WhatsApp,medium
+2025-09-09,Asia,Messenger,low
+2025-04-14,South America,Messenger,medium
+2025-08-02,North America,Instagram,medium
+2025-09-06,Europe,Facebook,low
+2025-06-01,Africa,Messenger,low
+2025-09-07,North America,Instagram,medium
+2025-06-14,South America,WhatsApp,medium
+2025-01-08,South America,WhatsApp,medium
+2025-01-05,Europe,WhatsApp,medium
+2025-05-25,North America,WhatsApp,high
+2025-04-11,Asia,Instagram,low
+2025-06-13,North America,Facebook,high
+2025-05-27,South America,Instagram,medium
+2025-03-05,Europe,Facebook,medium
+2025-04-01,Europe,WhatsApp,low
+2025-04-27,Asia,Messenger,high
+2025-09-24,Europe,Messenger,low
+2025-06-22,Europe,Messenger,medium
+2025-02-16,Europe,Facebook,low
+2025-05-20,Europe,WhatsApp,low
+2025-09-03,Europe,Instagram,low
+2025-05-29,South America,Messenger,low
+2025-09-03,North America,Facebook,low
+2025-01-05,Africa,Messenger,medium
+2025-07-03,Europe,Instagram,low
+2025-01-20,Africa,WhatsApp,low
+2025-02-15,Africa,Instagram,low
+2025-01-12,South America,WhatsApp,low
+2025-03-11,Europe,WhatsApp,low
+2025-01-17,Africa,WhatsApp,low
+2025-05-27,Europe,Messenger,low
+2025-06-03,Asia,Instagram,medium
+2025-04-18,Asia,Messenger,low
+2025-08-24,Asia,Instagram,low
+2025-03-11,Africa,Facebook,low
+2025-07-02,Asia,Facebook,high
+2025-09-07,South America,Instagram,low
+2025-08-16,South America,Instagram,low
+2025-04-12,Africa,Instagram,low
+2025-03-16,Europe,Instagram,low
+2025-08-04,North America,WhatsApp,low
+2025-07-22,Europe,Messenger,low
+2025-07-11,Europe,WhatsApp,low
+2025-09-06,Europe,Messenger,low
+2025-08-30,Europe,Messenger,low
+2025-06-28,North America,Messenger,medium
+2025-08-07,Asia,WhatsApp,high
+2025-03-23,Europe,Instagram,low
+2025-04-02,South America,WhatsApp,medium
+2025-06-24,Africa,WhatsApp,high
+2025-08-27,Africa,Messenger,medium
+2025-09-17,South America,Facebook,low
+2025-06-12,Europe,Facebook,medium
+2025-02-17,North America,WhatsApp,low
+2025-04-26,Asia,Messenger,low
+2025-08-13,Africa,WhatsApp,low
+2025-05-27,Asia,WhatsApp,low
+2025-03-04,North America,Instagram,low
+2025-01-13,Africa,Messenger,low
+2025-07-08,Asia,Facebook,medium
+2025-07-27,North America,Facebook,low
+2025-04-24,Asia,Facebook,low
+2025-01-22,Europe,WhatsApp,low
+2025-08-02,North America,Messenger,low
+2025-06-20,Asia,Instagram,low
+2025-02-23,Europe,Facebook,high
+2025-05-06,Europe,Messenger,low
+2025-07-23,North America,Facebook,low
+2025-07-13,South America,Instagram,medium
+2025-06-18,Africa,Messenger,low
+2025-06-01,North America,WhatsApp,medium
+2025-02-04,Europe,WhatsApp,low
+2025-07-03,Europe,Facebook,low
+2025-02-26,North America,Facebook,low
+2025-08-10,South America,Messenger,low
+2025-06-12,Africa,Instagram,low
+2025-01-19,Asia,Facebook,medium
+2025-09-21,North America,Messenger,medium
+2025-04-23,Africa,Instagram,medium
+2025-01-30,Africa,Facebook,medium
+2025-05-15,Europe,Facebook,low
+2025-03-08,Asia,Messenger,medium
+2025-03-06,North America,Facebook,low
+2025-01-25,Europe,WhatsApp,medium
+2025-02-06,Europe,Instagram,low
+2025-01-01,South America,Instagram,medium
+2025-02-06,Africa,WhatsApp,medium
+2025-05-21,North America,Messenger,low
+2025-08-20,North America,WhatsApp,low
+2025-05-16,North America,WhatsApp,low
+2025-07-07,Europe,Instagram,low
+2025-05-08,South America,Messenger,medium
+2025-07-20,Asia,Facebook,high
+2025-05-07,Europe,WhatsApp,low
+2025-09-14,Asia,WhatsApp,low
+2025-06-13,South America,Messenger,medium
+2025-02-04,Africa,WhatsApp,low
+2025-07-13,North America,Messenger,low
+2025-07-10,Asia,Facebook,high
+2025-04-14,Europe,Messenger,medium
+2025-01-23,Asia,Facebook,low
+2025-09-22,Africa,Messenger,low
+2025-09-17,North America,WhatsApp,medium
+2025-03-16,Asia,Facebook,medium
+2025-03-13,Africa,WhatsApp,medium
+2025-09-16,Europe,Facebook,low
+2025-07-07,South America,Messenger,high
+2025-06-22,Europe,Messenger,low
+2025-02-14,North America,Messenger,medium
+2025-03-02,Europe,Instagram,low
+2025-03-24,Europe,Instagram,low
+2025-05-03,Europe,Facebook,high
+2025-01-16,Europe,Instagram,low
+2025-03-07,North America,Messenger,low
+2025-05-25,Africa,Instagram,medium
+2025-06-11,Asia,Instagram,medium
+2025-08-22,South America,WhatsApp,medium
+2025-05-24,Asia,Facebook,low
+2025-07-07,Asia,Facebook,low
+2025-01-13,South America,Facebook,high
+2025-07-03,North America,Instagram,low
+2025-04-21,South America,Messenger,medium
+2025-08-03,North America,WhatsApp,low
+2025-04-30,Asia,Facebook,medium
+2025-02-24,North America,Instagram,low
+2025-01-27,Africa,Messenger,low
+2025-04-28,South America,WhatsApp,medium
+2025-08-09,Africa,WhatsApp,low
+2025-08-19,Asia,Facebook,medium
+2025-02-22,South America,Facebook,medium
+2025-08-21,Asia,Messenger,medium
+2025-06-07,Africa,Instagram,high
+2025-09-26,Asia,Messenger,low
+2025-01-21,South America,Facebook,low
+2025-02-22,South America,Messenger,low
+2025-08-02,Asia,Instagram,low
+2025-01-31,South America,WhatsApp,low
+2025-07-02,South America,WhatsApp,low
+2025-01-23,Asia,WhatsApp,low
+2025-02-01,Africa,WhatsApp,low
+2025-03-15,South America,Facebook,low
+2025-01-10,South America,Facebook,medium
+2025-02-23,South America,Instagram,low
+2025-02-21,South America,Instagram,low
+2025-05-28,Asia,Instagram,medium
+2025-06-09,Africa,Instagram,low
+2025-01-14,Africa,Messenger,high
+2025-06-27,North America,Instagram,medium
+2025-02-22,South America,WhatsApp,low
+2025-01-22,South America,WhatsApp,medium
+2025-01-30,North America,WhatsApp,medium
+2025-07-10,Africa,Messenger,low
+2025-09-17,Europe,Instagram,medium
+2025-07-24,Europe,WhatsApp,low
+2025-02-28,Africa,WhatsApp,low
+2025-09-21,South America,WhatsApp,low
+2025-01-12,Europe,WhatsApp,low
+2025-04-29,Asia,Facebook,low
+2025-09-05,Asia,Instagram,high
+2025-05-07,North America,Instagram,low
+2025-03-16,Africa,Messenger,low
+2025-07-23,Africa,Facebook,low
+2025-02-18,Europe,Messenger,medium
+2025-03-20,South America,WhatsApp,high
+2025-08-29,Africa,Messenger,medium
+2025-06-03,Europe,WhatsApp,high
+2025-04-06,Europe,WhatsApp,medium
+2025-08-02,Africa,Instagram,high
+2025-07-28,Europe,Instagram,medium
+2025-03-29,North America,Instagram,low
+2025-09-21,North America,Instagram,low
+2025-06-06,Africa,Instagram,medium
+2025-06-05,South America,Facebook,low
+2025-05-19,North America,Instagram,low
+2025-05-01,North America,Messenger,low
+2025-03-06,Africa,WhatsApp,high
+2025-04-17,Asia,Instagram,low
+2025-05-27,Europe,Facebook,medium
+2025-05-17,North America,Messenger,medium
+2025-06-11,Asia,Messenger,high
+2025-04-10,South America,WhatsApp,high
+2025-05-21,Asia,Messenger,medium
+2025-03-24,Africa,Messenger,low
+2025-06-26,South America,Messenger,low
+2025-07-17,South America,Messenger,low
+2025-04-22,Asia,Facebook,medium
+2025-02-25,Africa,WhatsApp,medium
+2025-06-28,North America,Instagram,medium
+2025-07-05,Asia,Messenger,low
+2025-08-06,North America,Facebook,low
+2025-08-05,Asia,WhatsApp,low
+2025-04-30,North America,Instagram,low
+2025-06-24,Asia,WhatsApp,low
+2025-01-23,South America,Facebook,low
+2025-08-01,Europe,Facebook,medium
+2025-08-23,South America,Facebook,low
+2025-01-13,North America,Messenger,low
+2025-04-11,Africa,Facebook,high
+2025-01-24,South America,Instagram,low
+2025-01-11,Europe,Messenger,low
+2025-04-04,North America,WhatsApp,low
+2025-07-20,South America,Instagram,low
+2025-01-21,Asia,Messenger,low
+2025-07-30,Africa,Facebook,low
+2025-05-20,North America,WhatsApp,low
+2025-04-11,South America,Facebook,low
+2025-01-28,North America,Instagram,low
+2025-02-10,Asia,Instagram,medium
+2025-05-26,Europe,Messenger,low
+2025-09-13,South America,Instagram,high
+2025-08-15,North America,WhatsApp,low
+2025-08-24,North America,Messenger,low
+2025-01-13,North America,WhatsApp,medium
+2025-07-29,Europe,Facebook,low
+2025-08-17,North America,WhatsApp,low
+2025-04-10,Africa,WhatsApp,medium
+2025-01-31,Africa,Instagram,low
+2025-01-16,North America,Facebook,medium
+2025-05-17,Africa,Instagram,high
+2025-06-15,South America,Facebook,low
+2025-04-10,Africa,Facebook,low
+2025-04-19,North America,WhatsApp,low
+2025-06-22,Asia,Instagram,high
+2025-08-25,South America,WhatsApp,medium
+2025-06-11,Europe,WhatsApp,high
+2025-08-04,North America,WhatsApp,low
+2025-09-21,Europe,Facebook,medium
+2025-09-20,Asia,Instagram,low
+2025-01-03,Europe,Instagram,low
+2025-01-28,North America,WhatsApp,high
+2025-05-29,North America,Facebook,low
+2025-01-28,Asia,Instagram,high
+2025-03-06,North America,Messenger,low
+2025-01-21,Asia,Instagram,medium
+2025-09-09,Asia,WhatsApp,low
+2025-08-23,North America,Messenger,low
+2025-08-15,Africa,Facebook,low
+2025-01-13,Asia,Messenger,low
+2025-02-18,North America,Messenger,low
+2025-04-28,Africa,WhatsApp,medium
+2025-02-23,Asia,Instagram,low
+2025-05-18,Africa,Facebook,low
+2025-02-22,South America,Messenger,low
+2025-02-13,South America,WhatsApp,low
+2025-02-22,Africa,Instagram,medium
+2025-03-15,Asia,Messenger,medium
+2025-02-15,North America,WhatsApp,low
+2025-01-13,Europe,WhatsApp,low
+2025-06-14,North America,WhatsApp,medium
+2025-04-12,Europe,Facebook,low
+2025-09-15,Europe,Instagram,low
+2025-05-18,Asia,Messenger,low
+2025-06-12,Africa,Instagram,low
+2025-04-21,North America,Instagram,low
+2025-04-12,Africa,Messenger,low
+2025-01-17,South America,Instagram,medium
+2025-09-25,Asia,Facebook,low
+2025-07-01,Asia,Messenger,low
+2025-01-24,South America,Messenger,low
+2025-01-29,North America,WhatsApp,low
+2025-06-20,South America,Instagram,low
+2025-08-16,North America,Messenger,high
+2025-07-07,Europe,Messenger,low
+2025-08-18,Asia,Facebook,medium
+2025-04-29,North America,WhatsApp,low
+2025-06-05,Africa,Messenger,medium
+2025-06-24,Africa,Facebook,low
+2025-04-14,Asia,Messenger,low
+2025-04-02,South America,Messenger,medium
+2025-07-05,South America,Messenger,low
+2025-06-30,North America,Facebook,medium
+2025-06-19,South America,Instagram,low
+2025-07-06,Asia,Messenger,high
+2025-06-24,North America,Messenger,medium
+2025-08-10,Europe,Instagram,high
+2025-08-21,South America,Messenger,low
+2025-06-11,South America,WhatsApp,low
+2025-05-14,North America,Messenger,medium
+2025-08-12,Africa,WhatsApp,medium
+2025-06-02,South America,Instagram,high
+2025-02-02,Asia,Facebook,low
+2025-02-24,South America,Instagram,medium
+2025-01-07,Europe,Messenger,low
+2025-09-01,South America,WhatsApp,low
+2025-05-06,Africa,Facebook,low
+2025-01-12,South America,Messenger,low
+2025-01-16,North America,Facebook,high
+2025-07-27,South America,Facebook,low
+2025-02-12,Africa,Messenger,medium
+2025-05-15,North America,Instagram,low
+2025-08-16,Asia,Messenger,low
+2025-04-21,North America,Messenger,low
+2025-06-09,Europe,Instagram,low
+2025-09-21,North America,WhatsApp,low
+2025-08-13,Asia,Messenger,medium
+2025-08-05,South America,Facebook,high
+2025-02-14,North America,Messenger,low
+2025-08-02,North America,Messenger,low
+2025-02-28,North America,Facebook,low
+2025-05-12,North America,Instagram,medium
+2025-04-14,Asia,WhatsApp,low
+2025-07-14,Africa,WhatsApp,low
+2025-06-06,Africa,Facebook,low
+2025-04-08,North America,Instagram,high
+2025-08-14,Asia,Messenger,low
+2025-07-24,Asia,Messenger,low
+2025-03-20,North America,Messenger,high
+2025-05-04,Europe,Messenger,medium
+2025-08-06,North America,Messenger,medium
+2025-01-04,Europe,Facebook,low
+2025-03-31,North America,Messenger,high
+2025-04-14,Europe,Messenger,medium
+2025-04-29,Europe,Instagram,medium
+2025-05-13,North America,Messenger,medium
+2025-04-06,Europe,WhatsApp,medium
+2025-05-23,South America,Facebook,low
+2025-01-28,Africa,Facebook,low
+2025-08-21,Asia,Facebook,medium
+2025-01-17,Europe,WhatsApp,low
+2025-02-28,Europe,Messenger,low
+2025-03-31,Asia,Facebook,low
+2025-07-18,Europe,WhatsApp,medium
+2025-01-26,Asia,Instagram,low
+2025-01-25,North America,Messenger,medium
+2025-09-24,South America,WhatsApp,medium
+2025-06-30,South America,Messenger,low
+2025-03-09,Africa,Instagram,low
+2025-02-18,Europe,WhatsApp,low
+2025-06-24,Africa,Messenger,low
+2025-02-21,North America,WhatsApp,low
+2025-04-12,South America,Facebook,low
+2025-08-04,North America,Messenger,high
+2025-07-07,North America,WhatsApp,low
+2025-02-26,Europe,Facebook,medium
+2025-02-16,North America,Instagram,low
+2025-06-08,South America,Messenger,medium
+2025-06-23,Africa,Messenger,low
+2025-08-30,South America,Instagram,medium
+2025-08-29,Europe,Facebook,medium
+2025-01-05,South America,Instagram,medium
+2025-03-25,Asia,Messenger,low
+2025-09-05,Africa,WhatsApp,medium
+2025-02-23,Asia,Facebook,low
+2025-06-10,Asia,Facebook,low
+2025-08-14,Europe,Facebook,low
+2025-01-15,North America,Instagram,low
+2025-08-12,Asia,Instagram,low
+2025-03-02,South America,WhatsApp,medium
+2025-05-02,North America,WhatsApp,low
+2025-02-15,South America,Facebook,low
+2025-03-03,South America,WhatsApp,low
+2025-03-27,North America,Instagram,medium
+2025-07-29,North America,WhatsApp,low
+2025-03-19,South America,Instagram,low
+2025-07-21,Europe,WhatsApp,medium
+2025-08-11,Africa,Messenger,low
+2025-08-10,Africa,Instagram,low
+2025-01-03,Europe,Messenger,low
+2025-01-06,North America,Instagram,medium
+2025-04-03,South America,WhatsApp,medium
+2025-01-08,Africa,Messenger,low
+2025-08-23,South America,WhatsApp,low
+2025-04-18,Europe,Instagram,low
+2025-06-10,South America,Messenger,medium
+2025-07-28,Europe,Facebook,medium
+2025-08-28,North America,WhatsApp,low
+2025-02-19,Europe,Instagram,low
+2025-01-11,Europe,Messenger,medium
+2025-06-05,Africa,WhatsApp,medium
+2025-03-11,South America,Messenger,medium
+2025-06-18,Africa,WhatsApp,medium
+2025-03-09,Asia,WhatsApp,medium
+2025-09-09,Europe,WhatsApp,low
+2025-02-17,Asia,Messenger,low
+2025-07-03,Africa,Messenger,low
+2025-07-06,South America,WhatsApp,medium
+2025-03-31,Africa,Facebook,low
+2025-05-19,South America,Facebook,low
+2025-03-30,South America,Facebook,low
+2025-01-19,North America,Instagram,low
+2025-06-03,Europe,Facebook,medium
+2025-09-17,Africa,Messenger,low
+2025-04-18,South America,Facebook,low
+2025-02-28,Africa,Messenger,medium
+2025-05-05,Africa,Instagram,low
+2025-04-17,South America,Messenger,medium
+2025-09-02,Asia,Messenger,medium
+2025-09-04,Europe,Messenger,high
+2025-01-08,Europe,Facebook,medium
+2025-05-21,North America,WhatsApp,low
+2025-01-08,North America,Messenger,low
+2025-04-04,North America,Facebook,low
+2025-02-08,Europe,Facebook,low
+2025-03-22,Asia,Facebook,low
+2025-07-06,Europe,WhatsApp,low
+2025-03-25,Europe,WhatsApp,medium
+2025-03-29,Europe,WhatsApp,low
+2025-08-30,Europe,WhatsApp,low
+2025-04-03,Asia,Instagram,low
+2025-03-27,North America,WhatsApp,low
+2025-02-13,Africa,WhatsApp,high
+2025-05-17,North America,WhatsApp,low
+2025-03-15,North America,Messenger,medium
+2025-02-05,Africa,Messenger,low
+2025-04-11,Europe,WhatsApp,low
+2025-06-05,Asia,Instagram,low
+2025-09-12,Asia,Messenger,medium
+2025-06-20,North America,Facebook,low
+2025-08-04,Africa,Messenger,low
+2025-06-19,South America,Facebook,low
+2025-09-09,Europe,Messenger,medium
+2025-02-24,North America,WhatsApp,medium
+2025-04-01,Asia,Messenger,low
+2025-04-11,Africa,WhatsApp,low
+2025-06-04,Africa,WhatsApp,medium
+2025-05-21,North America,Messenger,medium
+2025-06-22,South America,Facebook,medium
+2025-01-10,Asia,Facebook,medium
+2025-08-16,North America,Messenger,medium
+2025-09-22,South America,WhatsApp,low
+2025-09-05,Africa,Facebook,medium
+2025-09-04,Europe,Instagram,high
+2025-06-04,Asia,WhatsApp,low
+2025-02-03,Asia,Messenger,low
+2025-05-09,South America,WhatsApp,high
+2025-06-09,North America,Instagram,low
+2025-03-30,Africa,Instagram,medium
+2025-04-03,South America,Facebook,low
+2025-08-29,Europe,Instagram,low
+2025-04-27,Europe,WhatsApp,low
+2025-04-04,Europe,Facebook,low
+2025-06-12,South America,Instagram,low
+2025-04-09,Africa,Facebook,low
+2025-04-23,Asia,Facebook,medium
+2025-04-01,North America,Messenger,high
+2025-07-25,Asia,Facebook,low
+2025-01-17,Africa,Facebook,low
+2025-06-22,Asia,Instagram,low
+2025-04-26,South America,WhatsApp,low
+2025-06-30,Europe,WhatsApp,low
+2025-04-01,Africa,Instagram,low
+2025-03-23,Africa,WhatsApp,low
+2025-04-24,Asia,Facebook,low
+2025-09-14,South America,Messenger,low
+2025-02-27,Asia,Facebook,medium
+2025-06-03,Asia,Facebook,low
+2025-04-26,Africa,Messenger,medium
+2025-09-23,Asia,Instagram,high
+2025-07-22,Europe,Facebook,high
+2025-02-10,Asia,Facebook,high
+2025-04-15,Europe,Instagram,low
+2025-07-12,Africa,Facebook,low
+2025-08-25,South America,Facebook,low
+2025-08-09,Europe,WhatsApp,medium
+2025-03-09,South America,Instagram,medium
+2025-07-16,South America,Facebook,medium
+2025-09-13,Europe,Facebook,low
+2025-05-19,Africa,Messenger,medium
+2025-05-29,North America,Messenger,low
+2025-04-09,South America,Messenger,low
+2025-03-17,South America,Facebook,medium
+2025-04-19,Africa,Facebook,low
+2025-07-07,Africa,Messenger,high
+2025-07-18,Asia,WhatsApp,low
+2025-06-03,Africa,WhatsApp,medium
+2025-02-09,South America,WhatsApp,low
+2025-05-13,Europe,WhatsApp,medium
+2025-05-12,North America,Instagram,medium
+2025-03-25,Asia,Messenger,high
+2025-08-30,Europe,Facebook,low
+2025-04-26,North America,Messenger,high
+2025-04-19,North America,WhatsApp,low
+2025-08-09,North America,Facebook,low
+2025-02-10,Europe,Instagram,low
+2025-05-27,Asia,Messenger,medium
+2025-04-22,Asia,Facebook,low
+2025-04-13,North America,Facebook,medium
+2025-02-15,Europe,WhatsApp,medium
+2025-09-28,North America,WhatsApp,low
+2025-07-14,Africa,Messenger,high
+2025-02-09,Asia,Instagram,low
+2025-07-08,South America,Facebook,medium
+2025-06-13,North America,WhatsApp,low
+2025-01-24,Africa,Messenger,low
+2025-01-24,Asia,WhatsApp,low
+2025-01-04,Europe,Messenger,low
+2025-06-30,Asia,WhatsApp,low
+2025-09-05,Europe,Instagram,low
+2025-04-26,Europe,Facebook,low
+2025-03-10,North America,WhatsApp,low
+2025-09-11,North America,Facebook,low
+2025-06-30,Asia,Messenger,medium
+2025-06-18,Africa,Instagram,low
+2025-09-06,Asia,Facebook,medium
+2025-07-07,South America,WhatsApp,medium
+2025-02-23,Europe,Facebook,medium
+2025-05-18,Europe,Facebook,medium
+2025-06-17,North America,Messenger,low
+2025-04-13,Africa,Instagram,medium
+2025-03-26,North America,Instagram,low
+2025-07-31,South America,Facebook,medium
+2025-01-03,Asia,Facebook,medium
+2025-06-28,Asia,Messenger,low
+2025-02-07,Africa,Facebook,medium
+2025-08-27,North America,Messenger,low
+2025-06-18,North America,Instagram,low
+2025-01-30,South America,Instagram,low
+2025-07-09,Asia,Messenger,medium
+2025-01-25,North America,Facebook,medium
+2025-04-22,Africa,Instagram,medium
+2025-07-25,Asia,WhatsApp,low
+2025-07-04,South America,Messenger,low
+2025-02-16,Africa,Instagram,medium
+2025-08-16,Europe,Instagram,low
+2025-02-08,South America,Instagram,medium
+2025-01-16,Africa,WhatsApp,low
+2025-01-22,North America,WhatsApp,low
+2025-08-01,Europe,WhatsApp,low
+2025-05-29,South America,Facebook,medium
+2025-08-29,North America,Messenger,low
+2025-02-28,Europe,Facebook,low
+2025-07-21,Asia,WhatsApp,low
+2025-02-01,North America,Messenger,low
+2025-06-11,Africa,Facebook,low
+2025-09-12,South America,Facebook,low
+2025-09-11,Europe,Facebook,medium
+2025-01-09,North America,WhatsApp,low
+2025-05-19,Asia,Instagram,medium
+2025-01-10,South America,Messenger,medium
+2025-08-02,South America,WhatsApp,low
+2025-02-17,North America,Messenger,low
+2025-04-21,Asia,WhatsApp,medium
+2025-06-02,Europe,Facebook,low
+2025-05-03,North America,Facebook,low
+2025-04-12,Europe,Instagram,low
+2025-08-29,South America,Instagram,medium
+2025-07-10,Europe,Messenger,low
+2025-08-05,Asia,Instagram,high
+2025-02-20,Africa,Instagram,medium
+2025-03-22,Asia,Messenger,low
+2025-03-29,Europe,WhatsApp,low
+2025-07-13,North America,Instagram,low
+2025-04-14,South America,WhatsApp,low
+2025-09-28,Africa,Facebook,low
+2025-04-06,North America,Instagram,low
+2025-07-17,North America,Facebook,low
+2025-01-01,Asia,Facebook,low
+2025-06-16,Europe,WhatsApp,low
+2025-05-06,Asia,Messenger,high
+2025-03-22,Europe,Instagram,low
+2025-09-08,Asia,WhatsApp,high
+2025-06-18,North America,Messenger,low
+2025-03-14,South America,Facebook,low
+2025-05-21,Europe,Instagram,low
+2025-03-11,Africa,Facebook,low
+2025-09-19,Africa,Facebook,low
+2025-09-02,North America,Instagram,high
+2025-01-03,Asia,Messenger,high
+2025-03-04,Asia,Messenger,low
+2025-02-18,North America,Instagram,low
+2025-03-17,Africa,Instagram,low
+2025-06-24,Africa,WhatsApp,low
+2025-04-19,Asia,WhatsApp,low
+2025-07-02,Europe,Facebook,low
+2025-07-11,South America,Instagram,low
+2025-03-06,Europe,Messenger,low
+2025-09-28,Africa,Facebook,low
+2025-04-10,Europe,Facebook,low
+2025-02-01,South America,Facebook,low
+2025-05-08,Europe,Facebook,high
+2025-02-12,Europe,Messenger,low
+2025-03-19,Europe,Facebook,medium
+2025-09-27,Europe,Instagram,medium
+2025-06-11,North America,WhatsApp,high
+2025-07-08,Africa,Messenger,medium
+2025-09-04,South America,Instagram,medium
+2025-08-04,Africa,Instagram,medium
+2025-06-17,North America,Instagram,low
+2025-07-12,North America,WhatsApp,low
+2025-01-13,North America,WhatsApp,high
+2025-08-28,North America,WhatsApp,medium
+2025-05-27,Europe,Instagram,high
+2025-07-23,Africa,WhatsApp,medium
+2025-03-21,Asia,Facebook,medium
+2025-02-12,South America,WhatsApp,medium
+2025-03-30,North America,Messenger,medium
+2025-05-28,Africa,Instagram,low
+2025-04-05,North America,Instagram,high
+2025-05-31,North America,Facebook,medium
+2025-01-02,North America,WhatsApp,medium
+2025-01-22,North America,WhatsApp,medium
+2025-01-07,North America,Messenger,low
+2025-07-25,South America,Facebook,low
+2025-04-24,Africa,Messenger,high
+2025-03-24,North America,Messenger,low
+2025-06-28,North America,Instagram,low
+2025-07-29,North America,Instagram,low
+2025-05-04,North America,WhatsApp,medium
+2025-04-23,Europe,WhatsApp,medium
+2025-01-12,Europe,Messenger,medium
+2025-05-06,Asia,WhatsApp,medium
+2025-02-22,North America,Messenger,low
+2025-05-20,Asia,WhatsApp,low
+2025-04-07,South America,WhatsApp,low
+2025-01-05,Asia,Instagram,medium
+2025-02-26,Africa,Instagram,low
+2025-03-10,Europe,Instagram,medium
+2025-04-28,Europe,Instagram,low
+2025-02-28,North America,Facebook,low
+2025-02-02,North America,Instagram,high
+2025-02-19,South America,Facebook,low
+2025-01-19,South America,Instagram,medium
+2025-08-02,Africa,WhatsApp,low
+2025-07-16,North America,Messenger,low
+2025-02-16,North America,WhatsApp,low
+2025-06-16,South America,WhatsApp,low
+2025-05-21,South America,Facebook,medium
+2025-03-25,South America,Instagram,low
+2025-07-01,Europe,Messenger,low
+2025-03-20,Asia,Messenger,low
+2025-08-03,Asia,Instagram,medium
+2025-01-14,North America,Facebook,medium
+2025-08-03,Europe,Facebook,low
+2025-05-08,South America,Facebook,low
+2025-09-05,North America,Messenger,medium
+2025-01-29,Europe,Facebook,medium
+2025-07-21,Africa,Facebook,low
+2025-02-26,Europe,Messenger,medium
+2025-08-06,North America,Messenger,medium
+2025-03-03,Asia,WhatsApp,medium
+2025-06-06,South America,Messenger,medium
+2025-07-21,Africa,Instagram,high
+2025-01-17,Europe,Messenger,low
+2025-01-06,North America,Messenger,high
+2025-02-27,North America,Facebook,low
+2025-06-18,South America,WhatsApp,medium
+2025-03-23,North America,Facebook,low
+2025-08-07,North America,WhatsApp,low
+2025-06-26,South America,Facebook,medium
+2025-07-23,Africa,Instagram,medium
+2025-03-12,Asia,Facebook,low
+2025-09-23,Asia,Facebook,low
+2025-04-08,Europe,Instagram,low
+2025-07-27,Africa,Instagram,high
+2025-01-02,Europe,Messenger,medium
+2025-05-04,Asia,Facebook,low
+2025-03-15,South America,Instagram,medium
+2025-06-15,North America,Instagram,high
+2025-01-22,Asia,Messenger,low
+2025-06-03,Africa,WhatsApp,medium
+2025-08-07,Asia,Instagram,low
+2025-06-06,Africa,Instagram,medium
+2025-08-18,Africa,Facebook,low
+2025-01-20,Africa,Messenger,low
+2025-02-10,Europe,Facebook,low
+2025-05-28,South America,WhatsApp,low
+2025-04-18,Asia,Messenger,medium
+2025-03-25,South America,Facebook,low
+2025-05-14,North America,Instagram,low
+2025-07-26,Asia,Instagram,medium
+2025-09-23,South America,Messenger,low
+2025-03-14,South America,Instagram,low
+2025-02-17,North America,Facebook,high
+2025-08-21,Africa,Messenger,medium
+2025-04-10,Asia,Instagram,low
+2025-02-28,Asia,Instagram,low
+2025-09-15,North America,WhatsApp,high
+2025-03-06,Africa,WhatsApp,low
+2025-03-24,Asia,Messenger,low
+2025-06-03,Asia,WhatsApp,low
+2025-09-23,Asia,Facebook,low
+2025-03-20,Africa,Instagram,medium
+2025-05-30,North America,Instagram,medium
+2025-02-17,Asia,Instagram,high
+2025-09-05,South America,Messenger,medium
+2025-04-08,Africa,Messenger,low
+2025-01-25,Europe,WhatsApp,low
+2025-03-09,North America,Instagram,high
+2025-01-07,South America,Instagram,low
+2025-05-17,Asia,Instagram,low
+2025-06-13,Europe,Instagram,high
+2025-03-24,North America,Instagram,low
+2025-05-18,Africa,Facebook,low
+2025-03-14,Europe,Instagram,medium
+2025-08-25,Europe,Facebook,high
+2025-02-15,South America,Instagram,low
+2025-04-16,North America,Messenger,medium
+2025-09-19,South America,Messenger,low
+2025-06-25,South America,Facebook,low
+2025-06-15,Asia,Instagram,high
+2025-05-25,Africa,Messenger,high
+2025-02-23,Europe,Messenger,low
+2025-06-27,North America,Instagram,low
+2025-09-01,Africa,Instagram,low
+2025-05-07,Africa,Messenger,low
+2025-09-28,North America,Instagram,low
+2025-05-12,Africa,WhatsApp,low
+2025-04-03,Asia,Instagram,low
+2025-03-14,Africa,Messenger,low
+2025-09-05,Asia,Messenger,low
+2025-02-12,Europe,Facebook,medium
+2025-02-10,Europe,WhatsApp,low
+2025-06-19,South America,Messenger,low
+2025-07-31,Asia,WhatsApp,medium
+2025-06-17,Europe,Instagram,medium
+2025-02-08,Africa,Messenger,low
+2025-09-02,North America,Facebook,low
+2025-05-31,North America,Messenger,medium
+2025-04-21,Asia,Facebook,low
+2025-02-16,South America,WhatsApp,medium
+2025-03-04,Africa,Facebook,low
+2025-08-13,Asia,Instagram,low
+2025-03-10,North America,Instagram,low
+2025-07-22,Asia,Instagram,medium
+2025-03-02,Africa,Messenger,high
+2025-06-10,Europe,Instagram,low
+2025-01-16,Africa,Instagram,low
+2025-04-04,Europe,Messenger,low
+2025-05-18,Europe,WhatsApp,low
+2025-02-07,Europe,Instagram,medium
+2025-05-07,Asia,Instagram,low
+2025-06-13,North America,Messenger,high
+2025-03-18,Asia,WhatsApp,medium
+2025-06-23,North America,WhatsApp,high
+2025-04-01,Africa,WhatsApp,medium
+2025-08-26,South America,Messenger,low
+2025-09-21,Africa,Facebook,low
+2025-06-28,Asia,Facebook,low
+2025-07-28,Asia,Instagram,low
+2025-03-14,North America,Instagram,low
+2025-04-17,Asia,Instagram,low
+2025-07-01,Europe,Facebook,high
+2025-02-06,Asia,Messenger,low
+2025-05-17,North America,Instagram,medium
+2025-02-25,North America,Messenger,high
+2025-07-06,Europe,Instagram,medium
+2025-09-15,North America,Messenger,low
+2025-02-27,South America,Messenger,low
+2025-05-03,Africa,Facebook,low
+2025-07-07,Asia,Messenger,low
+2025-08-18,South America,WhatsApp,low
+2025-06-17,Asia,Facebook,medium
+2025-04-24,South America,Instagram,low
+2025-09-09,Asia,Facebook,low
+2025-04-17,Europe,WhatsApp,high
+2025-02-06,North America,WhatsApp,low
+2025-04-02,North America,Messenger,low
+2025-01-18,Europe,WhatsApp,medium
+2025-03-04,South America,WhatsApp,low
+2025-05-30,Africa,WhatsApp,medium
+2025-05-19,South America,WhatsApp,low
+2025-07-05,North America,Instagram,medium
+2025-07-04,Africa,Instagram,low
+2025-07-24,Asia,Facebook,low
+2025-09-17,Africa,Messenger,low
+2025-08-02,South America,Instagram,low
+2025-09-13,Europe,WhatsApp,low
+2025-05-15,Asia,Messenger,low
+2025-03-02,South America,Instagram,low
+2025-03-29,Asia,Facebook,low
+2025-07-26,Africa,WhatsApp,low
+2025-05-09,North America,Messenger,low
+2025-01-03,South America,Instagram,medium
+2025-08-30,Europe,Messenger,low
+2025-05-01,Africa,Instagram,low
+2025-04-12,South America,Facebook,medium
+2025-02-07,Europe,WhatsApp,medium
+2025-05-13,South America,Facebook,low
+2025-07-21,Africa,WhatsApp,low
+2025-01-21,South America,WhatsApp,low
+2025-08-30,Asia,Messenger,low
+2025-04-19,Africa,Instagram,medium
+2025-03-25,South America,Facebook,low
+2025-03-24,North America,Facebook,medium
+2025-03-10,South America,Facebook,low
+2025-05-09,Asia,Messenger,low
+2025-07-15,Europe,Messenger,medium
+2025-05-20,Europe,Messenger,low
+2025-08-22,Europe,WhatsApp,low
+2025-01-23,North America,Facebook,high
+2025-06-02,Asia,WhatsApp,medium
+2025-03-02,Africa,Facebook,medium
+2025-02-21,Europe,Facebook,low
+2025-06-02,Asia,Instagram,low
+2025-08-25,South America,Facebook,high
+2025-02-01,North America,Messenger,low
+2025-02-24,Asia,Messenger,medium
+2025-02-05,Asia,Messenger,low
+2025-04-20,Africa,Instagram,low
+2025-06-26,Asia,Instagram,high
+2025-04-07,Africa,WhatsApp,low
+2025-08-01,North America,Facebook,low
+2025-05-17,North America,Facebook,low
+2025-01-06,South America,Messenger,low
+2025-04-19,Africa,Messenger,low
+2025-02-04,Africa,Messenger,low
+2025-02-08,Europe,Messenger,low
+2025-05-30,Europe,Messenger,medium
+2025-04-28,South America,Messenger,low
+2025-09-18,North America,Facebook,high
+2025-03-28,Europe,Instagram,low
+2025-03-17,Asia,Messenger,low
+2025-08-02,North America,Facebook,low
+2025-08-27,Asia,Messenger,medium
+2025-06-14,Africa,WhatsApp,high
+2025-03-28,North America,WhatsApp,medium
+2025-05-21,South America,Facebook,low
+2025-06-09,Africa,Instagram,low
+2025-02-15,Africa,WhatsApp,medium
+2025-04-22,Asia,WhatsApp,high
+2025-02-14,Africa,Instagram,high
+2025-09-04,Europe,WhatsApp,low
+2025-04-14,North America,Messenger,high
+2025-03-26,Europe,Instagram,low
+2025-05-14,Asia,WhatsApp,low
+2025-04-18,Asia,Instagram,low
+2025-01-18,North America,Messenger,low
+2025-04-04,Africa,WhatsApp,medium
+2025-05-30,South America,Facebook,medium
+2025-09-03,Asia,WhatsApp,medium
+2025-07-28,North America,WhatsApp,medium
+2025-05-06,South America,Messenger,low
+2025-08-23,Africa,Facebook,medium
+2025-05-02,Asia,Facebook,low
+2025-05-18,North America,Facebook,medium
+2025-04-25,North America,Messenger,medium
+2025-06-11,North America,Messenger,medium
+2025-07-20,Asia,Messenger,low
+2025-08-22,South America,Messenger,medium
+2025-01-28,North America,Messenger,low
+2025-01-11,Africa,Facebook,low
+2025-07-25,North America,Instagram,medium
+2025-06-16,South America,Messenger,low
+2025-09-04,Asia,Instagram,medium
+2025-02-16,North America,WhatsApp,low
+2025-09-03,North America,WhatsApp,low
+2025-05-07,Africa,Messenger,medium
+2025-05-27,Africa,WhatsApp,low
+2025-04-28,North America,Instagram,low
+2025-06-01,North America,WhatsApp,low
+2025-03-13,Africa,WhatsApp,low
+2025-05-17,South America,Instagram,medium
+2025-06-24,Europe,WhatsApp,low
+2025-01-19,Europe,Messenger,medium
+2025-07-14,North America,Instagram,medium
+2025-06-24,Africa,Instagram,low
+2025-05-21,Asia,Facebook,medium
+2025-09-03,Asia,Facebook,medium
+2025-04-03,Europe,Instagram,low
+2025-08-27,South America,Instagram,low
+2025-07-24,Europe,Facebook,low
+2025-02-17,North America,Messenger,medium
+2025-09-02,South America,WhatsApp,medium
+2025-05-08,Asia,WhatsApp,low
+2025-01-17,Africa,WhatsApp,medium
+2025-03-12,Africa,Instagram,medium
+2025-09-26,North America,Messenger,medium
+2025-01-07,Europe,Facebook,medium
+2025-04-13,North America,Messenger,low
+2025-07-12,Africa,Messenger,medium
+2025-08-29,Asia,WhatsApp,medium
+2025-03-03,Africa,Facebook,medium
+2025-01-17,South America,Messenger,low
+2025-06-20,Africa,Facebook,low
+2025-01-25,Africa,Instagram,low
+2025-09-08,South America,WhatsApp,low
+2025-09-10,Europe,Facebook,medium
+2025-07-26,Africa,Instagram,low
+2025-01-29,North America,Instagram,medium
+2025-04-27,Africa,Instagram,medium
+2025-05-24,North America,Messenger,medium
+2025-01-25,South America,Messenger,low
+2025-06-05,Africa,WhatsApp,high
+2025-03-14,South America,WhatsApp,medium
+2025-04-30,South America,Instagram,medium
+2025-04-03,Europe,WhatsApp,low
+2025-03-27,Africa,Messenger,low
+2025-04-28,North America,WhatsApp,low
+2025-08-21,North America,Facebook,low
+2025-07-18,Africa,Messenger,low
+2025-07-25,Europe,Instagram,low
+2025-05-27,Europe,Instagram,medium
+2025-09-28,Europe,WhatsApp,low
+2025-05-19,North America,Messenger,low
+2025-06-30,South America,Instagram,medium
+2025-01-30,Europe,Instagram,low
+2025-02-26,North America,Messenger,medium
+2025-08-20,North America,Messenger,low
+2025-05-26,South America,Instagram,low
+2025-02-17,Africa,WhatsApp,low
+2025-07-13,Africa,WhatsApp,medium
+2025-08-12,Europe,WhatsApp,low
+2025-05-16,Europe,Facebook,medium
+2025-01-22,South America,Messenger,low
+2025-01-06,Europe,Instagram,low
+2025-07-23,South America,Facebook,medium
+2025-08-27,North America,WhatsApp,low
+2025-07-04,Europe,Facebook,medium
+2025-08-08,North America,Instagram,low
+2025-04-26,Asia,Instagram,low
+2025-02-18,South America,Messenger,medium
+2025-06-22,Asia,WhatsApp,high
+2025-03-23,Europe,WhatsApp,low
+2025-02-14,North America,Facebook,medium
+2025-01-20,Europe,WhatsApp,low
+2025-08-09,Asia,Facebook,medium
+2025-05-03,Europe,Instagram,medium
+2025-08-22,Africa,Instagram,low
+2025-08-09,Asia,Instagram,low
+2025-01-03,Europe,Instagram,low
+2025-07-01,North America,Instagram,low
+2025-07-25,Europe,Facebook,low
+2025-02-09,North America,Instagram,medium
+2025-02-28,Africa,Facebook,high
+2025-03-03,Europe,Instagram,low
+2025-05-12,Africa,Facebook,low
+2025-03-01,Asia,Facebook,low
+2025-05-02,North America,Facebook,high
+2025-04-17,Asia,WhatsApp,low
+2025-04-06,North America,Facebook,low
+2025-08-23,Africa,Facebook,low
+2025-03-03,South America,Instagram,low
+2025-09-13,Europe,Facebook,low
+2025-02-18,Africa,Facebook,low
+2025-06-08,North America,Messenger,low
+2025-05-04,North America,WhatsApp,low
+2025-07-26,North America,Messenger,low
+2025-02-17,North America,Instagram,low
+2025-05-16,Europe,WhatsApp,low
+2025-07-20,Asia,WhatsApp,high
+2025-09-07,South America,Messenger,medium
+2025-07-28,Europe,WhatsApp,low
+2025-07-30,North America,Messenger,low
+2025-07-11,Europe,Facebook,medium
+2025-02-13,Africa,Messenger,low
+2025-01-29,North America,WhatsApp,low
+2025-02-28,South America,WhatsApp,low
+2025-03-12,North America,Instagram,high
+2025-04-02,South America,Instagram,medium
+2025-09-22,South America,Instagram,low
+2025-08-08,Asia,Instagram,low
+2025-08-03,Asia,WhatsApp,high
+2025-03-05,Europe,Instagram,high
+2025-09-02,Europe,Messenger,high
+2025-03-03,South America,Facebook,low
+2025-06-19,North America,WhatsApp,low
+2025-09-26,Africa,Instagram,medium
+2025-09-24,Africa,WhatsApp,low
+2025-02-23,North America,Instagram,low
+2025-01-16,North America,WhatsApp,low
+2025-01-08,Asia,Instagram,medium
+2025-04-14,Africa,Facebook,medium
+2025-02-28,South America,Instagram,low
+2025-02-09,Europe,Messenger,medium
+2025-08-25,Asia,WhatsApp,low
+2025-04-04,Africa,WhatsApp,medium
+2025-08-10,North America,Messenger,low
+2025-07-23,Africa,Messenger,low
+2025-05-18,South America,Facebook,low
+2025-07-26,Asia,WhatsApp,low
+2025-03-22,North America,Facebook,low
+2025-08-06,South America,WhatsApp,low
+2025-01-02,Europe,WhatsApp,high
+2025-06-27,Asia,Facebook,low
+2025-05-26,South America,WhatsApp,low
+2025-08-12,South America,WhatsApp,low
+2025-03-03,North America,Facebook,low
+2025-08-27,Europe,Instagram,low
+2025-07-14,South America,Facebook,medium
+2025-06-15,Asia,WhatsApp,low
+2025-08-10,South America,Messenger,medium
+2025-03-02,Africa,Instagram,medium
+2025-05-09,Asia,Messenger,low
+2025-06-22,Asia,Instagram,low
+2025-06-05,South America,Messenger,medium
+2025-04-20,North America,Instagram,low
+2025-09-26,Asia,Facebook,low
+2025-03-15,Africa,Instagram,high
+2025-07-26,North America,Instagram,low
+2025-07-23,North America,Instagram,low
+2025-06-10,North America,WhatsApp,high
+2025-01-28,Asia,Messenger,low
+2025-09-14,North America,Facebook,low
+2025-06-14,South America,Messenger,medium
+2025-03-04,North America,Messenger,medium
+2025-01-22,Africa,Facebook,low
+2025-03-11,Europe,WhatsApp,low
+2025-04-06,Africa,Instagram,medium
+2025-06-12,Asia,WhatsApp,medium
+2025-03-20,North America,WhatsApp,low
+2025-01-05,North America,Instagram,low
+2025-04-30,South America,Messenger,low
+2025-06-27,North America,Instagram,medium
+2025-06-25,Africa,Facebook,medium
+2025-08-05,Asia,Instagram,high
+2025-02-25,Europe,Messenger,medium
+2025-07-06,North America,WhatsApp,low
+2025-08-20,Europe,WhatsApp,low
+2025-09-12,North America,Instagram,medium
+2025-04-14,Asia,Facebook,medium
+2025-03-18,Africa,Messenger,low
+2025-08-18,Asia,WhatsApp,low
+2025-09-15,Europe,Instagram,high
+2025-09-21,North America,Facebook,low
+2025-07-01,Europe,Facebook,low
+2025-09-13,Africa,WhatsApp,medium
+2025-02-07,Asia,WhatsApp,medium
+2025-06-25,Europe,Messenger,low
+2025-01-27,Europe,Facebook,medium
+2025-05-20,Africa,Messenger,low
+2025-04-01,North America,Facebook,low
+2025-03-02,Europe,Facebook,low
+2025-06-12,Africa,Instagram,medium
+2025-05-23,North America,WhatsApp,high
+2025-09-10,North America,Facebook,medium
+2025-09-26,Asia,Messenger,high
+2025-07-06,Africa,WhatsApp,low
+2025-03-27,North America,Messenger,low
+2025-06-15,Asia,WhatsApp,low
+2025-04-24,South America,WhatsApp,low
+2025-07-02,Africa,Facebook,medium
+2025-07-26,South America,Instagram,medium
+2025-09-13,North America,Facebook,high
+2025-08-23,Africa,WhatsApp,low
+2025-01-03,Asia,Facebook,low
+2025-07-27,North America,Facebook,low
+2025-07-16,Africa,WhatsApp,low
+2025-05-05,Africa,WhatsApp,low
+2025-05-18,South America,Facebook,low
+2025-01-25,North America,Facebook,low
+2025-03-09,Asia,Facebook,low
+2025-03-02,Asia,Messenger,low
+2025-01-29,North America,Facebook,low
+2025-01-19,North America,Messenger,low
+2025-06-20,Europe,Instagram,low
+2025-03-15,South America,Messenger,low
+2025-03-02,North America,Facebook,low
+2025-06-02,North America,Instagram,low
+2025-02-17,Europe,Messenger,low
+2025-07-30,Europe,Messenger,low
+2025-05-19,Africa,WhatsApp,medium
+2025-04-20,Asia,Instagram,medium
+2025-07-02,South America,WhatsApp,medium
+2025-01-28,Africa,Instagram,low
+2025-07-16,North America,Messenger,low
+2025-07-10,Europe,WhatsApp,medium
+2025-02-20,Asia,Facebook,low
+2025-05-29,Africa,Messenger,medium
+2025-09-25,Asia,Instagram,low
+2025-02-19,Europe,Instagram,low
+2025-09-03,Africa,WhatsApp,medium
+2025-04-23,Africa,WhatsApp,low
+2025-06-19,Asia,Instagram,low
+2025-06-15,Europe,Messenger,low
+2025-01-14,North America,WhatsApp,low
+2025-07-22,Africa,Facebook,low
+2025-07-08,North America,Instagram,low
+2025-06-04,Europe,Facebook,medium
+2025-02-24,Africa,Instagram,medium
+2025-07-01,Africa,Facebook,low
+2025-07-29,North America,Messenger,high
+2025-03-16,South America,Instagram,low
+2025-05-13,North America,Messenger,low
+2025-02-28,North America,WhatsApp,medium
+2025-07-01,South America,Instagram,medium
+2025-03-05,Europe,Messenger,medium
+2025-09-17,Europe,Facebook,low
+2025-07-12,Africa,Messenger,low
+2025-05-23,Asia,Instagram,medium
+2025-04-14,Asia,Messenger,low
+2025-08-02,Africa,Facebook,medium
+2025-08-30,Asia,Facebook,low
+2025-07-28,North America,Facebook,medium
+2025-04-03,North America,WhatsApp,low
+2025-05-22,South America,Instagram,low
+2025-04-22,South America,Facebook,low
+2025-02-28,Africa,WhatsApp,medium
+2025-02-12,Africa,Facebook,medium
+2025-07-26,Africa,Messenger,low
+2025-09-25,North America,Instagram,medium
+2025-04-28,Asia,Messenger,low
+2025-01-20,Africa,WhatsApp,low
+2025-08-10,Africa,Messenger,low
+2025-06-15,North America,Messenger,low
+2025-05-11,North America,Facebook,low
+2025-06-05,North America,Messenger,low
+2025-07-03,Asia,Facebook,medium
+2025-03-31,Africa,Facebook,medium
+2025-04-04,Europe,Instagram,medium
+2025-01-13,Europe,WhatsApp,low
+2025-08-18,Africa,WhatsApp,high
+2025-01-26,Africa,WhatsApp,medium
+2025-03-16,Africa,Facebook,low
+2025-05-30,Africa,WhatsApp,medium
+2025-05-28,Asia,Facebook,low
+2025-01-08,Europe,Instagram,low
+2025-01-29,South America,WhatsApp,low
+2025-07-28,Europe,Facebook,low
+2025-05-08,Europe,WhatsApp,medium
+2025-04-26,North America,WhatsApp,low
+2025-05-24,Africa,Instagram,low
+2025-08-23,Africa,Messenger,high
+2025-01-07,Africa,WhatsApp,high
+2025-02-14,North America,Instagram,medium
+2025-08-27,Asia,WhatsApp,low
+2025-06-04,Asia,WhatsApp,low
+2025-06-30,South America,WhatsApp,medium
+2025-08-03,Asia,WhatsApp,low
+2025-03-29,Asia,Messenger,low
+2025-09-13,Africa,Messenger,low
+2025-03-14,Europe,WhatsApp,low
+2025-06-28,Asia,WhatsApp,low
+2025-07-31,Asia,Instagram,low
+2025-08-22,North America,Instagram,low
+2025-08-27,South America,Facebook,low
+2025-08-11,North America,Messenger,low
+2025-04-29,Africa,WhatsApp,low
+2025-09-21,Europe,Messenger,medium
+2025-07-26,South America,Instagram,medium
+2025-04-05,North America,Messenger,low
+2025-08-10,Asia,Messenger,low
+2025-08-19,Asia,WhatsApp,low
+2025-04-29,South America,WhatsApp,low
+2025-09-25,Asia,Instagram,low
+2025-03-05,North America,WhatsApp,low
+2025-01-11,North America,Instagram,medium
+2025-04-08,Asia,Instagram,medium
+2025-03-12,Asia,Facebook,low
+2025-02-27,Africa,Facebook,low
+2025-09-08,Europe,Facebook,medium
+2025-02-19,South America,Messenger,low
+2025-08-04,North America,Facebook,medium
+2025-02-21,South America,WhatsApp,low
+2025-09-28,Africa,WhatsApp,medium
+2025-03-25,North America,Facebook,high
+2025-05-06,Africa,Messenger,high
+2025-03-13,Africa,Instagram,low
+2025-08-24,Asia,Messenger,low
+2025-02-25,South America,Messenger,low
+2025-04-20,South America,Instagram,high
+2025-07-11,Asia,Instagram,low
+2025-04-03,South America,Instagram,low
+2025-02-25,Asia,WhatsApp,low
+2025-03-01,North America,Instagram,low
+2025-05-18,Africa,Instagram,low
+2025-02-08,Africa,Messenger,low
+2025-01-28,South America,Messenger,low
+2025-02-18,Europe,Facebook,low
+2025-05-05,Africa,Messenger,high
+2025-01-13,Asia,Instagram,medium
+2025-02-05,Europe,WhatsApp,medium
+2025-04-11,Europe,Messenger,low
+2025-03-27,Africa,Messenger,medium
+2025-01-04,Africa,Instagram,low
+2025-08-11,Africa,Messenger,low
+2025-06-15,Asia,Messenger,low
+2025-05-10,Europe,Instagram,low
+2025-01-31,South America,Messenger,low
+2025-01-11,Asia,WhatsApp,high
+2025-04-06,North America,Facebook,low
+2025-07-09,Africa,Messenger,low
+2025-07-11,Europe,WhatsApp,low
+2025-09-23,Asia,Messenger,low
+2025-05-08,North America,Facebook,low
+2025-08-26,Asia,Instagram,low
+2025-04-22,Asia,Facebook,medium
+2025-05-25,South America,Messenger,low
+2025-03-06,South America,Facebook,low
+2025-09-04,Asia,Facebook,medium
+2025-08-11,North America,Instagram,medium
+2025-04-16,Europe,Messenger,medium
+2025-06-30,Europe,Facebook,medium
+2025-07-03,Africa,Facebook,low
+2025-08-14,Africa,Instagram,low
+2025-09-22,Europe,WhatsApp,medium
+2025-03-30,Asia,Messenger,medium
+2025-06-25,Asia,WhatsApp,low
+2025-01-18,South America,WhatsApp,low
+2025-04-16,South America,Instagram,medium
+2025-09-28,Africa,Instagram,low
+2025-06-16,Europe,Messenger,low
+2025-01-13,Asia,WhatsApp,low
+2025-02-01,Europe,Facebook,medium
+2025-02-09,North America,WhatsApp,high
+2025-05-28,Europe,Instagram,low
+2025-08-06,North America,Facebook,low
+2025-08-07,South America,Facebook,low
+2025-03-23,South America,Instagram,low
+2025-07-27,Africa,Facebook,low
+2025-07-20,Europe,WhatsApp,low
+2025-02-07,Europe,Instagram,low
+2025-07-30,North America,Messenger,medium
+2025-09-06,South America,Instagram,medium
+2025-08-15,North America,Messenger,low
+2025-02-17,South America,Messenger,low
+2025-01-18,North America,Instagram,high
+2025-07-15,South America,Instagram,low
+2025-07-06,North America,Messenger,medium
+2025-08-12,South America,Messenger,low
+2025-08-17,North America,Facebook,medium
+2025-03-18,Europe,Instagram,medium
+2025-07-07,Africa,Instagram,medium
+2025-09-27,North America,Facebook,medium
+2025-04-05,Africa,Instagram,high
+2025-05-12,Europe,Facebook,low
+2025-02-08,Europe,Facebook,low
+2025-03-13,South America,Instagram,low
+2025-06-09,Africa,WhatsApp,medium
+2025-07-06,Asia,Messenger,medium
+2025-07-10,South America,Instagram,low
+2025-04-30,Africa,WhatsApp,low
+2025-08-08,North America,Facebook,medium
+2025-02-22,North America,WhatsApp,low
+2025-08-10,Europe,Instagram,low
+2025-05-11,Asia,Instagram,medium
+2025-08-25,North America,WhatsApp,low
+2025-09-03,Africa,Instagram,low
+2025-08-14,Africa,Messenger,low
+2025-07-27,North America,WhatsApp,low
+2025-04-06,Africa,Facebook,low
+2025-07-19,Africa,WhatsApp,low
+2025-09-04,Europe,WhatsApp,low
+2025-03-13,Asia,WhatsApp,low
+2025-07-04,Europe,WhatsApp,low
+2025-01-06,Asia,Facebook,low
+2025-07-25,Africa,Facebook,high
+2025-02-01,Asia,Facebook,low
+2025-04-09,Africa,WhatsApp,medium
+2025-09-13,Africa,Messenger,medium
+2025-07-06,Europe,Messenger,low
+2025-03-17,Europe,Facebook,medium
+2025-06-26,South America,Messenger,low
+2025-09-12,North America,Messenger,medium
+2025-07-09,South America,Messenger,low
+2025-05-07,South America,Messenger,medium
+2025-09-11,Asia,Messenger,low
+2025-08-01,Africa,Instagram,medium
+2025-09-07,Africa,Facebook,low
+2025-03-25,Africa,WhatsApp,medium
+2025-01-13,North America,Messenger,low
+2025-02-14,Asia,Instagram,medium
+2025-05-07,Asia,WhatsApp,low
+2025-04-24,Africa,Instagram,low
+2025-07-24,South America,Messenger,medium
+2025-02-27,North America,Messenger,high
+2025-08-07,South America,Messenger,low
+2025-04-19,Europe,Messenger,high
+2025-06-23,Asia,WhatsApp,medium
+2025-09-21,Asia,WhatsApp,medium
+2025-04-21,South America,Instagram,low
+2025-07-06,North America,Facebook,low
+2025-09-26,Asia,Messenger,medium
+2025-08-17,South America,Instagram,low
+2025-06-05,North America,Instagram,low
+2025-07-08,South America,Instagram,low
+2025-01-02,North America,Messenger,low
+2025-09-03,Africa,Messenger,medium
+2025-07-29,North America,Instagram,medium
+2025-01-13,Europe,Messenger,low
+2025-04-06,Africa,Instagram,low
+2025-08-09,South America,WhatsApp,low
+2025-08-26,Africa,Messenger,low
+2025-04-04,Africa,WhatsApp,low
+2025-09-26,South America,Facebook,medium
+2025-06-20,South America,Messenger,medium
+2025-04-04,Europe,Facebook,low
+2025-05-29,South America,Instagram,medium
+2025-04-22,Asia,Messenger,low
+2025-02-24,Asia,Messenger,medium
+2025-04-26,Europe,Messenger,low
+2025-05-23,North America,Facebook,medium
+2025-07-20,North America,Facebook,low
+2025-06-29,Asia,Instagram,low
+2025-07-21,South America,WhatsApp,low
+2025-02-22,Europe,WhatsApp,low
+2025-06-29,North America,Facebook,low
+2025-05-17,North America,Messenger,low
+2025-07-01,Africa,WhatsApp,low
+2025-01-01,Asia,WhatsApp,medium
+2025-02-13,South America,Facebook,low
+2025-08-15,Europe,Instagram,medium
+2025-04-08,North America,Facebook,low
+2025-07-27,Africa,Facebook,high
+2025-09-22,Asia,Messenger,high
+2025-09-28,Asia,Facebook,low
+2025-05-20,Europe,Messenger,medium
+2025-08-25,North America,Instagram,low
+2025-03-13,Europe,Messenger,high
+2025-06-04,Europe,Instagram,low
+2025-07-09,Africa,Instagram,low
+2025-09-25,Asia,Instagram,low
+2025-04-17,South America,Facebook,low
+2025-08-20,Asia,Messenger,low
+2025-02-11,Asia,WhatsApp,medium
+2025-07-09,Africa,Facebook,low
+2025-05-19,South America,Instagram,low
+2025-04-13,North America,WhatsApp,low
+2025-06-20,South America,Facebook,low
+2025-08-09,North America,WhatsApp,low
+2025-08-01,South America,Instagram,medium
+2025-02-25,Europe,WhatsApp,low
+2025-04-12,South America,WhatsApp,low
+2025-07-11,Africa,Instagram,low
+2025-07-19,North America,WhatsApp,low
+2025-08-21,Asia,Facebook,medium
+2025-08-15,Africa,WhatsApp,low
+2025-05-19,North America,Messenger,low
+2025-05-29,North America,Facebook,low
+2025-04-25,Asia,WhatsApp,low
+2025-03-04,Europe,Messenger,low
+2025-04-14,Africa,Messenger,low
+2025-06-05,Asia,Messenger,medium
+2025-01-06,Asia,WhatsApp,low
+2025-05-27,Europe,Instagram,low
+2025-07-03,Africa,Messenger,low
+2025-01-28,Asia,Instagram,low
+2025-02-07,Europe,Facebook,low
+2025-04-29,Africa,Instagram,medium
+2025-09-01,South America,Instagram,medium
+2025-03-09,North America,Instagram,low
+2025-08-02,Europe,Instagram,low
+2025-08-06,North America,Instagram,low
+2025-06-26,South America,Facebook,low
+2025-06-13,Asia,Facebook,medium
+2025-02-27,Asia,Instagram,medium
+2025-09-26,Africa,Instagram,high
+2025-02-27,Europe,Messenger,low
+2025-04-15,Europe,Facebook,low
+2025-08-16,Africa,WhatsApp,medium
+2025-09-04,North America,Facebook,medium
+2025-07-07,Asia,WhatsApp,medium
+2025-03-24,Asia,Messenger,low
+2025-07-05,Europe,Instagram,low
+2025-09-09,Europe,Messenger,low
+2025-08-26,Africa,Instagram,low
+2025-07-03,South America,Facebook,low
+2025-07-29,North America,Instagram,medium
+2025-04-07,South America,WhatsApp,low
+2025-07-27,South America,WhatsApp,low
+2025-05-17,Europe,Messenger,medium
+2025-07-03,Europe,Facebook,low
+2025-03-17,Europe,WhatsApp,medium
+2025-05-22,South America,Messenger,low
+2025-08-25,North America,Facebook,low
+2025-01-25,Europe,Facebook,high
+2025-03-08,Asia,Messenger,high
+2025-09-07,North America,WhatsApp,low
+2025-04-28,Asia,WhatsApp,medium
+2025-03-14,North America,Messenger,low
+2025-01-10,Europe,WhatsApp,low
+2025-07-30,Africa,Messenger,low
+2025-06-01,Europe,WhatsApp,low
+2025-01-05,South America,WhatsApp,medium
+2025-07-14,South America,Messenger,medium
+2025-04-23,North America,Messenger,high
+2025-09-28,South America,WhatsApp,medium
+2025-06-12,Europe,Messenger,low
+2025-04-15,Asia,WhatsApp,medium
+2025-06-30,Europe,Instagram,high
+2025-02-13,North America,Facebook,medium
+2025-06-24,South America,Facebook,medium
+2025-06-11,Asia,WhatsApp,high
+2025-05-20,Africa,Facebook,low
+2025-05-12,Asia,WhatsApp,medium
+2025-03-28,Asia,Messenger,medium
+2025-06-25,Europe,Instagram,high
+2025-07-02,Africa,Facebook,low
+2025-05-09,North America,Facebook,low
+2025-09-03,North America,Messenger,medium
+2025-03-30,Asia,Instagram,low
+2025-03-07,Asia,Instagram,medium
+2025-06-07,South America,Instagram,low
+2025-05-29,Africa,Messenger,low
+2025-04-26,Asia,Facebook,low
+2025-08-02,South America,Facebook,low
+2025-09-10,Africa,Instagram,low
+2025-05-23,North America,Messenger,low
+2025-09-07,South America,Messenger,low
+2025-01-25,Africa,Messenger,low
+2025-03-11,South America,Instagram,low
+2025-04-23,Asia,Messenger,low
+2025-04-22,Europe,Instagram,low
+2025-04-01,North America,Instagram,medium
+2025-01-18,Asia,Instagram,low
+2025-05-29,Asia,WhatsApp,low
+2025-08-15,Africa,Instagram,medium
+2025-08-02,South America,Messenger,low
+2025-05-31,North America,WhatsApp,high
+2025-07-11,Asia,Facebook,medium
+2025-02-09,Africa,Facebook,low
+2025-08-30,North America,Messenger,low
+2025-05-18,South America,Messenger,low
+2025-06-29,Asia,Messenger,low
+2025-07-19,Asia,Messenger,low
+2025-07-22,Asia,WhatsApp,low
+2025-03-02,North America,Messenger,medium
+2025-07-11,North America,Instagram,low
+2025-01-05,North America,Facebook,low
+2025-08-25,North America,Messenger,medium
+2025-06-30,Africa,Instagram,low
+2025-02-06,Europe,Messenger,low
+2025-02-25,Africa,Instagram,low
+2025-08-25,Asia,WhatsApp,low
+2025-07-16,Africa,Facebook,high
+2025-03-14,South America,Facebook,low
+2025-02-28,North America,WhatsApp,low
+2025-08-28,South America,Instagram,low
+2025-01-02,South America,Messenger,low
+2025-07-07,Asia,Instagram,low
+2025-01-30,North America,Facebook,medium
+2025-09-24,South America,WhatsApp,high
+2025-04-18,Asia,WhatsApp,low
+2025-03-31,North America,Instagram,low
+2025-07-24,Europe,Instagram,medium
+2025-08-08,Asia,WhatsApp,low
+2025-04-04,Africa,Facebook,low
+2025-04-13,North America,Messenger,low
+2025-08-11,South America,Messenger,low
+2025-07-05,South America,Instagram,low
+2025-07-03,Africa,WhatsApp,medium
+2025-06-11,Africa,WhatsApp,medium
+2025-09-04,South America,WhatsApp,low
+2025-01-31,North America,Facebook,low
+2025-02-21,Asia,Instagram,high
+2025-03-17,Africa,Instagram,low
+2025-02-09,Africa,Instagram,medium
+2025-04-11,Africa,Facebook,low
+2025-04-21,Europe,Instagram,low
+2025-09-06,North America,Messenger,low
+2025-07-10,North America,Instagram,medium
+2025-07-01,North America,Instagram,low
+2025-07-28,North America,Instagram,low
+2025-01-22,North America,Facebook,low
+2025-06-15,South America,Messenger,medium
+2025-04-09,Africa,Messenger,high
+2025-07-27,South America,WhatsApp,high
+2025-01-08,Europe,WhatsApp,high
+2025-07-09,Asia,Messenger,low
+2025-06-24,Africa,Instagram,low
+2025-01-17,Europe,Instagram,low
+2025-03-31,South America,Instagram,low
+2025-05-21,Asia,Facebook,medium
+2025-05-25,Europe,Instagram,medium
+2025-06-15,Asia,Facebook,low
+2025-03-19,Europe,Messenger,medium
+2025-09-19,South America,Instagram,high
+2025-06-12,Asia,Instagram,low
+2025-01-14,Europe,WhatsApp,low
+2025-08-27,South America,Messenger,low
+2025-03-13,Africa,Instagram,low
+2025-05-23,South America,Facebook,low
+2025-09-26,South America,Messenger,low
+2025-08-29,Africa,WhatsApp,low
+2025-09-02,South America,Messenger,high
+2025-06-12,Africa,Facebook,low
+2025-03-01,Africa,WhatsApp,low
+2025-01-06,Africa,Facebook,high
+2025-07-16,Europe,Messenger,low
+2025-02-27,Asia,WhatsApp,low
+2025-08-05,Europe,Facebook,medium
+2025-01-26,Africa,Messenger,low
+2025-01-05,Asia,Facebook,medium
+2025-01-20,Asia,Instagram,low
+2025-07-17,Africa,Messenger,low
+2025-02-28,Asia,WhatsApp,low
+2025-08-30,Asia,WhatsApp,low
+2025-05-26,Europe,Instagram,medium
+2025-09-06,Asia,Facebook,medium
+2025-01-14,Africa,Facebook,high
+2025-01-13,North America,WhatsApp,medium
+2025-02-13,North America,Facebook,low
+2025-01-19,North America,Messenger,medium
+2025-03-04,Africa,Messenger,medium
+2025-08-27,North America,WhatsApp,medium
+2025-04-10,Europe,Messenger,medium
+2025-06-12,Africa,WhatsApp,low
+2025-05-02,Africa,Facebook,low
+2025-02-13,Africa,Facebook,medium
+2025-05-25,Asia,Facebook,low
+2025-02-19,Asia,Instagram,low
+2025-03-06,Asia,WhatsApp,medium
+2025-06-13,South America,Messenger,low
+2025-05-21,Europe,Facebook,low
+2025-05-08,Africa,Instagram,low
+2025-08-27,Africa,Messenger,medium
+2025-07-06,Asia,Messenger,low
+2025-07-27,Africa,Messenger,medium
+2025-08-08,Africa,Facebook,low
+2025-07-09,North America,Messenger,low
+2025-08-25,Africa,WhatsApp,low
+2025-07-13,South America,Instagram,medium
+2025-09-16,Asia,Messenger,low
+2025-09-03,Europe,Messenger,high
+2025-05-16,Europe,WhatsApp,high
+2025-09-28,North America,Messenger,medium
+2025-06-20,Europe,Facebook,high
+2025-06-08,Europe,Facebook,low
+2025-07-20,Asia,Facebook,low
+2025-02-14,Asia,Messenger,medium
+2025-09-21,South America,Instagram,medium
+2025-03-12,North America,Instagram,medium
+2025-04-13,Europe,Messenger,medium
+2025-05-05,South America,Instagram,high
+2025-08-18,North America,Instagram,low
+2025-05-26,Europe,Messenger,medium
+2025-07-16,Europe,Facebook,medium
+2025-08-09,Asia,Messenger,medium
+2025-03-01,Africa,Facebook,low
+2025-04-08,North America,Facebook,medium
+2025-06-20,Europe,Instagram,high
+2025-06-22,North America,Instagram,low
+2025-05-31,South America,Facebook,medium
+2025-05-02,South America,Facebook,low
+2025-04-18,Africa,Instagram,high
+2025-01-04,Europe,WhatsApp,low
+2025-04-03,Asia,Facebook,low
+2025-01-06,Europe,Facebook,low
+2025-04-16,North America,Facebook,medium
+2025-05-26,South America,Instagram,low
+2025-09-28,North America,Messenger,medium
+2025-04-06,Africa,Facebook,high
+2025-08-17,South America,Facebook,medium
+2025-07-21,Asia,Facebook,low
+2025-07-31,South America,Messenger,high
+2025-01-06,Europe,Messenger,medium
+2025-04-22,Europe,Facebook,low
+2025-04-16,South America,Facebook,low
+2025-05-19,Africa,WhatsApp,low
+2025-04-06,Europe,Messenger,medium
+2025-08-02,Europe,WhatsApp,low
+2025-01-22,Asia,Facebook,low
+2025-07-12,South America,Facebook,medium
+2025-05-30,Europe,Facebook,low
+2025-09-04,Africa,Facebook,medium
+2025-09-24,North America,Instagram,medium
+2025-09-08,South America,Instagram,low
+2025-01-03,Asia,Instagram,medium
+2025-03-17,Europe,WhatsApp,low
+2025-03-28,Africa,Messenger,low
+2025-09-27,South America,Facebook,medium
+2025-08-13,Africa,Messenger,low
+2025-01-18,Africa,Instagram,high
+2025-04-23,Asia,Facebook,low
+2025-09-08,South America,Facebook,low
+2025-08-21,Europe,WhatsApp,high
+2025-07-21,Asia,Messenger,low
+2025-03-24,Europe,WhatsApp,medium
+2025-05-05,North America,Instagram,low
+2025-06-24,Africa,Messenger,medium
+2025-03-10,North America,Instagram,low
+2025-02-16,Africa,WhatsApp,low
+2025-09-13,Asia,WhatsApp,low
+2025-08-03,Europe,Facebook,low
+2025-01-30,Europe,Messenger,medium
+2025-08-25,Asia,Messenger,low
+2025-09-05,South America,Facebook,low
+2025-01-25,North America,Messenger,low
+2025-03-15,North America,Instagram,medium
+2025-07-25,Europe,Instagram,medium
+2025-04-04,Europe,WhatsApp,low
+2025-05-07,Europe,Instagram,low
+2025-01-25,Asia,Messenger,low
+2025-04-26,South America,Facebook,medium
+2025-02-17,North America,WhatsApp,low
+2025-08-14,Africa,Facebook,low
+2025-09-23,Asia,WhatsApp,medium
+2025-04-09,North America,WhatsApp,high
+2025-01-11,South America,Facebook,low
+2025-03-26,Asia,Instagram,medium
+2025-08-02,North America,Instagram,low
+2025-06-22,Asia,Instagram,high
+2025-07-28,North America,Instagram,low
+2025-03-05,North America,Facebook,low
+2025-09-15,South America,Messenger,medium
+2025-05-01,Africa,WhatsApp,low
+2025-02-23,South America,Facebook,low
+2025-08-29,North America,Instagram,low
+2025-08-31,Asia,Instagram,medium
+2025-01-18,South America,Facebook,low
+2025-07-06,Africa,WhatsApp,medium
+2025-05-24,North America,Facebook,low
+2025-09-19,South America,Facebook,low
+2025-08-27,South America,Messenger,low
+2025-03-17,South America,Facebook,low
+2025-07-07,South America,Messenger,medium
+2025-09-03,Asia,WhatsApp,medium
+2025-05-10,Africa,Facebook,low
+2025-03-20,Africa,Facebook,low
+2025-03-13,North America,Instagram,medium
+2025-09-20,Europe,Facebook,medium
+2025-07-10,Asia,Instagram,medium
+2025-03-04,North America,Instagram,medium
+2025-01-12,North America,Instagram,low
+2025-05-21,South America,WhatsApp,medium
+2025-09-11,Europe,Messenger,low
+2025-02-12,Europe,Instagram,low
+2025-01-17,Asia,Facebook,medium
+2025-03-04,Europe,Facebook,high
+2025-09-10,North America,Instagram,medium
+2025-01-08,Europe,Instagram,low
+2025-03-31,Europe,Facebook,low
+2025-07-27,Africa,Instagram,low
+2025-04-28,North America,Messenger,medium
+2025-06-24,Europe,Messenger,low
+2025-03-17,Europe,WhatsApp,medium
+2025-04-11,South America,Instagram,low
+2025-05-31,Europe,WhatsApp,medium
+2025-09-27,Europe,WhatsApp,high
+2025-03-12,Africa,WhatsApp,low
+2025-06-29,North America,Instagram,low
+2025-05-04,Asia,WhatsApp,medium
+2025-07-14,North America,Messenger,low
+2025-08-16,South America,WhatsApp,medium
+2025-04-16,North America,Messenger,medium
+2025-01-21,Europe,Messenger,low
+2025-03-05,South America,Instagram,medium
+2025-06-14,North America,WhatsApp,low
+2025-01-27,South America,Instagram,high
+2025-05-28,Asia,Messenger,low
+2025-06-13,North America,Facebook,medium
+2025-08-12,Europe,WhatsApp,low
+2025-05-26,South America,Instagram,low
+2025-01-30,Africa,Facebook,low
+2025-02-14,South America,WhatsApp,medium
+2025-02-03,Africa,WhatsApp,low
+2025-05-21,Europe,Instagram,medium
+2025-08-09,Asia,Facebook,low
+2025-01-22,Africa,Instagram,medium
+2025-06-29,Asia,WhatsApp,medium
+2025-08-19,South America,WhatsApp,low
+2025-02-07,Europe,Messenger,low
+2025-03-11,Africa,WhatsApp,low
+2025-04-26,South America,WhatsApp,low
+2025-08-27,North America,Facebook,low
+2025-05-28,South America,Facebook,medium
+2025-01-09,Asia,Messenger,low
+2025-02-19,Europe,Messenger,medium
+2025-01-05,Europe,Messenger,high
+2025-05-06,South America,Instagram,low
+2025-03-16,North America,Instagram,medium
+2025-06-14,Asia,Messenger,low
+2025-03-18,South America,Instagram,medium
+2025-05-17,South America,WhatsApp,low
+2025-04-16,Europe,Messenger,medium
+2025-04-05,Asia,Messenger,high
+2025-05-15,North America,Instagram,low
+2025-03-09,Europe,Facebook,medium
+2025-05-27,South America,Messenger,low
+2025-06-08,Europe,Instagram,low
+2025-06-12,Europe,Instagram,medium
+2025-07-08,Africa,Facebook,low
+2025-04-05,Europe,Messenger,medium
+2025-06-30,Europe,Facebook,low
+2025-07-06,Asia,WhatsApp,medium
+2025-05-18,Europe,Facebook,low
+2025-05-10,North America,Facebook,low
+2025-07-13,South America,Instagram,low
+2025-05-24,Asia,Facebook,low
+2025-01-16,Europe,WhatsApp,low
+2025-09-02,North America,Instagram,low
+2025-04-17,South America,WhatsApp,low
+2025-03-29,Asia,Facebook,low
+2025-05-09,North America,WhatsApp,low
+2025-01-04,Europe,WhatsApp,low
+2025-04-05,Africa,Facebook,low
+2025-07-28,Africa,Facebook,high
+2025-08-13,Asia,Instagram,low
+2025-02-16,North America,Instagram,low
+2025-06-30,South America,Messenger,low
+2025-04-16,North America,Instagram,medium
+2025-07-18,Africa,Facebook,low
+2025-04-16,Asia,WhatsApp,medium
+2025-09-17,Europe,WhatsApp,low
+2025-04-18,North America,Instagram,low
+2025-01-19,Africa,Instagram,medium
+2025-06-20,South America,Facebook,low
+2025-07-14,Asia,WhatsApp,low
+2025-01-12,Europe,Messenger,medium
+2025-07-14,North America,Messenger,medium
+2025-07-01,South America,Instagram,medium
+2025-05-24,Europe,Messenger,medium
+2025-07-01,Africa,Facebook,medium
+2025-01-30,Africa,Messenger,medium
+2025-03-25,South America,Instagram,low
+2025-06-15,Africa,Facebook,medium
+2025-04-06,Asia,WhatsApp,medium
+2025-09-23,South America,Facebook,low
+2025-08-13,Africa,Instagram,low
+2025-02-11,North America,Instagram,low
+2025-09-03,Africa,Messenger,medium
+2025-07-27,Asia,Messenger,low
+2025-08-25,Europe,WhatsApp,high
+2025-01-22,Europe,WhatsApp,low
+2025-07-04,Africa,Instagram,medium
+2025-08-30,Europe,Instagram,low
+2025-02-10,Africa,Instagram,medium
+2025-06-11,Asia,WhatsApp,medium
+2025-06-09,Europe,Instagram,medium
+2025-03-30,North America,WhatsApp,medium
+2025-01-12,Africa,Instagram,medium
+2025-03-14,Europe,Facebook,low
+2025-03-17,Asia,Facebook,low
+2025-07-20,Asia,Instagram,medium
+2025-01-10,North America,Facebook,low
+2025-08-14,Asia,WhatsApp,low
+2025-06-25,Asia,Messenger,low
+2025-02-08,Europe,Facebook,low
+2025-03-01,Africa,Messenger,low
+2025-03-07,South America,Facebook,medium
+2025-05-04,Asia,WhatsApp,low
+2025-06-13,Asia,Facebook,low
+2025-06-08,South America,Facebook,low
+2025-02-26,Asia,Instagram,medium
+2025-03-19,Europe,Messenger,high
+2025-07-13,Europe,Messenger,medium
+2025-01-15,South America,WhatsApp,low
+2025-01-12,Asia,WhatsApp,high
+2025-04-11,Asia,Messenger,medium
+2025-06-05,Africa,Instagram,medium
+2025-05-05,Asia,Instagram,medium
+2025-04-20,Europe,Messenger,low
+2025-05-26,North America,Facebook,low
+2025-08-04,North America,Messenger,low
+2025-06-11,North America,Facebook,low
+2025-05-08,North America,Messenger,medium
+2025-05-30,Asia,Facebook,medium
+2025-02-05,Asia,Instagram,medium
+2025-06-22,Africa,Messenger,low
+2025-01-22,Asia,WhatsApp,low
+2025-07-25,North America,Facebook,low
+2025-05-07,South America,Instagram,low
+2025-08-05,South America,WhatsApp,low
+2025-04-06,Europe,Instagram,medium
+2025-06-13,Europe,Facebook,low
+2025-05-28,Asia,Messenger,high
+2025-01-18,South America,Instagram,low
+2025-07-14,North America,Messenger,medium
+2025-05-31,North America,Messenger,low
+2025-05-03,North America,Instagram,low
+2025-07-06,Asia,Instagram,medium
+2025-05-29,Asia,Instagram,medium
+2025-04-14,Africa,Messenger,low
+2025-08-31,North America,WhatsApp,low
+2025-08-19,North America,Facebook,low
+2025-07-25,Asia,WhatsApp,medium
+2025-07-17,Asia,Messenger,high
+2025-03-28,Africa,Instagram,low
+2025-05-22,Africa,Instagram,low
+2025-07-18,Europe,Facebook,high
+2025-02-15,South America,Facebook,low
+2025-01-15,North America,WhatsApp,medium
+2025-02-13,North America,WhatsApp,low
+2025-06-18,Africa,Facebook,low
+2025-02-13,Africa,Messenger,low
+2025-04-08,Europe,WhatsApp,low
+2025-09-18,South America,Instagram,low
+2025-04-19,Europe,Instagram,medium
+2025-04-14,South America,Messenger,medium
+2025-09-13,North America,Facebook,medium
+2025-07-25,Europe,WhatsApp,medium
+2025-02-12,Africa,Instagram,low
+2025-09-02,Europe,Facebook,low
+2025-03-24,Europe,WhatsApp,medium
+2025-04-20,North America,Messenger,low
+2025-07-09,Africa,Instagram,low
+2025-09-08,Africa,Messenger,low
+2025-07-31,Asia,Messenger,low
+2025-05-13,Asia,Messenger,low
+2025-07-20,Asia,WhatsApp,medium
+2025-04-05,North America,Messenger,high
+2025-08-07,Europe,WhatsApp,medium
+2025-03-30,Africa,WhatsApp,high
+2025-03-13,Africa,Messenger,high
+2025-09-04,Europe,Messenger,low
+2025-05-09,Africa,Facebook,low
+2025-07-31,Europe,Instagram,medium
+2025-04-06,North America,Facebook,low
+2025-03-16,North America,Instagram,low
+2025-02-23,North America,Instagram,low
+2025-02-23,Europe,Facebook,low
+2025-08-06,Europe,Facebook,low
+2025-01-16,South America,Instagram,low
+2025-04-09,Africa,Instagram,low
+2025-01-20,Africa,Instagram,medium
+2025-02-15,South America,WhatsApp,low
+2025-07-12,South America,Instagram,medium
+2025-02-27,North America,Messenger,low
+2025-04-21,South America,Messenger,low
+2025-05-09,Europe,Messenger,low
+2025-07-13,Asia,Facebook,low
+2025-01-08,Europe,Facebook,medium
+2025-01-29,South America,Facebook,medium
+2025-04-22,Africa,Instagram,medium
+2025-06-10,Europe,Messenger,high
+2025-05-11,Africa,Instagram,low
+2025-07-07,Europe,WhatsApp,low
+2025-06-12,Africa,WhatsApp,low
+2025-07-16,Europe,Facebook,low
+2025-07-23,Africa,WhatsApp,low
+2025-07-31,Asia,Messenger,low
+2025-04-19,North America,WhatsApp,low
+2025-03-14,Europe,Facebook,low
+2025-06-16,Asia,Instagram,low
+2025-09-17,North America,WhatsApp,medium
+2025-08-31,Europe,Messenger,medium
+2025-04-12,Asia,Messenger,medium
+2025-06-22,Asia,Messenger,medium
+2025-06-20,Asia,Instagram,low
+2025-05-21,South America,Messenger,low
+2025-07-07,Africa,Facebook,low
+2025-03-27,North America,Facebook,medium
+2025-02-21,Africa,Messenger,medium
+2025-04-21,Africa,WhatsApp,low
+2025-02-12,Africa,Messenger,low
+2025-07-30,Asia,Facebook,high
+2025-07-19,Africa,Facebook,low
+2025-08-28,South America,Facebook,medium
+2025-04-25,Europe,WhatsApp,low
+2025-01-26,Asia,WhatsApp,low
+2025-03-18,North America,WhatsApp,medium
+2025-05-17,Europe,Facebook,medium
+2025-01-20,Europe,Instagram,medium
+2025-07-30,Europe,Messenger,low
+2025-08-28,Africa,Messenger,low
+2025-02-08,Africa,Facebook,medium
+2025-09-25,Asia,WhatsApp,low
+2025-07-26,Africa,Instagram,low
+2025-09-24,Africa,Instagram,medium
+2025-06-03,Africa,WhatsApp,low
+2025-02-11,Asia,Messenger,low
+2025-01-11,Asia,Messenger,medium
+2025-04-08,South America,Instagram,high
+2025-08-18,South America,Instagram,low
+2025-08-08,South America,WhatsApp,low
+2025-03-06,South America,Messenger,medium
+2025-08-20,Europe,Instagram,medium
+2025-02-21,Europe,Messenger,medium
+2025-09-20,South America,Instagram,low
+2025-09-24,South America,WhatsApp,low
+2025-06-03,North America,Messenger,medium
+2025-05-20,Europe,Instagram,medium
+2025-02-20,North America,Instagram,medium
+2025-04-27,North America,Instagram,low
+2025-02-15,Africa,Instagram,low
+2025-03-29,Asia,WhatsApp,low
+2025-07-27,Europe,Messenger,high
+2025-09-26,South America,Messenger,medium
+2025-03-30,South America,Facebook,low
+2025-04-28,Asia,Messenger,low
+2025-02-23,Europe,Facebook,low
+2025-04-26,South America,Instagram,low
+2025-04-28,South America,WhatsApp,medium
+2025-09-17,Africa,WhatsApp,medium
+2025-03-16,North America,Instagram,low
+2025-01-07,South America,Facebook,low
+2025-05-02,Europe,Instagram,medium
+2025-01-11,Asia,WhatsApp,low
+2025-08-03,Africa,WhatsApp,low
+2025-01-28,Europe,Messenger,high
+2025-08-23,Africa,Facebook,medium
+2025-01-26,North America,Messenger,medium
+2025-02-23,South America,WhatsApp,low
+2025-01-29,Europe,WhatsApp,low
+2025-06-13,Asia,Messenger,low
+2025-09-27,North America,Messenger,low
+2025-02-04,North America,WhatsApp,medium
+2025-07-27,Africa,Messenger,low
+2025-08-26,North America,Messenger,medium
+2025-04-03,Europe,Facebook,low
+2025-06-22,Africa,WhatsApp,low
+2025-03-20,North America,Instagram,high
+2025-04-20,Asia,Facebook,low
+2025-08-05,Europe,Instagram,low
+2025-04-16,Asia,Messenger,low
+2025-02-16,Asia,Messenger,low
+2025-06-30,Africa,Instagram,low
+2025-03-05,South America,Messenger,low
+2025-09-03,Africa,Messenger,medium
+2025-09-01,Europe,Facebook,medium
+2025-03-28,Europe,Instagram,low
+2025-08-05,Africa,Facebook,low
+2025-01-07,South America,Instagram,medium
+2025-07-29,Africa,Facebook,low
+2025-06-18,Europe,WhatsApp,medium
+2025-05-18,South America,WhatsApp,medium
+2025-08-18,Europe,Instagram,low
+2025-06-10,South America,WhatsApp,medium
+2025-01-01,South America,Facebook,high
+2025-08-24,Africa,Instagram,medium
+2025-07-07,Africa,WhatsApp,low
+2025-01-04,Africa,WhatsApp,low
+2025-05-12,South America,Instagram,high
+2025-08-06,South America,WhatsApp,low
+2025-09-17,Europe,WhatsApp,medium
+2025-01-01,Asia,Instagram,low
+2025-03-12,Africa,WhatsApp,low
+2025-06-27,Europe,WhatsApp,medium
+2025-07-08,Europe,WhatsApp,medium
+2025-01-08,North America,WhatsApp,medium
+2025-09-10,Africa,Messenger,high
+2025-09-01,Europe,Instagram,low
+2025-05-03,North America,Messenger,low
+2025-02-01,Africa,Messenger,high
+2025-05-26,South America,Facebook,low
+2025-06-05,North America,Messenger,medium
+2025-01-16,South America,Messenger,low
+2025-02-16,Asia,Facebook,low
+2025-09-08,Asia,WhatsApp,low
+2025-07-06,Asia,WhatsApp,low
+2025-01-31,Asia,Messenger,medium
+2025-09-17,Europe,Facebook,medium
+2025-01-17,Asia,WhatsApp,medium
+2025-02-08,Europe,Facebook,low
+2025-02-08,Europe,Instagram,low
+2025-05-12,Africa,Instagram,low
+2025-01-30,Europe,Instagram,low
+2025-06-07,Europe,Instagram,low
+2025-07-22,Asia,Messenger,low
+2025-03-07,Europe,Instagram,low
+2025-04-18,South America,Instagram,low
+2025-09-25,Asia,Facebook,low
+2025-08-10,North America,WhatsApp,low
+2025-01-18,Asia,Facebook,low
+2025-03-31,Europe,Messenger,low
+2025-06-30,South America,Instagram,high
+2025-09-12,Asia,WhatsApp,low
+2025-09-10,South America,WhatsApp,medium
+2025-09-14,North America,Instagram,low
+2025-03-28,North America,Instagram,medium
+2025-03-31,Africa,Messenger,low
+2025-08-25,Africa,Messenger,medium
+2025-03-11,Asia,Instagram,low
+2025-02-13,Africa,Instagram,medium
+2025-07-19,South America,Instagram,low
+2025-06-01,Africa,Instagram,low
+2025-03-27,South America,WhatsApp,medium
+2025-01-19,Africa,Messenger,low
+2025-04-11,Africa,Instagram,high
+2025-04-05,Africa,Instagram,low
+2025-09-11,Europe,WhatsApp,low
+2025-01-30,Europe,Facebook,medium
+2025-09-06,Africa,Instagram,low
+2025-02-02,South America,WhatsApp,low
+2025-08-17,Asia,WhatsApp,medium
+2025-01-12,North America,Facebook,medium
+2025-04-28,Europe,Messenger,high
+2025-06-04,Africa,Messenger,low
+2025-09-03,North America,Messenger,low
+2025-09-04,Europe,Instagram,low
+2025-01-29,Asia,Messenger,low
+2025-06-10,South America,Instagram,medium
+2025-08-23,Africa,Instagram,low
+2025-07-09,Asia,WhatsApp,low
+2025-04-27,Europe,Messenger,low
+2025-09-28,Africa,Messenger,medium
+2025-09-15,North America,Messenger,high
+2025-06-29,South America,Instagram,medium
+2025-06-21,Europe,Instagram,low
+2025-09-16,South America,Messenger,medium
+2025-05-15,Africa,Instagram,medium
+2025-06-20,Asia,Instagram,low
+2025-07-29,South America,Facebook,low
+2025-08-24,North America,Facebook,low
+2025-07-05,Europe,Messenger,low
+2025-04-05,North America,Messenger,medium
+2025-01-11,South America,Facebook,low
+2025-03-09,Asia,Instagram,low
+2025-07-29,Asia,Instagram,high
+2025-07-15,North America,WhatsApp,medium
+2025-04-08,Africa,Messenger,medium
+2025-04-03,Africa,Messenger,low
+2025-01-22,Asia,Messenger,low
+2025-06-21,North America,WhatsApp,low
+2025-05-14,North America,WhatsApp,low
+2025-01-25,North America,Instagram,low
+2025-07-04,South America,Facebook,low
+2025-03-26,Africa,Facebook,low
+2025-02-24,Africa,Facebook,low
+2025-09-08,South America,Instagram,low
+2025-05-24,Europe,Facebook,medium
+2025-06-16,South America,WhatsApp,medium
+2025-08-12,North America,WhatsApp,low
+2025-08-08,South America,Messenger,low
+2025-06-28,North America,Facebook,low
+2025-04-29,Asia,WhatsApp,low
+2025-09-22,North America,Messenger,low
+2025-05-30,Africa,Facebook,medium
+2025-08-03,South America,Facebook,high
+2025-07-16,North America,WhatsApp,medium
+2025-02-11,Europe,Messenger,high
+2025-02-22,Asia,Messenger,medium
+2025-09-08,Europe,WhatsApp,low
+2025-09-28,Europe,WhatsApp,high
+2025-05-03,Europe,WhatsApp,low
+2025-09-23,Asia,Facebook,medium
+2025-01-29,Asia,WhatsApp,low
+2025-02-04,Asia,WhatsApp,low
+2025-01-06,Asia,Instagram,medium
+2025-04-21,Europe,WhatsApp,low
+2025-03-18,Africa,WhatsApp,low
+2025-05-27,Africa,Facebook,low
+2025-03-08,Asia,Messenger,low
+2025-01-08,South America,Facebook,high
+2025-05-02,North America,Instagram,medium
+2025-06-24,South America,WhatsApp,low
+2025-06-28,South America,WhatsApp,low
+2025-03-26,South America,WhatsApp,medium
+2025-02-14,Africa,WhatsApp,low
+2025-05-16,North America,WhatsApp,low
+2025-01-16,South America,WhatsApp,low
+2025-07-14,Asia,Instagram,medium
+2025-01-09,Africa,WhatsApp,low
+2025-01-15,Asia,WhatsApp,low
+2025-04-12,Asia,WhatsApp,low
+2025-08-14,South America,Instagram,low
+2025-04-23,Asia,WhatsApp,low
+2025-01-01,North America,Instagram,low
+2025-09-23,Asia,Facebook,low
+2025-07-27,South America,WhatsApp,low
+2025-04-20,Asia,Messenger,low
+2025-07-19,Africa,Instagram,medium
+2025-01-12,Africa,Facebook,medium
+2025-07-07,Africa,Instagram,low
+2025-06-03,Europe,Instagram,low
+2025-06-20,Africa,Facebook,low
+2025-05-14,Africa,WhatsApp,medium
+2025-01-25,Europe,WhatsApp,medium
+2025-01-18,Africa,Instagram,low
+2025-07-09,South America,Facebook,medium
+2025-05-21,Africa,WhatsApp,medium
+2025-02-12,Africa,Instagram,high
+2025-05-26,Europe,Messenger,low
+2025-04-02,South America,Facebook,low
+2025-06-28,Asia,Messenger,low
+2025-02-25,North America,Messenger,medium
+2025-06-04,South America,Instagram,medium
+2025-06-09,Asia,Facebook,low
+2025-04-21,South America,WhatsApp,low
+2025-05-17,Asia,WhatsApp,low
+2025-08-20,Asia,Instagram,low
+2025-08-08,South America,WhatsApp,low
+2025-03-09,Europe,WhatsApp,low
+2025-09-06,South America,Messenger,low
+2025-01-06,South America,Messenger,medium
+2025-04-04,Asia,Facebook,low
+2025-09-26,North America,Messenger,low
+2025-07-16,Asia,WhatsApp,low
+2025-01-25,Africa,Facebook,medium
+2025-05-28,South America,Facebook,low
+2025-04-28,South America,Instagram,high
+2025-03-07,Europe,Messenger,low
+2025-06-24,Asia,Facebook,high
+2025-03-17,Europe,WhatsApp,medium
+2025-04-24,South America,Facebook,low
+2025-04-21,Asia,Facebook,high
+2025-09-06,Asia,Instagram,low
+2025-07-22,Africa,WhatsApp,low
+2025-05-27,Africa,WhatsApp,low
+2025-02-04,North America,Messenger,low
+2025-01-26,Africa,WhatsApp,medium
+2025-08-26,Asia,Facebook,medium
+2025-01-14,Africa,WhatsApp,low
+2025-02-14,North America,WhatsApp,low
+2025-08-04,South America,Facebook,low
+2025-08-21,Africa,Instagram,medium
+2025-07-12,Asia,Messenger,low
+2025-02-20,South America,Messenger,high
+2025-08-02,Asia,Instagram,low
+2025-05-31,South America,Facebook,low
+2025-03-17,Asia,Messenger,medium
+2025-08-08,Africa,Instagram,low
+2025-07-06,Africa,Instagram,low
+2025-01-28,North America,Instagram,low
+2025-06-29,South America,Messenger,low
+2025-09-10,North America,Messenger,high
+2025-05-06,Europe,Messenger,low
+2025-06-26,Africa,Messenger,low
+2025-02-06,South America,WhatsApp,low
+2025-04-09,North America,Instagram,low
+2025-04-08,North America,WhatsApp,medium
+2025-05-07,Europe,Instagram,high
+2025-06-17,North America,Messenger,medium
+2025-03-21,Asia,Messenger,low
+2025-05-06,Africa,WhatsApp,low
+2025-05-30,North America,Facebook,low
+2025-01-16,North America,Messenger,medium
+2025-01-28,Europe,Facebook,low
+2025-06-22,Asia,Instagram,low
+2025-02-15,North America,WhatsApp,high
+2025-08-24,Africa,Facebook,low
+2025-08-02,Africa,Facebook,low
+2025-03-26,North America,Messenger,low
+2025-08-20,Asia,Facebook,low
+2025-03-26,Africa,Facebook,low
+2025-03-06,Africa,Instagram,low
+2025-05-14,Asia,WhatsApp,low
+2025-05-31,Asia,Messenger,low
+2025-04-25,North America,Messenger,medium
+2025-03-05,South America,Facebook,low
+2025-06-07,Europe,Instagram,medium
+2025-03-18,South America,Facebook,low
+2025-05-26,South America,Facebook,low
+2025-08-13,Africa,Messenger,high
+2025-04-13,Asia,Facebook,low
+2025-03-29,Africa,Facebook,low
+2025-06-17,Europe,Instagram,medium
+2025-06-19,North America,Messenger,low
+2025-05-15,Europe,WhatsApp,low
+2025-02-19,Africa,Instagram,low
+2025-05-14,Africa,Instagram,medium
+2025-05-17,Africa,Instagram,medium
+2025-09-02,Africa,Messenger,low
+2025-04-19,South America,Facebook,low
+2025-01-21,North America,WhatsApp,low
+2025-03-31,South America,Messenger,low
+2025-04-22,Africa,Facebook,low
+2025-03-18,Asia,Instagram,low
+2025-06-26,South America,Messenger,low
+2025-05-28,Africa,Facebook,low
+2025-04-11,Africa,WhatsApp,high
+2025-09-03,North America,WhatsApp,low
+2025-04-27,Europe,Facebook,low
+2025-04-02,South America,Messenger,low
+2025-01-28,South America,Instagram,high
+2025-01-25,South America,Facebook,medium
+2025-02-27,Africa,Instagram,medium
+2025-05-14,North America,WhatsApp,low
+2025-09-06,Africa,Facebook,medium
+2025-02-07,Africa,WhatsApp,low
+2025-03-16,Asia,Instagram,low
+2025-05-22,North America,Instagram,low
+2025-06-17,South America,Facebook,medium
+2025-09-16,Europe,Facebook,medium
+2025-08-13,South America,Facebook,medium
+2025-06-01,Africa,WhatsApp,high
+2025-01-19,North America,Instagram,low
+2025-05-26,North America,Instagram,low
+2025-08-29,North America,WhatsApp,low
+2025-08-25,Asia,Facebook,medium
+2025-02-04,South America,Messenger,low
+2025-07-09,Asia,Facebook,medium
+2025-01-01,Europe,Messenger,low
+2025-06-02,Africa,Messenger,low
+2025-05-06,Asia,WhatsApp,low
+2025-08-14,Asia,Instagram,low
+2025-08-09,Africa,Instagram,medium
+2025-07-30,North America,Instagram,low
+2025-01-25,Africa,Instagram,low
+2025-01-16,South America,WhatsApp,low
+2025-07-01,Africa,Messenger,low
+2025-05-09,North America,Instagram,low
+2025-02-11,Africa,Messenger,low
+2025-08-24,Asia,WhatsApp,medium
+2025-02-03,Europe,Facebook,low
+2025-02-14,Asia,WhatsApp,low
+2025-05-14,Europe,Instagram,low
+2025-01-21,Africa,Facebook,low
+2025-05-02,South America,WhatsApp,low
+2025-03-11,Africa,WhatsApp,low
+2025-02-17,North America,Messenger,low
+2025-02-08,Africa,WhatsApp,medium
+2025-01-10,Europe,Facebook,low
+2025-01-30,Asia,WhatsApp,medium
+2025-09-01,South America,Instagram,high
+2025-03-29,Africa,Messenger,low
+2025-09-01,Africa,Facebook,low
+2025-01-15,Asia,Facebook,low
+2025-01-04,South America,WhatsApp,low
+2025-07-10,Africa,Instagram,medium
+2025-06-17,Africa,Messenger,medium
+2025-01-09,Europe,Facebook,low
+2025-04-19,Europe,Messenger,low
+2025-05-17,North America,WhatsApp,low
+2025-06-03,Asia,Instagram,low
+2025-07-28,South America,WhatsApp,medium
+2025-05-23,Africa,Messenger,low
+2025-04-09,Africa,WhatsApp,low
+2025-03-10,North America,Messenger,medium
+2025-09-04,Africa,Facebook,low
+2025-09-18,Asia,Facebook,low
+2025-03-20,North America,WhatsApp,low
+2025-05-26,Asia,Facebook,low
+2025-04-21,North America,Messenger,medium
+2025-09-15,Africa,Facebook,medium
+2025-04-03,North America,Instagram,low
+2025-01-13,Europe,Instagram,high
+2025-09-17,South America,WhatsApp,low
+2025-04-19,Africa,WhatsApp,medium
+2025-07-08,South America,WhatsApp,medium
+2025-04-05,Africa,WhatsApp,low
+2025-04-15,South America,Messenger,medium
+2025-01-08,Europe,Messenger,low
+2025-03-08,South America,Instagram,low
+2025-07-10,North America,Messenger,medium
+2025-09-13,South America,Facebook,medium
+2025-01-09,Africa,Instagram,medium
+2025-04-27,Asia,WhatsApp,medium
+2025-09-24,South America,WhatsApp,low
+2025-04-09,South America,Messenger,low
+2025-06-13,South America,Instagram,high
+2025-05-21,Africa,Messenger,low
+2025-09-25,South America,Messenger,medium
+2025-02-06,Africa,Messenger,low
+2025-03-15,Africa,Instagram,medium
+2025-03-14,Asia,WhatsApp,low
+2025-07-18,North America,Facebook,high
+2025-05-10,Africa,WhatsApp,low
+2025-09-03,Europe,Instagram,high
+2025-03-01,South America,WhatsApp,low
+2025-04-13,Europe,WhatsApp,low
+2025-05-31,South America,Facebook,medium
+2025-06-06,Asia,WhatsApp,medium
+2025-07-25,Africa,WhatsApp,high
+2025-06-28,North America,WhatsApp,low
+2025-07-16,Africa,Messenger,low
+2025-08-11,South America,Instagram,low
+2025-03-30,North America,Instagram,low
+2025-08-24,Africa,Facebook,high
+2025-07-02,North America,Messenger,low
+2025-07-28,South America,Messenger,low
+2025-05-10,Asia,WhatsApp,low
+2025-06-02,Asia,Instagram,low
+2025-01-13,Africa,Facebook,low
+2025-05-02,Europe,Messenger,low
+2025-08-08,South America,WhatsApp,low
+2025-04-16,Africa,Facebook,low
+2025-03-11,Africa,Messenger,high
+2025-07-14,Asia,Facebook,low
+2025-07-05,North America,Messenger,low
+2025-04-09,South America,Facebook,high
+2025-03-23,North America,Messenger,medium
+2025-03-16,South America,Messenger,high
+2025-07-11,Europe,Facebook,high
+2025-08-02,Asia,Messenger,low
+2025-05-24,Europe,Messenger,medium
+2025-08-04,Africa,Messenger,low
+2025-01-15,Asia,Facebook,low
+2025-08-05,Africa,Facebook,medium
+2025-02-04,Europe,Messenger,low
+2025-07-02,South America,Messenger,medium
+2025-09-27,Africa,Facebook,medium
+2025-04-10,North America,WhatsApp,low
+2025-01-07,South America,Messenger,medium
+2025-01-30,South America,WhatsApp,low
+2025-05-24,Europe,Facebook,low
+2025-04-21,Europe,Messenger,medium
+2025-08-20,Asia,WhatsApp,low
+2025-06-28,Asia,Facebook,medium
+2025-03-13,North America,WhatsApp,low
+2025-07-29,South America,Instagram,low
+2025-08-08,North America,Facebook,medium
+2025-03-21,North America,Instagram,low
+2025-03-24,Europe,Facebook,low
+2025-02-11,North America,Facebook,low
+2025-07-10,North America,Messenger,medium
+2025-06-22,Africa,Instagram,low
+2025-01-07,Asia,Instagram,medium
+2025-06-04,Asia,Instagram,low
+2025-01-10,South America,Facebook,medium
+2025-02-03,Asia,Instagram,high
+2025-02-05,South America,Instagram,low
+2025-01-06,Africa,Messenger,low
+2025-08-03,Asia,WhatsApp,medium
+2025-05-14,Africa,WhatsApp,medium
+2025-05-06,Asia,Instagram,low
+2025-06-23,Asia,Instagram,medium
+2025-06-01,Africa,Instagram,medium
+2025-01-26,North America,Instagram,medium
+2025-04-25,North America,WhatsApp,medium
+2025-03-16,North America,Messenger,low
+2025-06-15,North America,Facebook,high
+2025-07-08,Asia,Instagram,low
+2025-03-19,Europe,Instagram,low
+2025-03-31,Africa,WhatsApp,low
+2025-06-25,Europe,Instagram,low
+2025-01-21,Europe,Messenger,low
+2025-02-23,South America,Messenger,low
+2025-07-03,North America,Instagram,low
+2025-08-10,Asia,WhatsApp,medium
+2025-06-28,North America,Instagram,low
+2025-04-22,North America,Instagram,low
+2025-08-12,Europe,WhatsApp,low
+2025-08-02,South America,Messenger,low
+2025-02-28,North America,Facebook,low
+2025-04-19,Africa,Instagram,low
+2025-06-06,Africa,Messenger,high
+2025-07-10,North America,Instagram,medium
+2025-07-19,Europe,Facebook,medium
+2025-07-15,Europe,WhatsApp,low
+2025-02-04,Asia,Messenger,low
+2025-09-03,South America,Facebook,low
+2025-08-25,Europe,Instagram,medium
+2025-04-14,Asia,Facebook,low
+2025-01-07,Africa,Messenger,low
+2025-01-01,Africa,WhatsApp,low
+2025-08-07,Africa,Instagram,low
+2025-08-18,North America,WhatsApp,high
+2025-06-21,South America,WhatsApp,medium
+2025-03-28,Asia,Facebook,medium
+2025-02-10,South America,Facebook,low
+2025-05-03,North America,Messenger,medium
+2025-06-27,Asia,Messenger,medium
+2025-03-04,Asia,WhatsApp,high
+2025-06-14,Europe,Messenger,low
+2025-07-06,South America,WhatsApp,low
+2025-07-28,South America,Instagram,medium
+2025-08-15,Europe,WhatsApp,low
+2025-02-17,Africa,Messenger,medium
+2025-08-12,North America,Messenger,high
+2025-01-03,South America,WhatsApp,low
+2025-06-24,Europe,Facebook,low
+2025-04-09,Asia,WhatsApp,low
+2025-04-26,Europe,WhatsApp,medium
+2025-09-27,Africa,Facebook,medium
+2025-09-10,North America,Instagram,low
+2025-04-05,Africa,Facebook,low
+2025-01-24,Asia,Messenger,low
+2025-04-26,Asia,Facebook,medium
+2025-05-31,Asia,Messenger,low
+2025-02-19,Asia,Messenger,low
+2025-07-25,Europe,WhatsApp,medium
+2025-03-20,Asia,WhatsApp,low
+2025-03-11,Asia,Instagram,low
+2025-01-27,Europe,Messenger,low
+2025-09-28,Asia,WhatsApp,low
+2025-02-19,Africa,Messenger,low
+2025-09-04,Africa,Instagram,high
+2025-09-21,South America,Messenger,medium
+2025-03-20,Africa,Instagram,medium
+2025-07-09,North America,Instagram,high
+2025-02-16,North America,Instagram,low
+2025-07-08,North America,WhatsApp,low
+2025-09-13,Europe,Facebook,low
+2025-08-10,Africa,Facebook,medium
+2025-08-29,North America,WhatsApp,medium
+2025-09-26,South America,Messenger,low
+2025-01-01,Europe,WhatsApp,low
+2025-02-03,South America,Messenger,low
+2025-03-20,Africa,Instagram,low
+2025-08-24,Asia,WhatsApp,medium
+2025-04-08,South America,Facebook,low
+2025-03-23,Asia,Messenger,high
+2025-07-11,Europe,WhatsApp,low
+2025-09-10,South America,WhatsApp,medium
+2025-02-07,South America,Messenger,high
+2025-01-14,Europe,Instagram,high
+2025-07-28,Europe,Instagram,low
+2025-03-30,North America,Instagram,low
+2025-02-25,Africa,Instagram,low
+2025-04-04,South America,Messenger,low
+2025-04-03,South America,Facebook,medium
+2025-03-26,Europe,WhatsApp,high
+2025-09-02,Europe,WhatsApp,low
+2025-01-22,Africa,Instagram,low
+2025-05-02,Europe,Messenger,low
+2025-05-08,Asia,Facebook,medium
+2025-04-23,Asia,Facebook,high
+2025-05-10,Asia,WhatsApp,low
+2025-05-12,Asia,Instagram,low
+2025-03-26,Africa,WhatsApp,medium
+2025-03-22,South America,WhatsApp,medium
+2025-03-10,Asia,Facebook,low
+2025-05-28,Europe,Messenger,medium
+2025-01-16,Asia,Facebook,high
+2025-04-15,Africa,WhatsApp,low
+2025-06-14,Europe,Instagram,low
+2025-07-20,Asia,Instagram,low
+2025-07-16,South America,Messenger,low
+2025-07-04,Europe,Messenger,low
+2025-09-22,Europe,Messenger,low
+2025-04-10,South America,WhatsApp,low
+2025-08-02,Europe,WhatsApp,low
+2025-06-11,Asia,Messenger,low
+2025-06-06,Europe,Instagram,low
+2025-09-08,Asia,Instagram,medium
+2025-04-07,South America,Instagram,medium
+2025-01-18,North America,WhatsApp,low
+2025-04-07,South America,Facebook,low
+2025-01-01,Asia,Instagram,medium
+2025-08-04,Africa,Instagram,low
+2025-05-12,South America,Instagram,high
+2025-09-17,Africa,Messenger,low
+2025-05-05,Africa,WhatsApp,medium
+2025-03-23,Asia,Messenger,low
+2025-06-20,Asia,Messenger,medium
+2025-02-28,North America,Facebook,medium
+2025-02-01,Europe,Messenger,high
+2025-06-10,South America,Facebook,high
+2025-04-16,Asia,Messenger,low
+2025-04-15,South America,Instagram,low
+2025-08-16,Africa,WhatsApp,low
+2025-07-07,Europe,Messenger,low
+2025-03-11,North America,Facebook,low
+2025-03-28,South America,WhatsApp,medium
+2025-02-25,Europe,Facebook,high
+2025-04-23,North America,Instagram,low
+2025-01-13,South America,Messenger,low
+2025-01-18,Europe,WhatsApp,low
+2025-07-01,Asia,Instagram,medium
+2025-04-23,South America,Messenger,low
+2025-08-17,Europe,Messenger,high
+2025-06-20,North America,Facebook,medium
+2025-07-08,Europe,Facebook,medium
+2025-03-20,Asia,Instagram,low
+2025-05-26,South America,Facebook,low
+2025-07-01,South America,Instagram,high
+2025-09-07,South America,Instagram,medium
+2025-07-15,Asia,Instagram,high
+2025-03-12,North America,Facebook,low
+2025-09-05,South America,WhatsApp,medium
+2025-05-26,North America,Instagram,low
+2025-04-16,Europe,WhatsApp,medium
+2025-09-20,North America,Messenger,medium
+2025-03-11,North America,Facebook,medium
+2025-07-12,South America,Facebook,medium
+2025-03-09,Africa,WhatsApp,low
+2025-02-21,Africa,Messenger,high
+2025-01-09,Asia,Messenger,high
+2025-09-08,Asia,Instagram,low
+2025-07-03,Africa,Facebook,high
+2025-06-28,Europe,Messenger,low
+2025-07-17,South America,Messenger,medium
+2025-05-08,South America,Instagram,low
+2025-01-20,Europe,Instagram,high
+2025-03-06,Europe,WhatsApp,low
+2025-07-01,Africa,Facebook,low
+2025-08-29,Asia,Messenger,low
