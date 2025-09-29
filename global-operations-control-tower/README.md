@@ -1,6 +1,6 @@
 # 🌐 Global Operations Control Tower
 
-A **Streamlit dashboard** designed for the global operations team of a social media company. This control tower provides real-time visibility into compliance scores, response times, and security incident reporting across regions.
+A **Streamlit dashboard** designed for the global operations team. This control tower provides real-time visibility into compliance scores, response times, and security incident reporting across regions.
 
 ## 🚀 Features
 
@@ -13,5 +13,6 @@ A **Streamlit dashboard** designed for the global operations team of a social me
 
 ## ▶️ Usage
 streamlit run control_tower.py
+
 
 
