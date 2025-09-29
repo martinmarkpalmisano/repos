@@ -1,6 +1,7 @@
 # 🌐 Global Operations Control Tower
 
 A **Streamlit dashboard** designed for the global operations team. This control tower provides real-time visibility into compliance scores, response times, and security incident reporting across regions.
+
 I'm replicating the dashboard in Tableau. In the meantime, the .twbx file is saved as "_dev".
 
 ## 🚀 Features
@@ -14,6 +15,7 @@ I'm replicating the dashboard in Tableau. In the meantime, the .twbx file is sav
 
 ## ▶️ Usage
 streamlit run control_tower.py
+
 
 
 
